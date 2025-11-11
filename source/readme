@@ -1,0 +1,11 @@
+BFS Execution Guide
+1.modify the myHosts file as per the hosts which we want to run on
+2.Copy over the projectMPIAndCUDA folder to required nodes under home folder ('~')
+3.Build the binaries on nodes if required (optional)
+4.Issue make run command with nprocs variable set to no of processes you want to run on
+Example command "make run nprocs=2"
+5.We can use additional variables csrPath, vertex to give input to the program
+csrPath: represents the path to csr representation of graph in csv format
+0th row with row consisting row pointers and 1st row consisting of column Indices 
+Both are delimited by ',' (comma)
+6.The output of the program is saved under the logs folder under /projectMPIAndCUDA as out_$(nprocs)_procs where $(nprocs) represents the value passed to nprocs variable in make run command

@@ -1,0 +1,80 @@
+For Rank 0 the length of srcPtrs: 4847572 dst: 68993773
+For Rank 0 srcPrts and dst arrays are created
+prop.name=Quadro M1200
+prop.multiProcessorCount=5
+prop.major=5 minor=0
+prop.maxThreadsPerBlock=1024
+maxThreadsDim.x=1024 maxThreadsDim.y=1024 maxThreadsDim.z=64
+prop.maxGridSize.x=2147483647 maxGridSize.y=65535 maxGridSize.z=65535
+prop.maxThreadsPerMultiProcessor=2048
+prop.totalGlobalMem=4233363456
+prop.regsPerBlock=65536
+
+For Rank 0frontier search cstarted
+Initial Scatter For Rank 0 numCurrFrontier 2155 numVertices 4847571 my work 1077
+For Rank 0 Level 2ndary BFS has ended
+For Rank 0 No of frontiers discovered59180
+For Rank 0 Total No of frontiers discovered112259
+Initial Scatter from root complete
+Loop BFS For Rank 0 Level 4 numCurrFrontier 112259 numVertices 4847571 my work 56129
+At level 4 Grid size 1755 gpu numPrevFrontier 56129
+For my rank 0 At level 4 gpu Current frontier 823403
+Loop BFS For Ended Rank 0 Level 4
+For Loop Rank 0 Level 4 Total No of frontiers discovered 1689398
+For Rank 0 All frontiers gathered New unique count 1689398
+
+Loop BFS For Rank 0 Level 5 numCurrFrontier 1689398 numVertices 4847571 my work 844699
+At level 5 Grid size 26397 gpu numPrevFrontier 844699
+For my rank 0 At level 5 gpu Current frontier 1835862
+Loop BFS For Ended Rank 0 Level 5
+For Loop Rank 0 Level 5 Total No of frontiers discovered 3740812
+For Rank 0 All frontiers gathered New unique count 3740812
+
+Loop BFS For Rank 0 Level 6 numCurrFrontier 3740812 numVertices 4847571 my work 1870406
+At level 6 Grid size 58451 gpu numPrevFrontier 1870406
+For my rank 0 At level 6 gpu Current frontier 741223
+Loop BFS For Ended Rank 0 Level 6
+For Loop Rank 0 Level 6 Total No of frontiers discovered 1493319
+For Rank 0 All frontiers gathered New unique count 1493319
+
+Loop BFS For Rank 0 Level 7 numCurrFrontier 1493319 numVertices 4847571 my work 746659
+At level 7 Grid size 23334 gpu numPrevFrontier 746659
+For my rank 0 At level 7 gpu Current frontier 112244
+Loop BFS For Ended Rank 0 Level 7
+For Loop Rank 0 Level 7 Total No of frontiers discovered 226127
+For Rank 0 All frontiers gathered New unique count 226127
+
+Loop BFS For Rank 0 Level 8 numCurrFrontier 226127 numVertices 4847571 my work 113063
+At level 8 Grid size 3534 gpu numPrevFrontier 113063
+For my rank 0 At level 8 gpu Current frontier 16342
+Loop BFS For Ended Rank 0 Level 8
+For Loop Rank 0 Level 8 Total No of frontiers discovered 32988
+For Rank 0 All frontiers gathered New unique count 32988
+
+Loop BFS For Rank 0 Level 9 numCurrFrontier 32988 numVertices 4847571 my work 16494
+At level 9 Grid size 516 gpu numPrevFrontier 16494
+For my rank 0 At level 9 gpu Current frontier 2841
+Loop BFS For Ended Rank 0 Level 9
+For Loop Rank 0 Level 9 Total No of frontiers discovered 5768
+For Rank 0 All frontiers gathered New unique count 5768
+
+Loop BFS For Rank 0 Level 10 numCurrFrontier 5768 numVertices 4847571 my work 2884
+At level 10 Grid size 91 gpu numPrevFrontier 2884
+For my rank 0 At level 10 gpu Current frontier 627
+Loop BFS For Ended Rank 0 Level 10
+For Loop Rank 0 Level 10 Total No of frontiers discovered 1224
+For Rank 0 All frontiers gathered New unique count 1224
+
+Loop BFS For Rank 0 Level 11 numCurrFrontier 1224 numVertices 4847571 my work 612
+At level 11 Grid size 20 gpu numPrevFrontier 612
+For my rank 0 At level 11 gpu Current frontier 124
+Loop BFS For Ended Rank 0 Level 11
+For Loop Rank 0 Level 11 Total No of frontiers discovered 286
+For Rank 0 All frontiers gathered New unique count 286
+
+Entered last loop to complete BFS
+mpi time: rank=0: 2 procs: 648 msecs
+For Rank 0frontier search completed
+ Number of reachable vertices 4400347Max level14
+ Number of reachable vertices by CPU 4400347Max level14
+cpu time: rank=0: 2 procs: 1027 msecs

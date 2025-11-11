@@ -1,0 +1,3279 @@
+For Rank 0 the length of srcPtrs: 1971282 dst: 5533214
+For Rank 0 srcPrts and dst arrays are created
+prop.name=Quadro M1200
+prop.multiProcessorCount=5
+prop.major=5 minor=0
+prop.maxThreadsPerBlock=1024
+maxThreadsDim.x=1024 maxThreadsDim.y=1024 maxThreadsDim.z=64
+prop.maxGridSize.x=2147483647 maxGridSize.y=65535 maxGridSize.z=65535
+prop.maxThreadsPerMultiProcessor=2048
+prop.totalGlobalMem=4233363456
+prop.regsPerBlock=65536
+
+For Rank 0frontier search cstarted
+Initial Scatter For Rank 0 numCurrFrontier 1081 numVertices 1971281 my work 1081
+For Rank 0 Level 2ndary BFS has ended
+For Rank 0 No of frontiers discovered1129
+For Rank 0 Total No of frontiers discovered1129
+Initial Scatter from root complete
+Loop BFS For Rank 0 Level 47 numCurrFrontier 1129 numVertices 1971281 my work 1129
+At level 47 Grid size 36 gpu numPrevFrontier 1129
+For my rank 0 At level 47 gpu Current frontier 1163
+Loop BFS For Ended Rank 0 Level 47
+For Loop Rank 0 Level 47 Total No of frontiers discovered 1163
+For Rank 0 All frontiers gathered New unique count 1163
+
+Loop BFS For Rank 0 Level 48 numCurrFrontier 1163 numVertices 1971281 my work 1163
+At level 48 Grid size 37 gpu numPrevFrontier 1163
+For my rank 0 At level 48 gpu Current frontier 1224
+Loop BFS For Ended Rank 0 Level 48
+For Loop Rank 0 Level 48 Total No of frontiers discovered 1224
+For Rank 0 All frontiers gathered New unique count 1224
+
+Loop BFS For Rank 0 Level 49 numCurrFrontier 1224 numVertices 1971281 my work 1224
+At level 49 Grid size 39 gpu numPrevFrontier 1224
+For my rank 0 At level 49 gpu Current frontier 1367
+Loop BFS For Ended Rank 0 Level 49
+For Loop Rank 0 Level 49 Total No of frontiers discovered 1367
+For Rank 0 All frontiers gathered New unique count 1367
+
+Loop BFS For Rank 0 Level 50 numCurrFrontier 1367 numVertices 1971281 my work 1367
+At level 50 Grid size 43 gpu numPrevFrontier 1367
+For my rank 0 At level 50 gpu Current frontier 1442
+Loop BFS For Ended Rank 0 Level 50
+For Loop Rank 0 Level 50 Total No of frontiers discovered 1442
+For Rank 0 All frontiers gathered New unique count 1442
+
+Loop BFS For Rank 0 Level 51 numCurrFrontier 1442 numVertices 1971281 my work 1442
+At level 51 Grid size 46 gpu numPrevFrontier 1442
+For my rank 0 At level 51 gpu Current frontier 1458
+Loop BFS For Ended Rank 0 Level 51
+For Loop Rank 0 Level 51 Total No of frontiers discovered 1458
+For Rank 0 All frontiers gathered New unique count 1458
+
+Loop BFS For Rank 0 Level 52 numCurrFrontier 1458 numVertices 1971281 my work 1458
+At level 52 Grid size 46 gpu numPrevFrontier 1458
+For my rank 0 At level 52 gpu Current frontier 1442
+Loop BFS For Ended Rank 0 Level 52
+For Loop Rank 0 Level 52 Total No of frontiers discovered 1442
+For Rank 0 All frontiers gathered New unique count 1442
+
+Loop BFS For Rank 0 Level 53 numCurrFrontier 1442 numVertices 1971281 my work 1442
+At level 53 Grid size 46 gpu numPrevFrontier 1442
+For my rank 0 At level 53 gpu Current frontier 1482
+Loop BFS For Ended Rank 0 Level 53
+For Loop Rank 0 Level 53 Total No of frontiers discovered 1482
+For Rank 0 All frontiers gathered New unique count 1482
+
+Loop BFS For Rank 0 Level 54 numCurrFrontier 1482 numVertices 1971281 my work 1482
+At level 54 Grid size 47 gpu numPrevFrontier 1482
+For my rank 0 At level 54 gpu Current frontier 1497
+Loop BFS For Ended Rank 0 Level 54
+For Loop Rank 0 Level 54 Total No of frontiers discovered 1497
+For Rank 0 All frontiers gathered New unique count 1497
+
+Loop BFS For Rank 0 Level 55 numCurrFrontier 1497 numVertices 1971281 my work 1497
+At level 55 Grid size 47 gpu numPrevFrontier 1497
+For my rank 0 At level 55 gpu Current frontier 1487
+Loop BFS For Ended Rank 0 Level 55
+For Loop Rank 0 Level 55 Total No of frontiers discovered 1487
+For Rank 0 All frontiers gathered New unique count 1487
+
+Loop BFS For Rank 0 Level 56 numCurrFrontier 1487 numVertices 1971281 my work 1487
+At level 56 Grid size 47 gpu numPrevFrontier 1487
+For my rank 0 At level 56 gpu Current frontier 1573
+Loop BFS For Ended Rank 0 Level 56
+For Loop Rank 0 Level 56 Total No of frontiers discovered 1573
+For Rank 0 All frontiers gathered New unique count 1573
+
+Loop BFS For Rank 0 Level 57 numCurrFrontier 1573 numVertices 1971281 my work 1573
+At level 57 Grid size 50 gpu numPrevFrontier 1573
+For my rank 0 At level 57 gpu Current frontier 1671
+Loop BFS For Ended Rank 0 Level 57
+For Loop Rank 0 Level 57 Total No of frontiers discovered 1671
+For Rank 0 All frontiers gathered New unique count 1671
+
+Loop BFS For Rank 0 Level 58 numCurrFrontier 1671 numVertices 1971281 my work 1671
+At level 58 Grid size 53 gpu numPrevFrontier 1671
+For my rank 0 At level 58 gpu Current frontier 1724
+Loop BFS For Ended Rank 0 Level 58
+For Loop Rank 0 Level 58 Total No of frontiers discovered 1724
+For Rank 0 All frontiers gathered New unique count 1724
+
+Loop BFS For Rank 0 Level 59 numCurrFrontier 1724 numVertices 1971281 my work 1724
+At level 59 Grid size 54 gpu numPrevFrontier 1724
+For my rank 0 At level 59 gpu Current frontier 1804
+Loop BFS For Ended Rank 0 Level 59
+For Loop Rank 0 Level 59 Total No of frontiers discovered 1804
+For Rank 0 All frontiers gathered New unique count 1804
+
+Loop BFS For Rank 0 Level 60 numCurrFrontier 1804 numVertices 1971281 my work 1804
+At level 60 Grid size 57 gpu numPrevFrontier 1804
+For my rank 0 At level 60 gpu Current frontier 1882
+Loop BFS For Ended Rank 0 Level 60
+For Loop Rank 0 Level 60 Total No of frontiers discovered 1882
+For Rank 0 All frontiers gathered New unique count 1882
+
+Loop BFS For Rank 0 Level 61 numCurrFrontier 1882 numVertices 1971281 my work 1882
+At level 61 Grid size 59 gpu numPrevFrontier 1882
+For my rank 0 At level 61 gpu Current frontier 1965
+Loop BFS For Ended Rank 0 Level 61
+For Loop Rank 0 Level 61 Total No of frontiers discovered 1965
+For Rank 0 All frontiers gathered New unique count 1965
+
+Loop BFS For Rank 0 Level 62 numCurrFrontier 1965 numVertices 1971281 my work 1965
+At level 62 Grid size 62 gpu numPrevFrontier 1965
+For my rank 0 At level 62 gpu Current frontier 2046
+Loop BFS For Ended Rank 0 Level 62
+For Loop Rank 0 Level 62 Total No of frontiers discovered 2046
+For Rank 0 All frontiers gathered New unique count 2046
+
+Loop BFS For Rank 0 Level 63 numCurrFrontier 2046 numVertices 1971281 my work 2046
+At level 63 Grid size 64 gpu numPrevFrontier 2046
+For my rank 0 At level 63 gpu Current frontier 2101
+Loop BFS For Ended Rank 0 Level 63
+For Loop Rank 0 Level 63 Total No of frontiers discovered 2101
+For Rank 0 All frontiers gathered New unique count 2101
+
+Loop BFS For Rank 0 Level 64 numCurrFrontier 2101 numVertices 1971281 my work 2101
+At level 64 Grid size 66 gpu numPrevFrontier 2101
+For my rank 0 At level 64 gpu Current frontier 2191
+Loop BFS For Ended Rank 0 Level 64
+For Loop Rank 0 Level 64 Total No of frontiers discovered 2191
+For Rank 0 All frontiers gathered New unique count 2191
+
+Loop BFS For Rank 0 Level 65 numCurrFrontier 2191 numVertices 1971281 my work 2191
+At level 65 Grid size 69 gpu numPrevFrontier 2191
+For my rank 0 At level 65 gpu Current frontier 2348
+Loop BFS For Ended Rank 0 Level 65
+For Loop Rank 0 Level 65 Total No of frontiers discovered 2348
+For Rank 0 All frontiers gathered New unique count 2348
+
+Loop BFS For Rank 0 Level 66 numCurrFrontier 2348 numVertices 1971281 my work 2348
+At level 66 Grid size 74 gpu numPrevFrontier 2348
+For my rank 0 At level 66 gpu Current frontier 2429
+Loop BFS For Ended Rank 0 Level 66
+For Loop Rank 0 Level 66 Total No of frontiers discovered 2429
+For Rank 0 All frontiers gathered New unique count 2429
+
+Loop BFS For Rank 0 Level 67 numCurrFrontier 2429 numVertices 1971281 my work 2429
+At level 67 Grid size 76 gpu numPrevFrontier 2429
+For my rank 0 At level 67 gpu Current frontier 2482
+Loop BFS For Ended Rank 0 Level 67
+For Loop Rank 0 Level 67 Total No of frontiers discovered 2482
+For Rank 0 All frontiers gathered New unique count 2482
+
+Loop BFS For Rank 0 Level 68 numCurrFrontier 2482 numVertices 1971281 my work 2482
+At level 68 Grid size 78 gpu numPrevFrontier 2482
+For my rank 0 At level 68 gpu Current frontier 2702
+Loop BFS For Ended Rank 0 Level 68
+For Loop Rank 0 Level 68 Total No of frontiers discovered 2702
+For Rank 0 All frontiers gathered New unique count 2702
+
+Loop BFS For Rank 0 Level 69 numCurrFrontier 2702 numVertices 1971281 my work 2702
+At level 69 Grid size 85 gpu numPrevFrontier 2702
+For my rank 0 At level 69 gpu Current frontier 2973
+Loop BFS For Ended Rank 0 Level 69
+For Loop Rank 0 Level 69 Total No of frontiers discovered 2973
+For Rank 0 All frontiers gathered New unique count 2973
+
+Loop BFS For Rank 0 Level 70 numCurrFrontier 2973 numVertices 1971281 my work 2973
+At level 70 Grid size 93 gpu numPrevFrontier 2973
+For my rank 0 At level 70 gpu Current frontier 3143
+Loop BFS For Ended Rank 0 Level 70
+For Loop Rank 0 Level 70 Total No of frontiers discovered 3143
+For Rank 0 All frontiers gathered New unique count 3143
+
+Loop BFS For Rank 0 Level 71 numCurrFrontier 3143 numVertices 1971281 my work 3143
+At level 71 Grid size 99 gpu numPrevFrontier 3143
+For my rank 0 At level 71 gpu Current frontier 3303
+Loop BFS For Ended Rank 0 Level 71
+For Loop Rank 0 Level 71 Total No of frontiers discovered 3303
+For Rank 0 All frontiers gathered New unique count 3303
+
+Loop BFS For Rank 0 Level 72 numCurrFrontier 3303 numVertices 1971281 my work 3303
+At level 72 Grid size 104 gpu numPrevFrontier 3303
+For my rank 0 At level 72 gpu Current frontier 3399
+Loop BFS For Ended Rank 0 Level 72
+For Loop Rank 0 Level 72 Total No of frontiers discovered 3399
+For Rank 0 All frontiers gathered New unique count 3399
+
+Loop BFS For Rank 0 Level 73 numCurrFrontier 3399 numVertices 1971281 my work 3399
+At level 73 Grid size 107 gpu numPrevFrontier 3399
+For my rank 0 At level 73 gpu Current frontier 3359
+Loop BFS For Ended Rank 0 Level 73
+For Loop Rank 0 Level 73 Total No of frontiers discovered 3359
+For Rank 0 All frontiers gathered New unique count 3359
+
+Loop BFS For Rank 0 Level 74 numCurrFrontier 3359 numVertices 1971281 my work 3359
+At level 74 Grid size 105 gpu numPrevFrontier 3359
+For my rank 0 At level 74 gpu Current frontier 3486
+Loop BFS For Ended Rank 0 Level 74
+For Loop Rank 0 Level 74 Total No of frontiers discovered 3486
+For Rank 0 All frontiers gathered New unique count 3486
+
+Loop BFS For Rank 0 Level 75 numCurrFrontier 3486 numVertices 1971281 my work 3486
+At level 75 Grid size 109 gpu numPrevFrontier 3486
+For my rank 0 At level 75 gpu Current frontier 3487
+Loop BFS For Ended Rank 0 Level 75
+For Loop Rank 0 Level 75 Total No of frontiers discovered 3487
+For Rank 0 All frontiers gathered New unique count 3487
+
+Loop BFS For Rank 0 Level 76 numCurrFrontier 3487 numVertices 1971281 my work 3487
+At level 76 Grid size 109 gpu numPrevFrontier 3487
+For my rank 0 At level 76 gpu Current frontier 3550
+Loop BFS For Ended Rank 0 Level 76
+For Loop Rank 0 Level 76 Total No of frontiers discovered 3550
+For Rank 0 All frontiers gathered New unique count 3550
+
+Loop BFS For Rank 0 Level 77 numCurrFrontier 3550 numVertices 1971281 my work 3550
+At level 77 Grid size 111 gpu numPrevFrontier 3550
+For my rank 0 At level 77 gpu Current frontier 3537
+Loop BFS For Ended Rank 0 Level 77
+For Loop Rank 0 Level 77 Total No of frontiers discovered 3537
+For Rank 0 All frontiers gathered New unique count 3537
+
+Loop BFS For Rank 0 Level 78 numCurrFrontier 3537 numVertices 1971281 my work 3537
+At level 78 Grid size 111 gpu numPrevFrontier 3537
+For my rank 0 At level 78 gpu Current frontier 3428
+Loop BFS For Ended Rank 0 Level 78
+For Loop Rank 0 Level 78 Total No of frontiers discovered 3428
+For Rank 0 All frontiers gathered New unique count 3428
+
+Loop BFS For Rank 0 Level 79 numCurrFrontier 3428 numVertices 1971281 my work 3428
+At level 79 Grid size 108 gpu numPrevFrontier 3428
+For my rank 0 At level 79 gpu Current frontier 3285
+Loop BFS For Ended Rank 0 Level 79
+For Loop Rank 0 Level 79 Total No of frontiers discovered 3285
+For Rank 0 All frontiers gathered New unique count 3285
+
+Loop BFS For Rank 0 Level 80 numCurrFrontier 3285 numVertices 1971281 my work 3285
+At level 80 Grid size 103 gpu numPrevFrontier 3285
+For my rank 0 At level 80 gpu Current frontier 3262
+Loop BFS For Ended Rank 0 Level 80
+For Loop Rank 0 Level 80 Total No of frontiers discovered 3262
+For Rank 0 All frontiers gathered New unique count 3262
+
+Loop BFS For Rank 0 Level 81 numCurrFrontier 3262 numVertices 1971281 my work 3262
+At level 81 Grid size 102 gpu numPrevFrontier 3262
+For my rank 0 At level 81 gpu Current frontier 3316
+Loop BFS For Ended Rank 0 Level 81
+For Loop Rank 0 Level 81 Total No of frontiers discovered 3316
+For Rank 0 All frontiers gathered New unique count 3316
+
+Loop BFS For Rank 0 Level 82 numCurrFrontier 3316 numVertices 1971281 my work 3316
+At level 82 Grid size 104 gpu numPrevFrontier 3316
+For my rank 0 At level 82 gpu Current frontier 3285
+Loop BFS For Ended Rank 0 Level 82
+For Loop Rank 0 Level 82 Total No of frontiers discovered 3285
+For Rank 0 All frontiers gathered New unique count 3285
+
+Loop BFS For Rank 0 Level 83 numCurrFrontier 3285 numVertices 1971281 my work 3285
+At level 83 Grid size 103 gpu numPrevFrontier 3285
+For my rank 0 At level 83 gpu Current frontier 3306
+Loop BFS For Ended Rank 0 Level 83
+For Loop Rank 0 Level 83 Total No of frontiers discovered 3306
+For Rank 0 All frontiers gathered New unique count 3306
+
+Loop BFS For Rank 0 Level 84 numCurrFrontier 3306 numVertices 1971281 my work 3306
+At level 84 Grid size 104 gpu numPrevFrontier 3306
+For my rank 0 At level 84 gpu Current frontier 3446
+Loop BFS For Ended Rank 0 Level 84
+For Loop Rank 0 Level 84 Total No of frontiers discovered 3446
+For Rank 0 All frontiers gathered New unique count 3446
+
+Loop BFS For Rank 0 Level 85 numCurrFrontier 3446 numVertices 1971281 my work 3446
+At level 85 Grid size 108 gpu numPrevFrontier 3446
+For my rank 0 At level 85 gpu Current frontier 3606
+Loop BFS For Ended Rank 0 Level 85
+For Loop Rank 0 Level 85 Total No of frontiers discovered 3606
+For Rank 0 All frontiers gathered New unique count 3606
+
+Loop BFS For Rank 0 Level 86 numCurrFrontier 3606 numVertices 1971281 my work 3606
+At level 86 Grid size 113 gpu numPrevFrontier 3606
+For my rank 0 At level 86 gpu Current frontier 3728
+Loop BFS For Ended Rank 0 Level 86
+For Loop Rank 0 Level 86 Total No of frontiers discovered 3728
+For Rank 0 All frontiers gathered New unique count 3728
+
+Loop BFS For Rank 0 Level 87 numCurrFrontier 3728 numVertices 1971281 my work 3728
+At level 87 Grid size 117 gpu numPrevFrontier 3728
+For my rank 0 At level 87 gpu Current frontier 3807
+Loop BFS For Ended Rank 0 Level 87
+For Loop Rank 0 Level 87 Total No of frontiers discovered 3807
+For Rank 0 All frontiers gathered New unique count 3807
+
+Loop BFS For Rank 0 Level 88 numCurrFrontier 3807 numVertices 1971281 my work 3807
+At level 88 Grid size 119 gpu numPrevFrontier 3807
+For my rank 0 At level 88 gpu Current frontier 3916
+Loop BFS For Ended Rank 0 Level 88
+For Loop Rank 0 Level 88 Total No of frontiers discovered 3916
+For Rank 0 All frontiers gathered New unique count 3916
+
+Loop BFS For Rank 0 Level 89 numCurrFrontier 3916 numVertices 1971281 my work 3916
+At level 89 Grid size 123 gpu numPrevFrontier 3916
+For my rank 0 At level 89 gpu Current frontier 3988
+Loop BFS For Ended Rank 0 Level 89
+For Loop Rank 0 Level 89 Total No of frontiers discovered 3988
+For Rank 0 All frontiers gathered New unique count 3988
+
+Loop BFS For Rank 0 Level 90 numCurrFrontier 3988 numVertices 1971281 my work 3988
+At level 90 Grid size 125 gpu numPrevFrontier 3988
+For my rank 0 At level 90 gpu Current frontier 4004
+Loop BFS For Ended Rank 0 Level 90
+For Loop Rank 0 Level 90 Total No of frontiers discovered 4004
+For Rank 0 All frontiers gathered New unique count 4004
+
+Loop BFS For Rank 0 Level 91 numCurrFrontier 4004 numVertices 1971281 my work 4004
+At level 91 Grid size 126 gpu numPrevFrontier 4004
+For my rank 0 At level 91 gpu Current frontier 4043
+Loop BFS For Ended Rank 0 Level 91
+For Loop Rank 0 Level 91 Total No of frontiers discovered 4043
+For Rank 0 All frontiers gathered New unique count 4043
+
+Loop BFS For Rank 0 Level 92 numCurrFrontier 4043 numVertices 1971281 my work 4043
+At level 92 Grid size 127 gpu numPrevFrontier 4043
+For my rank 0 At level 92 gpu Current frontier 4161
+Loop BFS For Ended Rank 0 Level 92
+For Loop Rank 0 Level 92 Total No of frontiers discovered 4161
+For Rank 0 All frontiers gathered New unique count 4161
+
+Loop BFS For Rank 0 Level 93 numCurrFrontier 4161 numVertices 1971281 my work 4161
+At level 93 Grid size 131 gpu numPrevFrontier 4161
+For my rank 0 At level 93 gpu Current frontier 4261
+Loop BFS For Ended Rank 0 Level 93
+For Loop Rank 0 Level 93 Total No of frontiers discovered 4261
+For Rank 0 All frontiers gathered New unique count 4261
+
+Loop BFS For Rank 0 Level 94 numCurrFrontier 4261 numVertices 1971281 my work 4261
+At level 94 Grid size 134 gpu numPrevFrontier 4261
+For my rank 0 At level 94 gpu Current frontier 4197
+Loop BFS For Ended Rank 0 Level 94
+For Loop Rank 0 Level 94 Total No of frontiers discovered 4197
+For Rank 0 All frontiers gathered New unique count 4197
+
+Loop BFS For Rank 0 Level 95 numCurrFrontier 4197 numVertices 1971281 my work 4197
+At level 95 Grid size 132 gpu numPrevFrontier 4197
+For my rank 0 At level 95 gpu Current frontier 4064
+Loop BFS For Ended Rank 0 Level 95
+For Loop Rank 0 Level 95 Total No of frontiers discovered 4064
+For Rank 0 All frontiers gathered New unique count 4064
+
+Loop BFS For Rank 0 Level 96 numCurrFrontier 4064 numVertices 1971281 my work 4064
+At level 96 Grid size 128 gpu numPrevFrontier 4064
+For my rank 0 At level 96 gpu Current frontier 4137
+Loop BFS For Ended Rank 0 Level 96
+For Loop Rank 0 Level 96 Total No of frontiers discovered 4137
+For Rank 0 All frontiers gathered New unique count 4137
+
+Loop BFS For Rank 0 Level 97 numCurrFrontier 4137 numVertices 1971281 my work 4137
+At level 97 Grid size 130 gpu numPrevFrontier 4137
+For my rank 0 At level 97 gpu Current frontier 4114
+Loop BFS For Ended Rank 0 Level 97
+For Loop Rank 0 Level 97 Total No of frontiers discovered 4114
+For Rank 0 All frontiers gathered New unique count 4114
+
+Loop BFS For Rank 0 Level 98 numCurrFrontier 4114 numVertices 1971281 my work 4114
+At level 98 Grid size 129 gpu numPrevFrontier 4114
+For my rank 0 At level 98 gpu Current frontier 4069
+Loop BFS For Ended Rank 0 Level 98
+For Loop Rank 0 Level 98 Total No of frontiers discovered 4069
+For Rank 0 All frontiers gathered New unique count 4069
+
+Loop BFS For Rank 0 Level 99 numCurrFrontier 4069 numVertices 1971281 my work 4069
+At level 99 Grid size 128 gpu numPrevFrontier 4069
+For my rank 0 At level 99 gpu Current frontier 4264
+Loop BFS For Ended Rank 0 Level 99
+For Loop Rank 0 Level 99 Total No of frontiers discovered 4264
+For Rank 0 All frontiers gathered New unique count 4264
+
+Loop BFS For Rank 0 Level 100 numCurrFrontier 4264 numVertices 1971281 my work 4264
+At level 100 Grid size 134 gpu numPrevFrontier 4264
+For my rank 0 At level 100 gpu Current frontier 4478
+Loop BFS For Ended Rank 0 Level 100
+For Loop Rank 0 Level 100 Total No of frontiers discovered 4478
+For Rank 0 All frontiers gathered New unique count 4478
+
+Loop BFS For Rank 0 Level 101 numCurrFrontier 4478 numVertices 1971281 my work 4478
+At level 101 Grid size 140 gpu numPrevFrontier 4478
+For my rank 0 At level 101 gpu Current frontier 4574
+Loop BFS For Ended Rank 0 Level 101
+For Loop Rank 0 Level 101 Total No of frontiers discovered 4574
+For Rank 0 All frontiers gathered New unique count 4574
+
+Loop BFS For Rank 0 Level 102 numCurrFrontier 4574 numVertices 1971281 my work 4574
+At level 102 Grid size 143 gpu numPrevFrontier 4574
+For my rank 0 At level 102 gpu Current frontier 4762
+Loop BFS For Ended Rank 0 Level 102
+For Loop Rank 0 Level 102 Total No of frontiers discovered 4762
+For Rank 0 All frontiers gathered New unique count 4762
+
+Loop BFS For Rank 0 Level 103 numCurrFrontier 4762 numVertices 1971281 my work 4762
+At level 103 Grid size 149 gpu numPrevFrontier 4762
+For my rank 0 At level 103 gpu Current frontier 4812
+Loop BFS For Ended Rank 0 Level 103
+For Loop Rank 0 Level 103 Total No of frontiers discovered 4812
+For Rank 0 All frontiers gathered New unique count 4812
+
+Loop BFS For Rank 0 Level 104 numCurrFrontier 4812 numVertices 1971281 my work 4812
+At level 104 Grid size 151 gpu numPrevFrontier 4812
+For my rank 0 At level 104 gpu Current frontier 4977
+Loop BFS For Ended Rank 0 Level 104
+For Loop Rank 0 Level 104 Total No of frontiers discovered 4977
+For Rank 0 All frontiers gathered New unique count 4977
+
+Loop BFS For Rank 0 Level 105 numCurrFrontier 4977 numVertices 1971281 my work 4977
+At level 105 Grid size 156 gpu numPrevFrontier 4977
+For my rank 0 At level 105 gpu Current frontier 5129
+Loop BFS For Ended Rank 0 Level 105
+For Loop Rank 0 Level 105 Total No of frontiers discovered 5129
+For Rank 0 All frontiers gathered New unique count 5129
+
+Loop BFS For Rank 0 Level 106 numCurrFrontier 5129 numVertices 1971281 my work 5129
+At level 106 Grid size 161 gpu numPrevFrontier 5129
+For my rank 0 At level 106 gpu Current frontier 5258
+Loop BFS For Ended Rank 0 Level 106
+For Loop Rank 0 Level 106 Total No of frontiers discovered 5258
+For Rank 0 All frontiers gathered New unique count 5258
+
+Loop BFS For Rank 0 Level 107 numCurrFrontier 5258 numVertices 1971281 my work 5258
+At level 107 Grid size 165 gpu numPrevFrontier 5258
+For my rank 0 At level 107 gpu Current frontier 5344
+Loop BFS For Ended Rank 0 Level 107
+For Loop Rank 0 Level 107 Total No of frontiers discovered 5344
+For Rank 0 All frontiers gathered New unique count 5344
+
+Loop BFS For Rank 0 Level 108 numCurrFrontier 5344 numVertices 1971281 my work 5344
+At level 108 Grid size 168 gpu numPrevFrontier 5344
+For my rank 0 At level 108 gpu Current frontier 5423
+Loop BFS For Ended Rank 0 Level 108
+For Loop Rank 0 Level 108 Total No of frontiers discovered 5423
+For Rank 0 All frontiers gathered New unique count 5423
+
+Loop BFS For Rank 0 Level 109 numCurrFrontier 5423 numVertices 1971281 my work 5423
+At level 109 Grid size 170 gpu numPrevFrontier 5423
+For my rank 0 At level 109 gpu Current frontier 5454
+Loop BFS For Ended Rank 0 Level 109
+For Loop Rank 0 Level 109 Total No of frontiers discovered 5454
+For Rank 0 All frontiers gathered New unique count 5454
+
+Loop BFS For Rank 0 Level 110 numCurrFrontier 5454 numVertices 1971281 my work 5454
+At level 110 Grid size 171 gpu numPrevFrontier 5454
+For my rank 0 At level 110 gpu Current frontier 5574
+Loop BFS For Ended Rank 0 Level 110
+For Loop Rank 0 Level 110 Total No of frontiers discovered 5574
+For Rank 0 All frontiers gathered New unique count 5574
+
+Loop BFS For Rank 0 Level 111 numCurrFrontier 5574 numVertices 1971281 my work 5574
+At level 111 Grid size 175 gpu numPrevFrontier 5574
+For my rank 0 At level 111 gpu Current frontier 5698
+Loop BFS For Ended Rank 0 Level 111
+For Loop Rank 0 Level 111 Total No of frontiers discovered 5698
+For Rank 0 All frontiers gathered New unique count 5698
+
+Loop BFS For Rank 0 Level 112 numCurrFrontier 5698 numVertices 1971281 my work 5698
+At level 112 Grid size 179 gpu numPrevFrontier 5698
+For my rank 0 At level 112 gpu Current frontier 5769
+Loop BFS For Ended Rank 0 Level 112
+For Loop Rank 0 Level 112 Total No of frontiers discovered 5769
+For Rank 0 All frontiers gathered New unique count 5769
+
+Loop BFS For Rank 0 Level 113 numCurrFrontier 5769 numVertices 1971281 my work 5769
+At level 113 Grid size 181 gpu numPrevFrontier 5769
+For my rank 0 At level 113 gpu Current frontier 5718
+Loop BFS For Ended Rank 0 Level 113
+For Loop Rank 0 Level 113 Total No of frontiers discovered 5718
+For Rank 0 All frontiers gathered New unique count 5718
+
+Loop BFS For Rank 0 Level 114 numCurrFrontier 5718 numVertices 1971281 my work 5718
+At level 114 Grid size 179 gpu numPrevFrontier 5718
+For my rank 0 At level 114 gpu Current frontier 5668
+Loop BFS For Ended Rank 0 Level 114
+For Loop Rank 0 Level 114 Total No of frontiers discovered 5668
+For Rank 0 All frontiers gathered New unique count 5668
+
+Loop BFS For Rank 0 Level 115 numCurrFrontier 5668 numVertices 1971281 my work 5668
+At level 115 Grid size 178 gpu numPrevFrontier 5668
+For my rank 0 At level 115 gpu Current frontier 5648
+Loop BFS For Ended Rank 0 Level 115
+For Loop Rank 0 Level 115 Total No of frontiers discovered 5648
+For Rank 0 All frontiers gathered New unique count 5648
+
+Loop BFS For Rank 0 Level 116 numCurrFrontier 5648 numVertices 1971281 my work 5648
+At level 116 Grid size 177 gpu numPrevFrontier 5648
+For my rank 0 At level 116 gpu Current frontier 5643
+Loop BFS For Ended Rank 0 Level 116
+For Loop Rank 0 Level 116 Total No of frontiers discovered 5643
+For Rank 0 All frontiers gathered New unique count 5643
+
+Loop BFS For Rank 0 Level 117 numCurrFrontier 5643 numVertices 1971281 my work 5643
+At level 117 Grid size 177 gpu numPrevFrontier 5643
+For my rank 0 At level 117 gpu Current frontier 5589
+Loop BFS For Ended Rank 0 Level 117
+For Loop Rank 0 Level 117 Total No of frontiers discovered 5589
+For Rank 0 All frontiers gathered New unique count 5589
+
+Loop BFS For Rank 0 Level 118 numCurrFrontier 5589 numVertices 1971281 my work 5589
+At level 118 Grid size 175 gpu numPrevFrontier 5589
+For my rank 0 At level 118 gpu Current frontier 5720
+Loop BFS For Ended Rank 0 Level 118
+For Loop Rank 0 Level 118 Total No of frontiers discovered 5720
+For Rank 0 All frontiers gathered New unique count 5720
+
+Loop BFS For Rank 0 Level 119 numCurrFrontier 5720 numVertices 1971281 my work 5720
+At level 119 Grid size 179 gpu numPrevFrontier 5720
+For my rank 0 At level 119 gpu Current frontier 5624
+Loop BFS For Ended Rank 0 Level 119
+For Loop Rank 0 Level 119 Total No of frontiers discovered 5624
+For Rank 0 All frontiers gathered New unique count 5624
+
+Loop BFS For Rank 0 Level 120 numCurrFrontier 5624 numVertices 1971281 my work 5624
+At level 120 Grid size 176 gpu numPrevFrontier 5624
+For my rank 0 At level 120 gpu Current frontier 5631
+Loop BFS For Ended Rank 0 Level 120
+For Loop Rank 0 Level 120 Total No of frontiers discovered 5631
+For Rank 0 All frontiers gathered New unique count 5631
+
+Loop BFS For Rank 0 Level 121 numCurrFrontier 5631 numVertices 1971281 my work 5631
+At level 121 Grid size 176 gpu numPrevFrontier 5631
+For my rank 0 At level 121 gpu Current frontier 5659
+Loop BFS For Ended Rank 0 Level 121
+For Loop Rank 0 Level 121 Total No of frontiers discovered 5659
+For Rank 0 All frontiers gathered New unique count 5659
+
+Loop BFS For Rank 0 Level 122 numCurrFrontier 5659 numVertices 1971281 my work 5659
+At level 122 Grid size 177 gpu numPrevFrontier 5659
+For my rank 0 At level 122 gpu Current frontier 5649
+Loop BFS For Ended Rank 0 Level 122
+For Loop Rank 0 Level 122 Total No of frontiers discovered 5649
+For Rank 0 All frontiers gathered New unique count 5649
+
+Loop BFS For Rank 0 Level 123 numCurrFrontier 5649 numVertices 1971281 my work 5649
+At level 123 Grid size 177 gpu numPrevFrontier 5649
+For my rank 0 At level 123 gpu Current frontier 5659
+Loop BFS For Ended Rank 0 Level 123
+For Loop Rank 0 Level 123 Total No of frontiers discovered 5659
+For Rank 0 All frontiers gathered New unique count 5659
+
+Loop BFS For Rank 0 Level 124 numCurrFrontier 5659 numVertices 1971281 my work 5659
+At level 124 Grid size 177 gpu numPrevFrontier 5659
+For my rank 0 At level 124 gpu Current frontier 5654
+Loop BFS For Ended Rank 0 Level 124
+For Loop Rank 0 Level 124 Total No of frontiers discovered 5654
+For Rank 0 All frontiers gathered New unique count 5654
+
+Loop BFS For Rank 0 Level 125 numCurrFrontier 5654 numVertices 1971281 my work 5654
+At level 125 Grid size 177 gpu numPrevFrontier 5654
+For my rank 0 At level 125 gpu Current frontier 5627
+Loop BFS For Ended Rank 0 Level 125
+For Loop Rank 0 Level 125 Total No of frontiers discovered 5627
+For Rank 0 All frontiers gathered New unique count 5627
+
+Loop BFS For Rank 0 Level 126 numCurrFrontier 5627 numVertices 1971281 my work 5627
+At level 126 Grid size 176 gpu numPrevFrontier 5627
+For my rank 0 At level 126 gpu Current frontier 5567
+Loop BFS For Ended Rank 0 Level 126
+For Loop Rank 0 Level 126 Total No of frontiers discovered 5567
+For Rank 0 All frontiers gathered New unique count 5567
+
+Loop BFS For Rank 0 Level 127 numCurrFrontier 5567 numVertices 1971281 my work 5567
+At level 127 Grid size 174 gpu numPrevFrontier 5567
+For my rank 0 At level 127 gpu Current frontier 5622
+Loop BFS For Ended Rank 0 Level 127
+For Loop Rank 0 Level 127 Total No of frontiers discovered 5622
+For Rank 0 All frontiers gathered New unique count 5622
+
+Loop BFS For Rank 0 Level 128 numCurrFrontier 5622 numVertices 1971281 my work 5622
+At level 128 Grid size 176 gpu numPrevFrontier 5622
+For my rank 0 At level 128 gpu Current frontier 5638
+Loop BFS For Ended Rank 0 Level 128
+For Loop Rank 0 Level 128 Total No of frontiers discovered 5638
+For Rank 0 All frontiers gathered New unique count 5638
+
+Loop BFS For Rank 0 Level 129 numCurrFrontier 5638 numVertices 1971281 my work 5638
+At level 129 Grid size 177 gpu numPrevFrontier 5638
+For my rank 0 At level 129 gpu Current frontier 5620
+Loop BFS For Ended Rank 0 Level 129
+For Loop Rank 0 Level 129 Total No of frontiers discovered 5620
+For Rank 0 All frontiers gathered New unique count 5620
+
+Loop BFS For Rank 0 Level 130 numCurrFrontier 5620 numVertices 1971281 my work 5620
+At level 130 Grid size 176 gpu numPrevFrontier 5620
+For my rank 0 At level 130 gpu Current frontier 5662
+Loop BFS For Ended Rank 0 Level 130
+For Loop Rank 0 Level 130 Total No of frontiers discovered 5662
+For Rank 0 All frontiers gathered New unique count 5662
+
+Loop BFS For Rank 0 Level 131 numCurrFrontier 5662 numVertices 1971281 my work 5662
+At level 131 Grid size 177 gpu numPrevFrontier 5662
+For my rank 0 At level 131 gpu Current frontier 5769
+Loop BFS For Ended Rank 0 Level 131
+For Loop Rank 0 Level 131 Total No of frontiers discovered 5769
+For Rank 0 All frontiers gathered New unique count 5769
+
+Loop BFS For Rank 0 Level 132 numCurrFrontier 5769 numVertices 1971281 my work 5769
+At level 132 Grid size 181 gpu numPrevFrontier 5769
+For my rank 0 At level 132 gpu Current frontier 5858
+Loop BFS For Ended Rank 0 Level 132
+For Loop Rank 0 Level 132 Total No of frontiers discovered 5858
+For Rank 0 All frontiers gathered New unique count 5858
+
+Loop BFS For Rank 0 Level 133 numCurrFrontier 5858 numVertices 1971281 my work 5858
+At level 133 Grid size 184 gpu numPrevFrontier 5858
+For my rank 0 At level 133 gpu Current frontier 5793
+Loop BFS For Ended Rank 0 Level 133
+For Loop Rank 0 Level 133 Total No of frontiers discovered 5793
+For Rank 0 All frontiers gathered New unique count 5793
+
+Loop BFS For Rank 0 Level 134 numCurrFrontier 5793 numVertices 1971281 my work 5793
+At level 134 Grid size 182 gpu numPrevFrontier 5793
+For my rank 0 At level 134 gpu Current frontier 5787
+Loop BFS For Ended Rank 0 Level 134
+For Loop Rank 0 Level 134 Total No of frontiers discovered 5787
+For Rank 0 All frontiers gathered New unique count 5787
+
+Loop BFS For Rank 0 Level 135 numCurrFrontier 5787 numVertices 1971281 my work 5787
+At level 135 Grid size 181 gpu numPrevFrontier 5787
+For my rank 0 At level 135 gpu Current frontier 5865
+Loop BFS For Ended Rank 0 Level 135
+For Loop Rank 0 Level 135 Total No of frontiers discovered 5865
+For Rank 0 All frontiers gathered New unique count 5865
+
+Loop BFS For Rank 0 Level 136 numCurrFrontier 5865 numVertices 1971281 my work 5865
+At level 136 Grid size 184 gpu numPrevFrontier 5865
+For my rank 0 At level 136 gpu Current frontier 5876
+Loop BFS For Ended Rank 0 Level 136
+For Loop Rank 0 Level 136 Total No of frontiers discovered 5876
+For Rank 0 All frontiers gathered New unique count 5876
+
+Loop BFS For Rank 0 Level 137 numCurrFrontier 5876 numVertices 1971281 my work 5876
+At level 137 Grid size 184 gpu numPrevFrontier 5876
+For my rank 0 At level 137 gpu Current frontier 5712
+Loop BFS For Ended Rank 0 Level 137
+For Loop Rank 0 Level 137 Total No of frontiers discovered 5712
+For Rank 0 All frontiers gathered New unique count 5712
+
+Loop BFS For Rank 0 Level 138 numCurrFrontier 5712 numVertices 1971281 my work 5712
+At level 138 Grid size 179 gpu numPrevFrontier 5712
+For my rank 0 At level 138 gpu Current frontier 5627
+Loop BFS For Ended Rank 0 Level 138
+For Loop Rank 0 Level 138 Total No of frontiers discovered 5627
+For Rank 0 All frontiers gathered New unique count 5627
+
+Loop BFS For Rank 0 Level 139 numCurrFrontier 5627 numVertices 1971281 my work 5627
+At level 139 Grid size 176 gpu numPrevFrontier 5627
+For my rank 0 At level 139 gpu Current frontier 5563
+Loop BFS For Ended Rank 0 Level 139
+For Loop Rank 0 Level 139 Total No of frontiers discovered 5563
+For Rank 0 All frontiers gathered New unique count 5563
+
+Loop BFS For Rank 0 Level 140 numCurrFrontier 5563 numVertices 1971281 my work 5563
+At level 140 Grid size 174 gpu numPrevFrontier 5563
+For my rank 0 At level 140 gpu Current frontier 5399
+Loop BFS For Ended Rank 0 Level 140
+For Loop Rank 0 Level 140 Total No of frontiers discovered 5399
+For Rank 0 All frontiers gathered New unique count 5399
+
+Loop BFS For Rank 0 Level 141 numCurrFrontier 5399 numVertices 1971281 my work 5399
+At level 141 Grid size 169 gpu numPrevFrontier 5399
+For my rank 0 At level 141 gpu Current frontier 5236
+Loop BFS For Ended Rank 0 Level 141
+For Loop Rank 0 Level 141 Total No of frontiers discovered 5236
+For Rank 0 All frontiers gathered New unique count 5236
+
+Loop BFS For Rank 0 Level 142 numCurrFrontier 5236 numVertices 1971281 my work 5236
+At level 142 Grid size 164 gpu numPrevFrontier 5236
+For my rank 0 At level 142 gpu Current frontier 5176
+Loop BFS For Ended Rank 0 Level 142
+For Loop Rank 0 Level 142 Total No of frontiers discovered 5176
+For Rank 0 All frontiers gathered New unique count 5176
+
+Loop BFS For Rank 0 Level 143 numCurrFrontier 5176 numVertices 1971281 my work 5176
+At level 143 Grid size 162 gpu numPrevFrontier 5176
+For my rank 0 At level 143 gpu Current frontier 5192
+Loop BFS For Ended Rank 0 Level 143
+For Loop Rank 0 Level 143 Total No of frontiers discovered 5192
+For Rank 0 All frontiers gathered New unique count 5192
+
+Loop BFS For Rank 0 Level 144 numCurrFrontier 5192 numVertices 1971281 my work 5192
+At level 144 Grid size 163 gpu numPrevFrontier 5192
+For my rank 0 At level 144 gpu Current frontier 5161
+Loop BFS For Ended Rank 0 Level 144
+For Loop Rank 0 Level 144 Total No of frontiers discovered 5161
+For Rank 0 All frontiers gathered New unique count 5161
+
+Loop BFS For Rank 0 Level 145 numCurrFrontier 5161 numVertices 1971281 my work 5161
+At level 145 Grid size 162 gpu numPrevFrontier 5161
+For my rank 0 At level 145 gpu Current frontier 5028
+Loop BFS For Ended Rank 0 Level 145
+For Loop Rank 0 Level 145 Total No of frontiers discovered 5028
+For Rank 0 All frontiers gathered New unique count 5028
+
+Loop BFS For Rank 0 Level 146 numCurrFrontier 5028 numVertices 1971281 my work 5028
+At level 146 Grid size 158 gpu numPrevFrontier 5028
+For my rank 0 At level 146 gpu Current frontier 5048
+Loop BFS For Ended Rank 0 Level 146
+For Loop Rank 0 Level 146 Total No of frontiers discovered 5048
+For Rank 0 All frontiers gathered New unique count 5048
+
+Loop BFS For Rank 0 Level 147 numCurrFrontier 5048 numVertices 1971281 my work 5048
+At level 147 Grid size 158 gpu numPrevFrontier 5048
+For my rank 0 At level 147 gpu Current frontier 4967
+Loop BFS For Ended Rank 0 Level 147
+For Loop Rank 0 Level 147 Total No of frontiers discovered 4967
+For Rank 0 All frontiers gathered New unique count 4967
+
+Loop BFS For Rank 0 Level 148 numCurrFrontier 4967 numVertices 1971281 my work 4967
+At level 148 Grid size 156 gpu numPrevFrontier 4967
+For my rank 0 At level 148 gpu Current frontier 4881
+Loop BFS For Ended Rank 0 Level 148
+For Loop Rank 0 Level 148 Total No of frontiers discovered 4881
+For Rank 0 All frontiers gathered New unique count 4881
+
+Loop BFS For Rank 0 Level 149 numCurrFrontier 4881 numVertices 1971281 my work 4881
+At level 149 Grid size 153 gpu numPrevFrontier 4881
+For my rank 0 At level 149 gpu Current frontier 4847
+Loop BFS For Ended Rank 0 Level 149
+For Loop Rank 0 Level 149 Total No of frontiers discovered 4847
+For Rank 0 All frontiers gathered New unique count 4847
+
+Loop BFS For Rank 0 Level 150 numCurrFrontier 4847 numVertices 1971281 my work 4847
+At level 150 Grid size 152 gpu numPrevFrontier 4847
+For my rank 0 At level 150 gpu Current frontier 4788
+Loop BFS For Ended Rank 0 Level 150
+For Loop Rank 0 Level 150 Total No of frontiers discovered 4788
+For Rank 0 All frontiers gathered New unique count 4788
+
+Loop BFS For Rank 0 Level 151 numCurrFrontier 4788 numVertices 1971281 my work 4788
+At level 151 Grid size 150 gpu numPrevFrontier 4788
+For my rank 0 At level 151 gpu Current frontier 4789
+Loop BFS For Ended Rank 0 Level 151
+For Loop Rank 0 Level 151 Total No of frontiers discovered 4789
+For Rank 0 All frontiers gathered New unique count 4789
+
+Loop BFS For Rank 0 Level 152 numCurrFrontier 4789 numVertices 1971281 my work 4789
+At level 152 Grid size 150 gpu numPrevFrontier 4789
+For my rank 0 At level 152 gpu Current frontier 4863
+Loop BFS For Ended Rank 0 Level 152
+For Loop Rank 0 Level 152 Total No of frontiers discovered 4863
+For Rank 0 All frontiers gathered New unique count 4863
+
+Loop BFS For Rank 0 Level 153 numCurrFrontier 4863 numVertices 1971281 my work 4863
+At level 153 Grid size 152 gpu numPrevFrontier 4863
+For my rank 0 At level 153 gpu Current frontier 5013
+Loop BFS For Ended Rank 0 Level 153
+For Loop Rank 0 Level 153 Total No of frontiers discovered 5013
+For Rank 0 All frontiers gathered New unique count 5013
+
+Loop BFS For Rank 0 Level 154 numCurrFrontier 5013 numVertices 1971281 my work 5013
+At level 154 Grid size 157 gpu numPrevFrontier 5013
+For my rank 0 At level 154 gpu Current frontier 5058
+Loop BFS For Ended Rank 0 Level 154
+For Loop Rank 0 Level 154 Total No of frontiers discovered 5058
+For Rank 0 All frontiers gathered New unique count 5058
+
+Loop BFS For Rank 0 Level 155 numCurrFrontier 5058 numVertices 1971281 my work 5058
+At level 155 Grid size 159 gpu numPrevFrontier 5058
+For my rank 0 At level 155 gpu Current frontier 5144
+Loop BFS For Ended Rank 0 Level 155
+For Loop Rank 0 Level 155 Total No of frontiers discovered 5144
+For Rank 0 All frontiers gathered New unique count 5144
+
+Loop BFS For Rank 0 Level 156 numCurrFrontier 5144 numVertices 1971281 my work 5144
+At level 156 Grid size 161 gpu numPrevFrontier 5144
+For my rank 0 At level 156 gpu Current frontier 5101
+Loop BFS For Ended Rank 0 Level 156
+For Loop Rank 0 Level 156 Total No of frontiers discovered 5101
+For Rank 0 All frontiers gathered New unique count 5101
+
+Loop BFS For Rank 0 Level 157 numCurrFrontier 5101 numVertices 1971281 my work 5101
+At level 157 Grid size 160 gpu numPrevFrontier 5101
+For my rank 0 At level 157 gpu Current frontier 5057
+Loop BFS For Ended Rank 0 Level 157
+For Loop Rank 0 Level 157 Total No of frontiers discovered 5057
+For Rank 0 All frontiers gathered New unique count 5057
+
+Loop BFS For Rank 0 Level 158 numCurrFrontier 5057 numVertices 1971281 my work 5057
+At level 158 Grid size 159 gpu numPrevFrontier 5057
+For my rank 0 At level 158 gpu Current frontier 5249
+Loop BFS For Ended Rank 0 Level 158
+For Loop Rank 0 Level 158 Total No of frontiers discovered 5249
+For Rank 0 All frontiers gathered New unique count 5249
+
+Loop BFS For Rank 0 Level 159 numCurrFrontier 5249 numVertices 1971281 my work 5249
+At level 159 Grid size 165 gpu numPrevFrontier 5249
+For my rank 0 At level 159 gpu Current frontier 5147
+Loop BFS For Ended Rank 0 Level 159
+For Loop Rank 0 Level 159 Total No of frontiers discovered 5147
+For Rank 0 All frontiers gathered New unique count 5147
+
+Loop BFS For Rank 0 Level 160 numCurrFrontier 5147 numVertices 1971281 my work 5147
+At level 160 Grid size 161 gpu numPrevFrontier 5147
+For my rank 0 At level 160 gpu Current frontier 5000
+Loop BFS For Ended Rank 0 Level 160
+For Loop Rank 0 Level 160 Total No of frontiers discovered 5000
+For Rank 0 All frontiers gathered New unique count 5000
+
+Loop BFS For Rank 0 Level 161 numCurrFrontier 5000 numVertices 1971281 my work 5000
+At level 161 Grid size 157 gpu numPrevFrontier 5000
+For my rank 0 At level 161 gpu Current frontier 4881
+Loop BFS For Ended Rank 0 Level 161
+For Loop Rank 0 Level 161 Total No of frontiers discovered 4881
+For Rank 0 All frontiers gathered New unique count 4881
+
+Loop BFS For Rank 0 Level 162 numCurrFrontier 4881 numVertices 1971281 my work 4881
+At level 162 Grid size 153 gpu numPrevFrontier 4881
+For my rank 0 At level 162 gpu Current frontier 4703
+Loop BFS For Ended Rank 0 Level 162
+For Loop Rank 0 Level 162 Total No of frontiers discovered 4703
+For Rank 0 All frontiers gathered New unique count 4703
+
+Loop BFS For Rank 0 Level 163 numCurrFrontier 4703 numVertices 1971281 my work 4703
+At level 163 Grid size 147 gpu numPrevFrontier 4703
+For my rank 0 At level 163 gpu Current frontier 4595
+Loop BFS For Ended Rank 0 Level 163
+For Loop Rank 0 Level 163 Total No of frontiers discovered 4595
+For Rank 0 All frontiers gathered New unique count 4595
+
+Loop BFS For Rank 0 Level 164 numCurrFrontier 4595 numVertices 1971281 my work 4595
+At level 164 Grid size 144 gpu numPrevFrontier 4595
+For my rank 0 At level 164 gpu Current frontier 4413
+Loop BFS For Ended Rank 0 Level 164
+For Loop Rank 0 Level 164 Total No of frontiers discovered 4413
+For Rank 0 All frontiers gathered New unique count 4413
+
+Loop BFS For Rank 0 Level 165 numCurrFrontier 4413 numVertices 1971281 my work 4413
+At level 165 Grid size 138 gpu numPrevFrontier 4413
+For my rank 0 At level 165 gpu Current frontier 4235
+Loop BFS For Ended Rank 0 Level 165
+For Loop Rank 0 Level 165 Total No of frontiers discovered 4235
+For Rank 0 All frontiers gathered New unique count 4235
+
+Loop BFS For Rank 0 Level 166 numCurrFrontier 4235 numVertices 1971281 my work 4235
+At level 166 Grid size 133 gpu numPrevFrontier 4235
+For my rank 0 At level 166 gpu Current frontier 4205
+Loop BFS For Ended Rank 0 Level 166
+For Loop Rank 0 Level 166 Total No of frontiers discovered 4205
+For Rank 0 All frontiers gathered New unique count 4205
+
+Loop BFS For Rank 0 Level 167 numCurrFrontier 4205 numVertices 1971281 my work 4205
+At level 167 Grid size 132 gpu numPrevFrontier 4205
+For my rank 0 At level 167 gpu Current frontier 4254
+Loop BFS For Ended Rank 0 Level 167
+For Loop Rank 0 Level 167 Total No of frontiers discovered 4254
+For Rank 0 All frontiers gathered New unique count 4254
+
+Loop BFS For Rank 0 Level 168 numCurrFrontier 4254 numVertices 1971281 my work 4254
+At level 168 Grid size 133 gpu numPrevFrontier 4254
+For my rank 0 At level 168 gpu Current frontier 4354
+Loop BFS For Ended Rank 0 Level 168
+For Loop Rank 0 Level 168 Total No of frontiers discovered 4354
+For Rank 0 All frontiers gathered New unique count 4354
+
+Loop BFS For Rank 0 Level 169 numCurrFrontier 4354 numVertices 1971281 my work 4354
+At level 169 Grid size 137 gpu numPrevFrontier 4354
+For my rank 0 At level 169 gpu Current frontier 4369
+Loop BFS For Ended Rank 0 Level 169
+For Loop Rank 0 Level 169 Total No of frontiers discovered 4369
+For Rank 0 All frontiers gathered New unique count 4369
+
+Loop BFS For Rank 0 Level 170 numCurrFrontier 4369 numVertices 1971281 my work 4369
+At level 170 Grid size 137 gpu numPrevFrontier 4369
+For my rank 0 At level 170 gpu Current frontier 4391
+Loop BFS For Ended Rank 0 Level 170
+For Loop Rank 0 Level 170 Total No of frontiers discovered 4391
+For Rank 0 All frontiers gathered New unique count 4391
+
+Loop BFS For Rank 0 Level 171 numCurrFrontier 4391 numVertices 1971281 my work 4391
+At level 171 Grid size 138 gpu numPrevFrontier 4391
+For my rank 0 At level 171 gpu Current frontier 4412
+Loop BFS For Ended Rank 0 Level 171
+For Loop Rank 0 Level 171 Total No of frontiers discovered 4412
+For Rank 0 All frontiers gathered New unique count 4412
+
+Loop BFS For Rank 0 Level 172 numCurrFrontier 4412 numVertices 1971281 my work 4412
+At level 172 Grid size 138 gpu numPrevFrontier 4412
+For my rank 0 At level 172 gpu Current frontier 4391
+Loop BFS For Ended Rank 0 Level 172
+For Loop Rank 0 Level 172 Total No of frontiers discovered 4391
+For Rank 0 All frontiers gathered New unique count 4391
+
+Loop BFS For Rank 0 Level 173 numCurrFrontier 4391 numVertices 1971281 my work 4391
+At level 173 Grid size 138 gpu numPrevFrontier 4391
+For my rank 0 At level 173 gpu Current frontier 4437
+Loop BFS For Ended Rank 0 Level 173
+For Loop Rank 0 Level 173 Total No of frontiers discovered 4437
+For Rank 0 All frontiers gathered New unique count 4437
+
+Loop BFS For Rank 0 Level 174 numCurrFrontier 4437 numVertices 1971281 my work 4437
+At level 174 Grid size 139 gpu numPrevFrontier 4437
+For my rank 0 At level 174 gpu Current frontier 4444
+Loop BFS For Ended Rank 0 Level 174
+For Loop Rank 0 Level 174 Total No of frontiers discovered 4444
+For Rank 0 All frontiers gathered New unique count 4444
+
+Loop BFS For Rank 0 Level 175 numCurrFrontier 4444 numVertices 1971281 my work 4444
+At level 175 Grid size 139 gpu numPrevFrontier 4444
+For my rank 0 At level 175 gpu Current frontier 4436
+Loop BFS For Ended Rank 0 Level 175
+For Loop Rank 0 Level 175 Total No of frontiers discovered 4436
+For Rank 0 All frontiers gathered New unique count 4436
+
+Loop BFS For Rank 0 Level 176 numCurrFrontier 4436 numVertices 1971281 my work 4436
+At level 176 Grid size 139 gpu numPrevFrontier 4436
+For my rank 0 At level 176 gpu Current frontier 4474
+Loop BFS For Ended Rank 0 Level 176
+For Loop Rank 0 Level 176 Total No of frontiers discovered 4474
+For Rank 0 All frontiers gathered New unique count 4474
+
+Loop BFS For Rank 0 Level 177 numCurrFrontier 4474 numVertices 1971281 my work 4474
+At level 177 Grid size 140 gpu numPrevFrontier 4474
+For my rank 0 At level 177 gpu Current frontier 4477
+Loop BFS For Ended Rank 0 Level 177
+For Loop Rank 0 Level 177 Total No of frontiers discovered 4477
+For Rank 0 All frontiers gathered New unique count 4477
+
+Loop BFS For Rank 0 Level 178 numCurrFrontier 4477 numVertices 1971281 my work 4477
+At level 178 Grid size 140 gpu numPrevFrontier 4477
+For my rank 0 At level 178 gpu Current frontier 4626
+Loop BFS For Ended Rank 0 Level 178
+For Loop Rank 0 Level 178 Total No of frontiers discovered 4626
+For Rank 0 All frontiers gathered New unique count 4626
+
+Loop BFS For Rank 0 Level 179 numCurrFrontier 4626 numVertices 1971281 my work 4626
+At level 179 Grid size 145 gpu numPrevFrontier 4626
+For my rank 0 At level 179 gpu Current frontier 4652
+Loop BFS For Ended Rank 0 Level 179
+For Loop Rank 0 Level 179 Total No of frontiers discovered 4652
+For Rank 0 All frontiers gathered New unique count 4652
+
+Loop BFS For Rank 0 Level 180 numCurrFrontier 4652 numVertices 1971281 my work 4652
+At level 180 Grid size 146 gpu numPrevFrontier 4652
+For my rank 0 At level 180 gpu Current frontier 4623
+Loop BFS For Ended Rank 0 Level 180
+For Loop Rank 0 Level 180 Total No of frontiers discovered 4623
+For Rank 0 All frontiers gathered New unique count 4623
+
+Loop BFS For Rank 0 Level 181 numCurrFrontier 4623 numVertices 1971281 my work 4623
+At level 181 Grid size 145 gpu numPrevFrontier 4623
+For my rank 0 At level 181 gpu Current frontier 4676
+Loop BFS For Ended Rank 0 Level 181
+For Loop Rank 0 Level 181 Total No of frontiers discovered 4676
+For Rank 0 All frontiers gathered New unique count 4676
+
+Loop BFS For Rank 0 Level 182 numCurrFrontier 4676 numVertices 1971281 my work 4676
+At level 182 Grid size 147 gpu numPrevFrontier 4676
+For my rank 0 At level 182 gpu Current frontier 4633
+Loop BFS For Ended Rank 0 Level 182
+For Loop Rank 0 Level 182 Total No of frontiers discovered 4633
+For Rank 0 All frontiers gathered New unique count 4633
+
+Loop BFS For Rank 0 Level 183 numCurrFrontier 4633 numVertices 1971281 my work 4633
+At level 183 Grid size 145 gpu numPrevFrontier 4633
+For my rank 0 At level 183 gpu Current frontier 4538
+Loop BFS For Ended Rank 0 Level 183
+For Loop Rank 0 Level 183 Total No of frontiers discovered 4538
+For Rank 0 All frontiers gathered New unique count 4538
+
+Loop BFS For Rank 0 Level 184 numCurrFrontier 4538 numVertices 1971281 my work 4538
+At level 184 Grid size 142 gpu numPrevFrontier 4538
+For my rank 0 At level 184 gpu Current frontier 4503
+Loop BFS For Ended Rank 0 Level 184
+For Loop Rank 0 Level 184 Total No of frontiers discovered 4503
+For Rank 0 All frontiers gathered New unique count 4503
+
+Loop BFS For Rank 0 Level 185 numCurrFrontier 4503 numVertices 1971281 my work 4503
+At level 185 Grid size 141 gpu numPrevFrontier 4503
+For my rank 0 At level 185 gpu Current frontier 4424
+Loop BFS For Ended Rank 0 Level 185
+For Loop Rank 0 Level 185 Total No of frontiers discovered 4424
+For Rank 0 All frontiers gathered New unique count 4424
+
+Loop BFS For Rank 0 Level 186 numCurrFrontier 4424 numVertices 1971281 my work 4424
+At level 186 Grid size 139 gpu numPrevFrontier 4424
+For my rank 0 At level 186 gpu Current frontier 4403
+Loop BFS For Ended Rank 0 Level 186
+For Loop Rank 0 Level 186 Total No of frontiers discovered 4403
+For Rank 0 All frontiers gathered New unique count 4403
+
+Loop BFS For Rank 0 Level 187 numCurrFrontier 4403 numVertices 1971281 my work 4403
+At level 187 Grid size 138 gpu numPrevFrontier 4403
+For my rank 0 At level 187 gpu Current frontier 4483
+Loop BFS For Ended Rank 0 Level 187
+For Loop Rank 0 Level 187 Total No of frontiers discovered 4483
+For Rank 0 All frontiers gathered New unique count 4483
+
+Loop BFS For Rank 0 Level 188 numCurrFrontier 4483 numVertices 1971281 my work 4483
+At level 188 Grid size 141 gpu numPrevFrontier 4483
+For my rank 0 At level 188 gpu Current frontier 4511
+Loop BFS For Ended Rank 0 Level 188
+For Loop Rank 0 Level 188 Total No of frontiers discovered 4511
+For Rank 0 All frontiers gathered New unique count 4511
+
+Loop BFS For Rank 0 Level 189 numCurrFrontier 4511 numVertices 1971281 my work 4511
+At level 189 Grid size 141 gpu numPrevFrontier 4511
+For my rank 0 At level 189 gpu Current frontier 4608
+Loop BFS For Ended Rank 0 Level 189
+For Loop Rank 0 Level 189 Total No of frontiers discovered 4608
+For Rank 0 All frontiers gathered New unique count 4608
+
+Loop BFS For Rank 0 Level 190 numCurrFrontier 4608 numVertices 1971281 my work 4608
+At level 190 Grid size 145 gpu numPrevFrontier 4608
+For my rank 0 At level 190 gpu Current frontier 4758
+Loop BFS For Ended Rank 0 Level 190
+For Loop Rank 0 Level 190 Total No of frontiers discovered 4758
+For Rank 0 All frontiers gathered New unique count 4758
+
+Loop BFS For Rank 0 Level 191 numCurrFrontier 4758 numVertices 1971281 my work 4758
+At level 191 Grid size 149 gpu numPrevFrontier 4758
+For my rank 0 At level 191 gpu Current frontier 4820
+Loop BFS For Ended Rank 0 Level 191
+For Loop Rank 0 Level 191 Total No of frontiers discovered 4820
+For Rank 0 All frontiers gathered New unique count 4820
+
+Loop BFS For Rank 0 Level 192 numCurrFrontier 4820 numVertices 1971281 my work 4820
+At level 192 Grid size 151 gpu numPrevFrontier 4820
+For my rank 0 At level 192 gpu Current frontier 4768
+Loop BFS For Ended Rank 0 Level 192
+For Loop Rank 0 Level 192 Total No of frontiers discovered 4768
+For Rank 0 All frontiers gathered New unique count 4768
+
+Loop BFS For Rank 0 Level 193 numCurrFrontier 4768 numVertices 1971281 my work 4768
+At level 193 Grid size 150 gpu numPrevFrontier 4768
+For my rank 0 At level 193 gpu Current frontier 4877
+Loop BFS For Ended Rank 0 Level 193
+For Loop Rank 0 Level 193 Total No of frontiers discovered 4877
+For Rank 0 All frontiers gathered New unique count 4877
+
+Loop BFS For Rank 0 Level 194 numCurrFrontier 4877 numVertices 1971281 my work 4877
+At level 194 Grid size 153 gpu numPrevFrontier 4877
+For my rank 0 At level 194 gpu Current frontier 4862
+Loop BFS For Ended Rank 0 Level 194
+For Loop Rank 0 Level 194 Total No of frontiers discovered 4862
+For Rank 0 All frontiers gathered New unique count 4862
+
+Loop BFS For Rank 0 Level 195 numCurrFrontier 4862 numVertices 1971281 my work 4862
+At level 195 Grid size 152 gpu numPrevFrontier 4862
+For my rank 0 At level 195 gpu Current frontier 4762
+Loop BFS For Ended Rank 0 Level 195
+For Loop Rank 0 Level 195 Total No of frontiers discovered 4762
+For Rank 0 All frontiers gathered New unique count 4762
+
+Loop BFS For Rank 0 Level 196 numCurrFrontier 4762 numVertices 1971281 my work 4762
+At level 196 Grid size 149 gpu numPrevFrontier 4762
+For my rank 0 At level 196 gpu Current frontier 4829
+Loop BFS For Ended Rank 0 Level 196
+For Loop Rank 0 Level 196 Total No of frontiers discovered 4829
+For Rank 0 All frontiers gathered New unique count 4829
+
+Loop BFS For Rank 0 Level 197 numCurrFrontier 4829 numVertices 1971281 my work 4829
+At level 197 Grid size 151 gpu numPrevFrontier 4829
+For my rank 0 At level 197 gpu Current frontier 4950
+Loop BFS For Ended Rank 0 Level 197
+For Loop Rank 0 Level 197 Total No of frontiers discovered 4950
+For Rank 0 All frontiers gathered New unique count 4950
+
+Loop BFS For Rank 0 Level 198 numCurrFrontier 4950 numVertices 1971281 my work 4950
+At level 198 Grid size 155 gpu numPrevFrontier 4950
+For my rank 0 At level 198 gpu Current frontier 5112
+Loop BFS For Ended Rank 0 Level 198
+For Loop Rank 0 Level 198 Total No of frontiers discovered 5112
+For Rank 0 All frontiers gathered New unique count 5112
+
+Loop BFS For Rank 0 Level 199 numCurrFrontier 5112 numVertices 1971281 my work 5112
+At level 199 Grid size 160 gpu numPrevFrontier 5112
+For my rank 0 At level 199 gpu Current frontier 5318
+Loop BFS For Ended Rank 0 Level 199
+For Loop Rank 0 Level 199 Total No of frontiers discovered 5318
+For Rank 0 All frontiers gathered New unique count 5318
+
+Loop BFS For Rank 0 Level 200 numCurrFrontier 5318 numVertices 1971281 my work 5318
+At level 200 Grid size 167 gpu numPrevFrontier 5318
+For my rank 0 At level 200 gpu Current frontier 5321
+Loop BFS For Ended Rank 0 Level 200
+For Loop Rank 0 Level 200 Total No of frontiers discovered 5321
+For Rank 0 All frontiers gathered New unique count 5321
+
+Loop BFS For Rank 0 Level 201 numCurrFrontier 5321 numVertices 1971281 my work 5321
+At level 201 Grid size 167 gpu numPrevFrontier 5321
+For my rank 0 At level 201 gpu Current frontier 5378
+Loop BFS For Ended Rank 0 Level 201
+For Loop Rank 0 Level 201 Total No of frontiers discovered 5378
+For Rank 0 All frontiers gathered New unique count 5378
+
+Loop BFS For Rank 0 Level 202 numCurrFrontier 5378 numVertices 1971281 my work 5378
+At level 202 Grid size 169 gpu numPrevFrontier 5378
+For my rank 0 At level 202 gpu Current frontier 5394
+Loop BFS For Ended Rank 0 Level 202
+For Loop Rank 0 Level 202 Total No of frontiers discovered 5394
+For Rank 0 All frontiers gathered New unique count 5394
+
+Loop BFS For Rank 0 Level 203 numCurrFrontier 5394 numVertices 1971281 my work 5394
+At level 203 Grid size 169 gpu numPrevFrontier 5394
+For my rank 0 At level 203 gpu Current frontier 5364
+Loop BFS For Ended Rank 0 Level 203
+For Loop Rank 0 Level 203 Total No of frontiers discovered 5364
+For Rank 0 All frontiers gathered New unique count 5364
+
+Loop BFS For Rank 0 Level 204 numCurrFrontier 5364 numVertices 1971281 my work 5364
+At level 204 Grid size 168 gpu numPrevFrontier 5364
+For my rank 0 At level 204 gpu Current frontier 5368
+Loop BFS For Ended Rank 0 Level 204
+For Loop Rank 0 Level 204 Total No of frontiers discovered 5368
+For Rank 0 All frontiers gathered New unique count 5368
+
+Loop BFS For Rank 0 Level 205 numCurrFrontier 5368 numVertices 1971281 my work 5368
+At level 205 Grid size 168 gpu numPrevFrontier 5368
+For my rank 0 At level 205 gpu Current frontier 5385
+Loop BFS For Ended Rank 0 Level 205
+For Loop Rank 0 Level 205 Total No of frontiers discovered 5385
+For Rank 0 All frontiers gathered New unique count 5385
+
+Loop BFS For Rank 0 Level 206 numCurrFrontier 5385 numVertices 1971281 my work 5385
+At level 206 Grid size 169 gpu numPrevFrontier 5385
+For my rank 0 At level 206 gpu Current frontier 5441
+Loop BFS For Ended Rank 0 Level 206
+For Loop Rank 0 Level 206 Total No of frontiers discovered 5441
+For Rank 0 All frontiers gathered New unique count 5441
+
+Loop BFS For Rank 0 Level 207 numCurrFrontier 5441 numVertices 1971281 my work 5441
+At level 207 Grid size 171 gpu numPrevFrontier 5441
+For my rank 0 At level 207 gpu Current frontier 5584
+Loop BFS For Ended Rank 0 Level 207
+For Loop Rank 0 Level 207 Total No of frontiers discovered 5584
+For Rank 0 All frontiers gathered New unique count 5584
+
+Loop BFS For Rank 0 Level 208 numCurrFrontier 5584 numVertices 1971281 my work 5584
+At level 208 Grid size 175 gpu numPrevFrontier 5584
+For my rank 0 At level 208 gpu Current frontier 5726
+Loop BFS For Ended Rank 0 Level 208
+For Loop Rank 0 Level 208 Total No of frontiers discovered 5726
+For Rank 0 All frontiers gathered New unique count 5726
+
+Loop BFS For Rank 0 Level 209 numCurrFrontier 5726 numVertices 1971281 my work 5726
+At level 209 Grid size 179 gpu numPrevFrontier 5726
+For my rank 0 At level 209 gpu Current frontier 5836
+Loop BFS For Ended Rank 0 Level 209
+For Loop Rank 0 Level 209 Total No of frontiers discovered 5836
+For Rank 0 All frontiers gathered New unique count 5836
+
+Loop BFS For Rank 0 Level 210 numCurrFrontier 5836 numVertices 1971281 my work 5836
+At level 210 Grid size 183 gpu numPrevFrontier 5836
+For my rank 0 At level 210 gpu Current frontier 5963
+Loop BFS For Ended Rank 0 Level 210
+For Loop Rank 0 Level 210 Total No of frontiers discovered 5963
+For Rank 0 All frontiers gathered New unique count 5963
+
+Loop BFS For Rank 0 Level 211 numCurrFrontier 5963 numVertices 1971281 my work 5963
+At level 211 Grid size 187 gpu numPrevFrontier 5963
+For my rank 0 At level 211 gpu Current frontier 5980
+Loop BFS For Ended Rank 0 Level 211
+For Loop Rank 0 Level 211 Total No of frontiers discovered 5980
+For Rank 0 All frontiers gathered New unique count 5980
+
+Loop BFS For Rank 0 Level 212 numCurrFrontier 5980 numVertices 1971281 my work 5980
+At level 212 Grid size 187 gpu numPrevFrontier 5980
+For my rank 0 At level 212 gpu Current frontier 6112
+Loop BFS For Ended Rank 0 Level 212
+For Loop Rank 0 Level 212 Total No of frontiers discovered 6112
+For Rank 0 All frontiers gathered New unique count 6112
+
+Loop BFS For Rank 0 Level 213 numCurrFrontier 6112 numVertices 1971281 my work 6112
+At level 213 Grid size 192 gpu numPrevFrontier 6112
+For my rank 0 At level 213 gpu Current frontier 6151
+Loop BFS For Ended Rank 0 Level 213
+For Loop Rank 0 Level 213 Total No of frontiers discovered 6151
+For Rank 0 All frontiers gathered New unique count 6151
+
+Loop BFS For Rank 0 Level 214 numCurrFrontier 6151 numVertices 1971281 my work 6151
+At level 214 Grid size 193 gpu numPrevFrontier 6151
+For my rank 0 At level 214 gpu Current frontier 6094
+Loop BFS For Ended Rank 0 Level 214
+For Loop Rank 0 Level 214 Total No of frontiers discovered 6094
+For Rank 0 All frontiers gathered New unique count 6094
+
+Loop BFS For Rank 0 Level 215 numCurrFrontier 6094 numVertices 1971281 my work 6094
+At level 215 Grid size 191 gpu numPrevFrontier 6094
+For my rank 0 At level 215 gpu Current frontier 5991
+Loop BFS For Ended Rank 0 Level 215
+For Loop Rank 0 Level 215 Total No of frontiers discovered 5991
+For Rank 0 All frontiers gathered New unique count 5991
+
+Loop BFS For Rank 0 Level 216 numCurrFrontier 5991 numVertices 1971281 my work 5991
+At level 216 Grid size 188 gpu numPrevFrontier 5991
+For my rank 0 At level 216 gpu Current frontier 5926
+Loop BFS For Ended Rank 0 Level 216
+For Loop Rank 0 Level 216 Total No of frontiers discovered 5926
+For Rank 0 All frontiers gathered New unique count 5926
+
+Loop BFS For Rank 0 Level 217 numCurrFrontier 5926 numVertices 1971281 my work 5926
+At level 217 Grid size 186 gpu numPrevFrontier 5926
+For my rank 0 At level 217 gpu Current frontier 5850
+Loop BFS For Ended Rank 0 Level 217
+For Loop Rank 0 Level 217 Total No of frontiers discovered 5850
+For Rank 0 All frontiers gathered New unique count 5850
+
+Loop BFS For Rank 0 Level 218 numCurrFrontier 5850 numVertices 1971281 my work 5850
+At level 218 Grid size 183 gpu numPrevFrontier 5850
+For my rank 0 At level 218 gpu Current frontier 5808
+Loop BFS For Ended Rank 0 Level 218
+For Loop Rank 0 Level 218 Total No of frontiers discovered 5808
+For Rank 0 All frontiers gathered New unique count 5808
+
+Loop BFS For Rank 0 Level 219 numCurrFrontier 5808 numVertices 1971281 my work 5808
+At level 219 Grid size 182 gpu numPrevFrontier 5808
+For my rank 0 At level 219 gpu Current frontier 5852
+Loop BFS For Ended Rank 0 Level 219
+For Loop Rank 0 Level 219 Total No of frontiers discovered 5852
+For Rank 0 All frontiers gathered New unique count 5852
+
+Loop BFS For Rank 0 Level 220 numCurrFrontier 5852 numVertices 1971281 my work 5852
+At level 220 Grid size 183 gpu numPrevFrontier 5852
+For my rank 0 At level 220 gpu Current frontier 5860
+Loop BFS For Ended Rank 0 Level 220
+For Loop Rank 0 Level 220 Total No of frontiers discovered 5860
+For Rank 0 All frontiers gathered New unique count 5860
+
+Loop BFS For Rank 0 Level 221 numCurrFrontier 5860 numVertices 1971281 my work 5860
+At level 221 Grid size 184 gpu numPrevFrontier 5860
+For my rank 0 At level 221 gpu Current frontier 5781
+Loop BFS For Ended Rank 0 Level 221
+For Loop Rank 0 Level 221 Total No of frontiers discovered 5781
+For Rank 0 All frontiers gathered New unique count 5781
+
+Loop BFS For Rank 0 Level 222 numCurrFrontier 5781 numVertices 1971281 my work 5781
+At level 222 Grid size 181 gpu numPrevFrontier 5781
+For my rank 0 At level 222 gpu Current frontier 5750
+Loop BFS For Ended Rank 0 Level 222
+For Loop Rank 0 Level 222 Total No of frontiers discovered 5750
+For Rank 0 All frontiers gathered New unique count 5750
+
+Loop BFS For Rank 0 Level 223 numCurrFrontier 5750 numVertices 1971281 my work 5750
+At level 223 Grid size 180 gpu numPrevFrontier 5750
+For my rank 0 At level 223 gpu Current frontier 5643
+Loop BFS For Ended Rank 0 Level 223
+For Loop Rank 0 Level 223 Total No of frontiers discovered 5643
+For Rank 0 All frontiers gathered New unique count 5643
+
+Loop BFS For Rank 0 Level 224 numCurrFrontier 5643 numVertices 1971281 my work 5643
+At level 224 Grid size 177 gpu numPrevFrontier 5643
+For my rank 0 At level 224 gpu Current frontier 5602
+Loop BFS For Ended Rank 0 Level 224
+For Loop Rank 0 Level 224 Total No of frontiers discovered 5602
+For Rank 0 All frontiers gathered New unique count 5602
+
+Loop BFS For Rank 0 Level 225 numCurrFrontier 5602 numVertices 1971281 my work 5602
+At level 225 Grid size 176 gpu numPrevFrontier 5602
+For my rank 0 At level 225 gpu Current frontier 5436
+Loop BFS For Ended Rank 0 Level 225
+For Loop Rank 0 Level 225 Total No of frontiers discovered 5436
+For Rank 0 All frontiers gathered New unique count 5436
+
+Loop BFS For Rank 0 Level 226 numCurrFrontier 5436 numVertices 1971281 my work 5436
+At level 226 Grid size 170 gpu numPrevFrontier 5436
+For my rank 0 At level 226 gpu Current frontier 5191
+Loop BFS For Ended Rank 0 Level 226
+For Loop Rank 0 Level 226 Total No of frontiers discovered 5191
+For Rank 0 All frontiers gathered New unique count 5191
+
+Loop BFS For Rank 0 Level 227 numCurrFrontier 5191 numVertices 1971281 my work 5191
+At level 227 Grid size 163 gpu numPrevFrontier 5191
+For my rank 0 At level 227 gpu Current frontier 5060
+Loop BFS For Ended Rank 0 Level 227
+For Loop Rank 0 Level 227 Total No of frontiers discovered 5060
+For Rank 0 All frontiers gathered New unique count 5060
+
+Loop BFS For Rank 0 Level 228 numCurrFrontier 5060 numVertices 1971281 my work 5060
+At level 228 Grid size 159 gpu numPrevFrontier 5060
+For my rank 0 At level 228 gpu Current frontier 4936
+Loop BFS For Ended Rank 0 Level 228
+For Loop Rank 0 Level 228 Total No of frontiers discovered 4936
+For Rank 0 All frontiers gathered New unique count 4936
+
+Loop BFS For Rank 0 Level 229 numCurrFrontier 4936 numVertices 1971281 my work 4936
+At level 229 Grid size 155 gpu numPrevFrontier 4936
+For my rank 0 At level 229 gpu Current frontier 4793
+Loop BFS For Ended Rank 0 Level 229
+For Loop Rank 0 Level 229 Total No of frontiers discovered 4793
+For Rank 0 All frontiers gathered New unique count 4793
+
+Loop BFS For Rank 0 Level 230 numCurrFrontier 4793 numVertices 1971281 my work 4793
+At level 230 Grid size 150 gpu numPrevFrontier 4793
+For my rank 0 At level 230 gpu Current frontier 4727
+Loop BFS For Ended Rank 0 Level 230
+For Loop Rank 0 Level 230 Total No of frontiers discovered 4727
+For Rank 0 All frontiers gathered New unique count 4727
+
+Loop BFS For Rank 0 Level 231 numCurrFrontier 4727 numVertices 1971281 my work 4727
+At level 231 Grid size 148 gpu numPrevFrontier 4727
+For my rank 0 At level 231 gpu Current frontier 4688
+Loop BFS For Ended Rank 0 Level 231
+For Loop Rank 0 Level 231 Total No of frontiers discovered 4688
+For Rank 0 All frontiers gathered New unique count 4688
+
+Loop BFS For Rank 0 Level 232 numCurrFrontier 4688 numVertices 1971281 my work 4688
+At level 232 Grid size 147 gpu numPrevFrontier 4688
+For my rank 0 At level 232 gpu Current frontier 4637
+Loop BFS For Ended Rank 0 Level 232
+For Loop Rank 0 Level 232 Total No of frontiers discovered 4637
+For Rank 0 All frontiers gathered New unique count 4637
+
+Loop BFS For Rank 0 Level 233 numCurrFrontier 4637 numVertices 1971281 my work 4637
+At level 233 Grid size 145 gpu numPrevFrontier 4637
+For my rank 0 At level 233 gpu Current frontier 4682
+Loop BFS For Ended Rank 0 Level 233
+For Loop Rank 0 Level 233 Total No of frontiers discovered 4682
+For Rank 0 All frontiers gathered New unique count 4682
+
+Loop BFS For Rank 0 Level 234 numCurrFrontier 4682 numVertices 1971281 my work 4682
+At level 234 Grid size 147 gpu numPrevFrontier 4682
+For my rank 0 At level 234 gpu Current frontier 4751
+Loop BFS For Ended Rank 0 Level 234
+For Loop Rank 0 Level 234 Total No of frontiers discovered 4751
+For Rank 0 All frontiers gathered New unique count 4751
+
+Loop BFS For Rank 0 Level 235 numCurrFrontier 4751 numVertices 1971281 my work 4751
+At level 235 Grid size 149 gpu numPrevFrontier 4751
+For my rank 0 At level 235 gpu Current frontier 4708
+Loop BFS For Ended Rank 0 Level 235
+For Loop Rank 0 Level 235 Total No of frontiers discovered 4708
+For Rank 0 All frontiers gathered New unique count 4708
+
+Loop BFS For Rank 0 Level 236 numCurrFrontier 4708 numVertices 1971281 my work 4708
+At level 236 Grid size 148 gpu numPrevFrontier 4708
+For my rank 0 At level 236 gpu Current frontier 4529
+Loop BFS For Ended Rank 0 Level 236
+For Loop Rank 0 Level 236 Total No of frontiers discovered 4529
+For Rank 0 All frontiers gathered New unique count 4529
+
+Loop BFS For Rank 0 Level 237 numCurrFrontier 4529 numVertices 1971281 my work 4529
+At level 237 Grid size 142 gpu numPrevFrontier 4529
+For my rank 0 At level 237 gpu Current frontier 4497
+Loop BFS For Ended Rank 0 Level 237
+For Loop Rank 0 Level 237 Total No of frontiers discovered 4497
+For Rank 0 All frontiers gathered New unique count 4497
+
+Loop BFS For Rank 0 Level 238 numCurrFrontier 4497 numVertices 1971281 my work 4497
+At level 238 Grid size 141 gpu numPrevFrontier 4497
+For my rank 0 At level 238 gpu Current frontier 4353
+Loop BFS For Ended Rank 0 Level 238
+For Loop Rank 0 Level 238 Total No of frontiers discovered 4353
+For Rank 0 All frontiers gathered New unique count 4353
+
+Loop BFS For Rank 0 Level 239 numCurrFrontier 4353 numVertices 1971281 my work 4353
+At level 239 Grid size 137 gpu numPrevFrontier 4353
+For my rank 0 At level 239 gpu Current frontier 4257
+Loop BFS For Ended Rank 0 Level 239
+For Loop Rank 0 Level 239 Total No of frontiers discovered 4257
+For Rank 0 All frontiers gathered New unique count 4257
+
+Loop BFS For Rank 0 Level 240 numCurrFrontier 4257 numVertices 1971281 my work 4257
+At level 240 Grid size 134 gpu numPrevFrontier 4257
+For my rank 0 At level 240 gpu Current frontier 4283
+Loop BFS For Ended Rank 0 Level 240
+For Loop Rank 0 Level 240 Total No of frontiers discovered 4283
+For Rank 0 All frontiers gathered New unique count 4283
+
+Loop BFS For Rank 0 Level 241 numCurrFrontier 4283 numVertices 1971281 my work 4283
+At level 241 Grid size 134 gpu numPrevFrontier 4283
+For my rank 0 At level 241 gpu Current frontier 4298
+Loop BFS For Ended Rank 0 Level 241
+For Loop Rank 0 Level 241 Total No of frontiers discovered 4298
+For Rank 0 All frontiers gathered New unique count 4298
+
+Loop BFS For Rank 0 Level 242 numCurrFrontier 4298 numVertices 1971281 my work 4298
+At level 242 Grid size 135 gpu numPrevFrontier 4298
+For my rank 0 At level 242 gpu Current frontier 4294
+Loop BFS For Ended Rank 0 Level 242
+For Loop Rank 0 Level 242 Total No of frontiers discovered 4294
+For Rank 0 All frontiers gathered New unique count 4294
+
+Loop BFS For Rank 0 Level 243 numCurrFrontier 4294 numVertices 1971281 my work 4294
+At level 243 Grid size 135 gpu numPrevFrontier 4294
+For my rank 0 At level 243 gpu Current frontier 4281
+Loop BFS For Ended Rank 0 Level 243
+For Loop Rank 0 Level 243 Total No of frontiers discovered 4281
+For Rank 0 All frontiers gathered New unique count 4281
+
+Loop BFS For Rank 0 Level 244 numCurrFrontier 4281 numVertices 1971281 my work 4281
+At level 244 Grid size 134 gpu numPrevFrontier 4281
+For my rank 0 At level 244 gpu Current frontier 4354
+Loop BFS For Ended Rank 0 Level 244
+For Loop Rank 0 Level 244 Total No of frontiers discovered 4354
+For Rank 0 All frontiers gathered New unique count 4354
+
+Loop BFS For Rank 0 Level 245 numCurrFrontier 4354 numVertices 1971281 my work 4354
+At level 245 Grid size 137 gpu numPrevFrontier 4354
+For my rank 0 At level 245 gpu Current frontier 4433
+Loop BFS For Ended Rank 0 Level 245
+For Loop Rank 0 Level 245 Total No of frontiers discovered 4433
+For Rank 0 All frontiers gathered New unique count 4433
+
+Loop BFS For Rank 0 Level 246 numCurrFrontier 4433 numVertices 1971281 my work 4433
+At level 246 Grid size 139 gpu numPrevFrontier 4433
+For my rank 0 At level 246 gpu Current frontier 4471
+Loop BFS For Ended Rank 0 Level 246
+For Loop Rank 0 Level 246 Total No of frontiers discovered 4471
+For Rank 0 All frontiers gathered New unique count 4471
+
+Loop BFS For Rank 0 Level 247 numCurrFrontier 4471 numVertices 1971281 my work 4471
+At level 247 Grid size 140 gpu numPrevFrontier 4471
+For my rank 0 At level 247 gpu Current frontier 4439
+Loop BFS For Ended Rank 0 Level 247
+For Loop Rank 0 Level 247 Total No of frontiers discovered 4439
+For Rank 0 All frontiers gathered New unique count 4439
+
+Loop BFS For Rank 0 Level 248 numCurrFrontier 4439 numVertices 1971281 my work 4439
+At level 248 Grid size 139 gpu numPrevFrontier 4439
+For my rank 0 At level 248 gpu Current frontier 4469
+Loop BFS For Ended Rank 0 Level 248
+For Loop Rank 0 Level 248 Total No of frontiers discovered 4469
+For Rank 0 All frontiers gathered New unique count 4469
+
+Loop BFS For Rank 0 Level 249 numCurrFrontier 4469 numVertices 1971281 my work 4469
+At level 249 Grid size 140 gpu numPrevFrontier 4469
+For my rank 0 At level 249 gpu Current frontier 4601
+Loop BFS For Ended Rank 0 Level 249
+For Loop Rank 0 Level 249 Total No of frontiers discovered 4601
+For Rank 0 All frontiers gathered New unique count 4601
+
+Loop BFS For Rank 0 Level 250 numCurrFrontier 4601 numVertices 1971281 my work 4601
+At level 250 Grid size 144 gpu numPrevFrontier 4601
+For my rank 0 At level 250 gpu Current frontier 4669
+Loop BFS For Ended Rank 0 Level 250
+For Loop Rank 0 Level 250 Total No of frontiers discovered 4669
+For Rank 0 All frontiers gathered New unique count 4669
+
+Loop BFS For Rank 0 Level 251 numCurrFrontier 4669 numVertices 1971281 my work 4669
+At level 251 Grid size 146 gpu numPrevFrontier 4669
+For my rank 0 At level 251 gpu Current frontier 4707
+Loop BFS For Ended Rank 0 Level 251
+For Loop Rank 0 Level 251 Total No of frontiers discovered 4707
+For Rank 0 All frontiers gathered New unique count 4707
+
+Loop BFS For Rank 0 Level 252 numCurrFrontier 4707 numVertices 1971281 my work 4707
+At level 252 Grid size 148 gpu numPrevFrontier 4707
+For my rank 0 At level 252 gpu Current frontier 4549
+Loop BFS For Ended Rank 0 Level 252
+For Loop Rank 0 Level 252 Total No of frontiers discovered 4549
+For Rank 0 All frontiers gathered New unique count 4549
+
+Loop BFS For Rank 0 Level 253 numCurrFrontier 4549 numVertices 1971281 my work 4549
+At level 253 Grid size 143 gpu numPrevFrontier 4549
+For my rank 0 At level 253 gpu Current frontier 4478
+Loop BFS For Ended Rank 0 Level 253
+For Loop Rank 0 Level 253 Total No of frontiers discovered 4478
+For Rank 0 All frontiers gathered New unique count 4478
+
+Loop BFS For Rank 0 Level 254 numCurrFrontier 4478 numVertices 1971281 my work 4478
+At level 254 Grid size 140 gpu numPrevFrontier 4478
+For my rank 0 At level 254 gpu Current frontier 4464
+Loop BFS For Ended Rank 0 Level 254
+For Loop Rank 0 Level 254 Total No of frontiers discovered 4464
+For Rank 0 All frontiers gathered New unique count 4464
+
+Loop BFS For Rank 0 Level 255 numCurrFrontier 4464 numVertices 1971281 my work 4464
+At level 255 Grid size 140 gpu numPrevFrontier 4464
+For my rank 0 At level 255 gpu Current frontier 4431
+Loop BFS For Ended Rank 0 Level 255
+For Loop Rank 0 Level 255 Total No of frontiers discovered 4431
+For Rank 0 All frontiers gathered New unique count 4431
+
+Loop BFS For Rank 0 Level 256 numCurrFrontier 4431 numVertices 1971281 my work 4431
+At level 256 Grid size 139 gpu numPrevFrontier 4431
+For my rank 0 At level 256 gpu Current frontier 4294
+Loop BFS For Ended Rank 0 Level 256
+For Loop Rank 0 Level 256 Total No of frontiers discovered 4294
+For Rank 0 All frontiers gathered New unique count 4294
+
+Loop BFS For Rank 0 Level 257 numCurrFrontier 4294 numVertices 1971281 my work 4294
+At level 257 Grid size 135 gpu numPrevFrontier 4294
+For my rank 0 At level 257 gpu Current frontier 4252
+Loop BFS For Ended Rank 0 Level 257
+For Loop Rank 0 Level 257 Total No of frontiers discovered 4252
+For Rank 0 All frontiers gathered New unique count 4252
+
+Loop BFS For Rank 0 Level 258 numCurrFrontier 4252 numVertices 1971281 my work 4252
+At level 258 Grid size 133 gpu numPrevFrontier 4252
+For my rank 0 At level 258 gpu Current frontier 4239
+Loop BFS For Ended Rank 0 Level 258
+For Loop Rank 0 Level 258 Total No of frontiers discovered 4239
+For Rank 0 All frontiers gathered New unique count 4239
+
+Loop BFS For Rank 0 Level 259 numCurrFrontier 4239 numVertices 1971281 my work 4239
+At level 259 Grid size 133 gpu numPrevFrontier 4239
+For my rank 0 At level 259 gpu Current frontier 4195
+Loop BFS For Ended Rank 0 Level 259
+For Loop Rank 0 Level 259 Total No of frontiers discovered 4195
+For Rank 0 All frontiers gathered New unique count 4195
+
+Loop BFS For Rank 0 Level 260 numCurrFrontier 4195 numVertices 1971281 my work 4195
+At level 260 Grid size 132 gpu numPrevFrontier 4195
+For my rank 0 At level 260 gpu Current frontier 4258
+Loop BFS For Ended Rank 0 Level 260
+For Loop Rank 0 Level 260 Total No of frontiers discovered 4258
+For Rank 0 All frontiers gathered New unique count 4258
+
+Loop BFS For Rank 0 Level 261 numCurrFrontier 4258 numVertices 1971281 my work 4258
+At level 261 Grid size 134 gpu numPrevFrontier 4258
+For my rank 0 At level 261 gpu Current frontier 4253
+Loop BFS For Ended Rank 0 Level 261
+For Loop Rank 0 Level 261 Total No of frontiers discovered 4253
+For Rank 0 All frontiers gathered New unique count 4253
+
+Loop BFS For Rank 0 Level 262 numCurrFrontier 4253 numVertices 1971281 my work 4253
+At level 262 Grid size 133 gpu numPrevFrontier 4253
+For my rank 0 At level 262 gpu Current frontier 4127
+Loop BFS For Ended Rank 0 Level 262
+For Loop Rank 0 Level 262 Total No of frontiers discovered 4127
+For Rank 0 All frontiers gathered New unique count 4127
+
+Loop BFS For Rank 0 Level 263 numCurrFrontier 4127 numVertices 1971281 my work 4127
+At level 263 Grid size 129 gpu numPrevFrontier 4127
+For my rank 0 At level 263 gpu Current frontier 4212
+Loop BFS For Ended Rank 0 Level 263
+For Loop Rank 0 Level 263 Total No of frontiers discovered 4212
+For Rank 0 All frontiers gathered New unique count 4212
+
+Loop BFS For Rank 0 Level 264 numCurrFrontier 4212 numVertices 1971281 my work 4212
+At level 264 Grid size 132 gpu numPrevFrontier 4212
+For my rank 0 At level 264 gpu Current frontier 4314
+Loop BFS For Ended Rank 0 Level 264
+For Loop Rank 0 Level 264 Total No of frontiers discovered 4314
+For Rank 0 All frontiers gathered New unique count 4314
+
+Loop BFS For Rank 0 Level 265 numCurrFrontier 4314 numVertices 1971281 my work 4314
+At level 265 Grid size 135 gpu numPrevFrontier 4314
+For my rank 0 At level 265 gpu Current frontier 4389
+Loop BFS For Ended Rank 0 Level 265
+For Loop Rank 0 Level 265 Total No of frontiers discovered 4389
+For Rank 0 All frontiers gathered New unique count 4389
+
+Loop BFS For Rank 0 Level 266 numCurrFrontier 4389 numVertices 1971281 my work 4389
+At level 266 Grid size 138 gpu numPrevFrontier 4389
+For my rank 0 At level 266 gpu Current frontier 4380
+Loop BFS For Ended Rank 0 Level 266
+For Loop Rank 0 Level 266 Total No of frontiers discovered 4380
+For Rank 0 All frontiers gathered New unique count 4380
+
+Loop BFS For Rank 0 Level 267 numCurrFrontier 4380 numVertices 1971281 my work 4380
+At level 267 Grid size 137 gpu numPrevFrontier 4380
+For my rank 0 At level 267 gpu Current frontier 4456
+Loop BFS For Ended Rank 0 Level 267
+For Loop Rank 0 Level 267 Total No of frontiers discovered 4456
+For Rank 0 All frontiers gathered New unique count 4456
+
+Loop BFS For Rank 0 Level 268 numCurrFrontier 4456 numVertices 1971281 my work 4456
+At level 268 Grid size 140 gpu numPrevFrontier 4456
+For my rank 0 At level 268 gpu Current frontier 4384
+Loop BFS For Ended Rank 0 Level 268
+For Loop Rank 0 Level 268 Total No of frontiers discovered 4384
+For Rank 0 All frontiers gathered New unique count 4384
+
+Loop BFS For Rank 0 Level 269 numCurrFrontier 4384 numVertices 1971281 my work 4384
+At level 269 Grid size 138 gpu numPrevFrontier 4384
+For my rank 0 At level 269 gpu Current frontier 4248
+Loop BFS For Ended Rank 0 Level 269
+For Loop Rank 0 Level 269 Total No of frontiers discovered 4248
+For Rank 0 All frontiers gathered New unique count 4248
+
+Loop BFS For Rank 0 Level 270 numCurrFrontier 4248 numVertices 1971281 my work 4248
+At level 270 Grid size 133 gpu numPrevFrontier 4248
+For my rank 0 At level 270 gpu Current frontier 4131
+Loop BFS For Ended Rank 0 Level 270
+For Loop Rank 0 Level 270 Total No of frontiers discovered 4131
+For Rank 0 All frontiers gathered New unique count 4131
+
+Loop BFS For Rank 0 Level 271 numCurrFrontier 4131 numVertices 1971281 my work 4131
+At level 271 Grid size 130 gpu numPrevFrontier 4131
+For my rank 0 At level 271 gpu Current frontier 4099
+Loop BFS For Ended Rank 0 Level 271
+For Loop Rank 0 Level 271 Total No of frontiers discovered 4099
+For Rank 0 All frontiers gathered New unique count 4099
+
+Loop BFS For Rank 0 Level 272 numCurrFrontier 4099 numVertices 1971281 my work 4099
+At level 272 Grid size 129 gpu numPrevFrontier 4099
+For my rank 0 At level 272 gpu Current frontier 4094
+Loop BFS For Ended Rank 0 Level 272
+For Loop Rank 0 Level 272 Total No of frontiers discovered 4094
+For Rank 0 All frontiers gathered New unique count 4094
+
+Loop BFS For Rank 0 Level 273 numCurrFrontier 4094 numVertices 1971281 my work 4094
+At level 273 Grid size 128 gpu numPrevFrontier 4094
+For my rank 0 At level 273 gpu Current frontier 4101
+Loop BFS For Ended Rank 0 Level 273
+For Loop Rank 0 Level 273 Total No of frontiers discovered 4101
+For Rank 0 All frontiers gathered New unique count 4101
+
+Loop BFS For Rank 0 Level 274 numCurrFrontier 4101 numVertices 1971281 my work 4101
+At level 274 Grid size 129 gpu numPrevFrontier 4101
+For my rank 0 At level 274 gpu Current frontier 4204
+Loop BFS For Ended Rank 0 Level 274
+For Loop Rank 0 Level 274 Total No of frontiers discovered 4204
+For Rank 0 All frontiers gathered New unique count 4204
+
+Loop BFS For Rank 0 Level 275 numCurrFrontier 4204 numVertices 1971281 my work 4204
+At level 275 Grid size 132 gpu numPrevFrontier 4204
+For my rank 0 At level 275 gpu Current frontier 4181
+Loop BFS For Ended Rank 0 Level 275
+For Loop Rank 0 Level 275 Total No of frontiers discovered 4181
+For Rank 0 All frontiers gathered New unique count 4181
+
+Loop BFS For Rank 0 Level 276 numCurrFrontier 4181 numVertices 1971281 my work 4181
+At level 276 Grid size 131 gpu numPrevFrontier 4181
+For my rank 0 At level 276 gpu Current frontier 4021
+Loop BFS For Ended Rank 0 Level 276
+For Loop Rank 0 Level 276 Total No of frontiers discovered 4021
+For Rank 0 All frontiers gathered New unique count 4021
+
+Loop BFS For Rank 0 Level 277 numCurrFrontier 4021 numVertices 1971281 my work 4021
+At level 277 Grid size 126 gpu numPrevFrontier 4021
+For my rank 0 At level 277 gpu Current frontier 3988
+Loop BFS For Ended Rank 0 Level 277
+For Loop Rank 0 Level 277 Total No of frontiers discovered 3988
+For Rank 0 All frontiers gathered New unique count 3988
+
+Loop BFS For Rank 0 Level 278 numCurrFrontier 3988 numVertices 1971281 my work 3988
+At level 278 Grid size 125 gpu numPrevFrontier 3988
+For my rank 0 At level 278 gpu Current frontier 3944
+Loop BFS For Ended Rank 0 Level 278
+For Loop Rank 0 Level 278 Total No of frontiers discovered 3944
+For Rank 0 All frontiers gathered New unique count 3944
+
+Loop BFS For Rank 0 Level 279 numCurrFrontier 3944 numVertices 1971281 my work 3944
+At level 279 Grid size 124 gpu numPrevFrontier 3944
+For my rank 0 At level 279 gpu Current frontier 3825
+Loop BFS For Ended Rank 0 Level 279
+For Loop Rank 0 Level 279 Total No of frontiers discovered 3825
+For Rank 0 All frontiers gathered New unique count 3825
+
+Loop BFS For Rank 0 Level 280 numCurrFrontier 3825 numVertices 1971281 my work 3825
+At level 280 Grid size 120 gpu numPrevFrontier 3825
+For my rank 0 At level 280 gpu Current frontier 3754
+Loop BFS For Ended Rank 0 Level 280
+For Loop Rank 0 Level 280 Total No of frontiers discovered 3754
+For Rank 0 All frontiers gathered New unique count 3754
+
+Loop BFS For Rank 0 Level 281 numCurrFrontier 3754 numVertices 1971281 my work 3754
+At level 281 Grid size 118 gpu numPrevFrontier 3754
+For my rank 0 At level 281 gpu Current frontier 3586
+Loop BFS For Ended Rank 0 Level 281
+For Loop Rank 0 Level 281 Total No of frontiers discovered 3586
+For Rank 0 All frontiers gathered New unique count 3586
+
+Loop BFS For Rank 0 Level 282 numCurrFrontier 3586 numVertices 1971281 my work 3586
+At level 282 Grid size 113 gpu numPrevFrontier 3586
+For my rank 0 At level 282 gpu Current frontier 3536
+Loop BFS For Ended Rank 0 Level 282
+For Loop Rank 0 Level 282 Total No of frontiers discovered 3536
+For Rank 0 All frontiers gathered New unique count 3536
+
+Loop BFS For Rank 0 Level 283 numCurrFrontier 3536 numVertices 1971281 my work 3536
+At level 283 Grid size 111 gpu numPrevFrontier 3536
+For my rank 0 At level 283 gpu Current frontier 3540
+Loop BFS For Ended Rank 0 Level 283
+For Loop Rank 0 Level 283 Total No of frontiers discovered 3540
+For Rank 0 All frontiers gathered New unique count 3540
+
+Loop BFS For Rank 0 Level 284 numCurrFrontier 3540 numVertices 1971281 my work 3540
+At level 284 Grid size 111 gpu numPrevFrontier 3540
+For my rank 0 At level 284 gpu Current frontier 3608
+Loop BFS For Ended Rank 0 Level 284
+For Loop Rank 0 Level 284 Total No of frontiers discovered 3608
+For Rank 0 All frontiers gathered New unique count 3608
+
+Loop BFS For Rank 0 Level 285 numCurrFrontier 3608 numVertices 1971281 my work 3608
+At level 285 Grid size 113 gpu numPrevFrontier 3608
+For my rank 0 At level 285 gpu Current frontier 3740
+Loop BFS For Ended Rank 0 Level 285
+For Loop Rank 0 Level 285 Total No of frontiers discovered 3740
+For Rank 0 All frontiers gathered New unique count 3740
+
+Loop BFS For Rank 0 Level 286 numCurrFrontier 3740 numVertices 1971281 my work 3740
+At level 286 Grid size 117 gpu numPrevFrontier 3740
+For my rank 0 At level 286 gpu Current frontier 3669
+Loop BFS For Ended Rank 0 Level 286
+For Loop Rank 0 Level 286 Total No of frontiers discovered 3669
+For Rank 0 All frontiers gathered New unique count 3669
+
+Loop BFS For Rank 0 Level 287 numCurrFrontier 3669 numVertices 1971281 my work 3669
+At level 287 Grid size 115 gpu numPrevFrontier 3669
+For my rank 0 At level 287 gpu Current frontier 3689
+Loop BFS For Ended Rank 0 Level 287
+For Loop Rank 0 Level 287 Total No of frontiers discovered 3689
+For Rank 0 All frontiers gathered New unique count 3689
+
+Loop BFS For Rank 0 Level 288 numCurrFrontier 3689 numVertices 1971281 my work 3689
+At level 288 Grid size 116 gpu numPrevFrontier 3689
+For my rank 0 At level 288 gpu Current frontier 3634
+Loop BFS For Ended Rank 0 Level 288
+For Loop Rank 0 Level 288 Total No of frontiers discovered 3634
+For Rank 0 All frontiers gathered New unique count 3634
+
+Loop BFS For Rank 0 Level 289 numCurrFrontier 3634 numVertices 1971281 my work 3634
+At level 289 Grid size 114 gpu numPrevFrontier 3634
+For my rank 0 At level 289 gpu Current frontier 3581
+Loop BFS For Ended Rank 0 Level 289
+For Loop Rank 0 Level 289 Total No of frontiers discovered 3581
+For Rank 0 All frontiers gathered New unique count 3581
+
+Loop BFS For Rank 0 Level 290 numCurrFrontier 3581 numVertices 1971281 my work 3581
+At level 290 Grid size 112 gpu numPrevFrontier 3581
+For my rank 0 At level 290 gpu Current frontier 3604
+Loop BFS For Ended Rank 0 Level 290
+For Loop Rank 0 Level 290 Total No of frontiers discovered 3604
+For Rank 0 All frontiers gathered New unique count 3604
+
+Loop BFS For Rank 0 Level 291 numCurrFrontier 3604 numVertices 1971281 my work 3604
+At level 291 Grid size 113 gpu numPrevFrontier 3604
+For my rank 0 At level 291 gpu Current frontier 3670
+Loop BFS For Ended Rank 0 Level 291
+For Loop Rank 0 Level 291 Total No of frontiers discovered 3670
+For Rank 0 All frontiers gathered New unique count 3670
+
+Loop BFS For Rank 0 Level 292 numCurrFrontier 3670 numVertices 1971281 my work 3670
+At level 292 Grid size 115 gpu numPrevFrontier 3670
+For my rank 0 At level 292 gpu Current frontier 3751
+Loop BFS For Ended Rank 0 Level 292
+For Loop Rank 0 Level 292 Total No of frontiers discovered 3751
+For Rank 0 All frontiers gathered New unique count 3751
+
+Loop BFS For Rank 0 Level 293 numCurrFrontier 3751 numVertices 1971281 my work 3751
+At level 293 Grid size 118 gpu numPrevFrontier 3751
+For my rank 0 At level 293 gpu Current frontier 3793
+Loop BFS For Ended Rank 0 Level 293
+For Loop Rank 0 Level 293 Total No of frontiers discovered 3793
+For Rank 0 All frontiers gathered New unique count 3793
+
+Loop BFS For Rank 0 Level 294 numCurrFrontier 3793 numVertices 1971281 my work 3793
+At level 294 Grid size 119 gpu numPrevFrontier 3793
+For my rank 0 At level 294 gpu Current frontier 3897
+Loop BFS For Ended Rank 0 Level 294
+For Loop Rank 0 Level 294 Total No of frontiers discovered 3897
+For Rank 0 All frontiers gathered New unique count 3897
+
+Loop BFS For Rank 0 Level 295 numCurrFrontier 3897 numVertices 1971281 my work 3897
+At level 295 Grid size 122 gpu numPrevFrontier 3897
+For my rank 0 At level 295 gpu Current frontier 3982
+Loop BFS For Ended Rank 0 Level 295
+For Loop Rank 0 Level 295 Total No of frontiers discovered 3982
+For Rank 0 All frontiers gathered New unique count 3982
+
+Loop BFS For Rank 0 Level 296 numCurrFrontier 3982 numVertices 1971281 my work 3982
+At level 296 Grid size 125 gpu numPrevFrontier 3982
+For my rank 0 At level 296 gpu Current frontier 4029
+Loop BFS For Ended Rank 0 Level 296
+For Loop Rank 0 Level 296 Total No of frontiers discovered 4029
+For Rank 0 All frontiers gathered New unique count 4029
+
+Loop BFS For Rank 0 Level 297 numCurrFrontier 4029 numVertices 1971281 my work 4029
+At level 297 Grid size 126 gpu numPrevFrontier 4029
+For my rank 0 At level 297 gpu Current frontier 4067
+Loop BFS For Ended Rank 0 Level 297
+For Loop Rank 0 Level 297 Total No of frontiers discovered 4067
+For Rank 0 All frontiers gathered New unique count 4067
+
+Loop BFS For Rank 0 Level 298 numCurrFrontier 4067 numVertices 1971281 my work 4067
+At level 298 Grid size 128 gpu numPrevFrontier 4067
+For my rank 0 At level 298 gpu Current frontier 4051
+Loop BFS For Ended Rank 0 Level 298
+For Loop Rank 0 Level 298 Total No of frontiers discovered 4051
+For Rank 0 All frontiers gathered New unique count 4051
+
+Loop BFS For Rank 0 Level 299 numCurrFrontier 4051 numVertices 1971281 my work 4051
+At level 299 Grid size 127 gpu numPrevFrontier 4051
+For my rank 0 At level 299 gpu Current frontier 4119
+Loop BFS For Ended Rank 0 Level 299
+For Loop Rank 0 Level 299 Total No of frontiers discovered 4119
+For Rank 0 All frontiers gathered New unique count 4119
+
+Loop BFS For Rank 0 Level 300 numCurrFrontier 4119 numVertices 1971281 my work 4119
+At level 300 Grid size 129 gpu numPrevFrontier 4119
+For my rank 0 At level 300 gpu Current frontier 4107
+Loop BFS For Ended Rank 0 Level 300
+For Loop Rank 0 Level 300 Total No of frontiers discovered 4107
+For Rank 0 All frontiers gathered New unique count 4107
+
+Loop BFS For Rank 0 Level 301 numCurrFrontier 4107 numVertices 1971281 my work 4107
+At level 301 Grid size 129 gpu numPrevFrontier 4107
+For my rank 0 At level 301 gpu Current frontier 4040
+Loop BFS For Ended Rank 0 Level 301
+For Loop Rank 0 Level 301 Total No of frontiers discovered 4040
+For Rank 0 All frontiers gathered New unique count 4040
+
+Loop BFS For Rank 0 Level 302 numCurrFrontier 4040 numVertices 1971281 my work 4040
+At level 302 Grid size 127 gpu numPrevFrontier 4040
+For my rank 0 At level 302 gpu Current frontier 4137
+Loop BFS For Ended Rank 0 Level 302
+For Loop Rank 0 Level 302 Total No of frontiers discovered 4137
+For Rank 0 All frontiers gathered New unique count 4137
+
+Loop BFS For Rank 0 Level 303 numCurrFrontier 4137 numVertices 1971281 my work 4137
+At level 303 Grid size 130 gpu numPrevFrontier 4137
+For my rank 0 At level 303 gpu Current frontier 4181
+Loop BFS For Ended Rank 0 Level 303
+For Loop Rank 0 Level 303 Total No of frontiers discovered 4181
+For Rank 0 All frontiers gathered New unique count 4181
+
+Loop BFS For Rank 0 Level 304 numCurrFrontier 4181 numVertices 1971281 my work 4181
+At level 304 Grid size 131 gpu numPrevFrontier 4181
+For my rank 0 At level 304 gpu Current frontier 4082
+Loop BFS For Ended Rank 0 Level 304
+For Loop Rank 0 Level 304 Total No of frontiers discovered 4082
+For Rank 0 All frontiers gathered New unique count 4082
+
+Loop BFS For Rank 0 Level 305 numCurrFrontier 4082 numVertices 1971281 my work 4082
+At level 305 Grid size 128 gpu numPrevFrontier 4082
+For my rank 0 At level 305 gpu Current frontier 4012
+Loop BFS For Ended Rank 0 Level 305
+For Loop Rank 0 Level 305 Total No of frontiers discovered 4012
+For Rank 0 All frontiers gathered New unique count 4012
+
+Loop BFS For Rank 0 Level 306 numCurrFrontier 4012 numVertices 1971281 my work 4012
+At level 306 Grid size 126 gpu numPrevFrontier 4012
+For my rank 0 At level 306 gpu Current frontier 3939
+Loop BFS For Ended Rank 0 Level 306
+For Loop Rank 0 Level 306 Total No of frontiers discovered 3939
+For Rank 0 All frontiers gathered New unique count 3939
+
+Loop BFS For Rank 0 Level 307 numCurrFrontier 3939 numVertices 1971281 my work 3939
+At level 307 Grid size 124 gpu numPrevFrontier 3939
+For my rank 0 At level 307 gpu Current frontier 3950
+Loop BFS For Ended Rank 0 Level 307
+For Loop Rank 0 Level 307 Total No of frontiers discovered 3950
+For Rank 0 All frontiers gathered New unique count 3950
+
+Loop BFS For Rank 0 Level 308 numCurrFrontier 3950 numVertices 1971281 my work 3950
+At level 308 Grid size 124 gpu numPrevFrontier 3950
+For my rank 0 At level 308 gpu Current frontier 4049
+Loop BFS For Ended Rank 0 Level 308
+For Loop Rank 0 Level 308 Total No of frontiers discovered 4049
+For Rank 0 All frontiers gathered New unique count 4049
+
+Loop BFS For Rank 0 Level 309 numCurrFrontier 4049 numVertices 1971281 my work 4049
+At level 309 Grid size 127 gpu numPrevFrontier 4049
+For my rank 0 At level 309 gpu Current frontier 4157
+Loop BFS For Ended Rank 0 Level 309
+For Loop Rank 0 Level 309 Total No of frontiers discovered 4157
+For Rank 0 All frontiers gathered New unique count 4157
+
+Loop BFS For Rank 0 Level 310 numCurrFrontier 4157 numVertices 1971281 my work 4157
+At level 310 Grid size 130 gpu numPrevFrontier 4157
+For my rank 0 At level 310 gpu Current frontier 4201
+Loop BFS For Ended Rank 0 Level 310
+For Loop Rank 0 Level 310 Total No of frontiers discovered 4201
+For Rank 0 All frontiers gathered New unique count 4201
+
+Loop BFS For Rank 0 Level 311 numCurrFrontier 4201 numVertices 1971281 my work 4201
+At level 311 Grid size 132 gpu numPrevFrontier 4201
+For my rank 0 At level 311 gpu Current frontier 4307
+Loop BFS For Ended Rank 0 Level 311
+For Loop Rank 0 Level 311 Total No of frontiers discovered 4307
+For Rank 0 All frontiers gathered New unique count 4307
+
+Loop BFS For Rank 0 Level 312 numCurrFrontier 4307 numVertices 1971281 my work 4307
+At level 312 Grid size 135 gpu numPrevFrontier 4307
+For my rank 0 At level 312 gpu Current frontier 4287
+Loop BFS For Ended Rank 0 Level 312
+For Loop Rank 0 Level 312 Total No of frontiers discovered 4287
+For Rank 0 All frontiers gathered New unique count 4287
+
+Loop BFS For Rank 0 Level 313 numCurrFrontier 4287 numVertices 1971281 my work 4287
+At level 313 Grid size 134 gpu numPrevFrontier 4287
+For my rank 0 At level 313 gpu Current frontier 4286
+Loop BFS For Ended Rank 0 Level 313
+For Loop Rank 0 Level 313 Total No of frontiers discovered 4286
+For Rank 0 All frontiers gathered New unique count 4286
+
+Loop BFS For Rank 0 Level 314 numCurrFrontier 4286 numVertices 1971281 my work 4286
+At level 314 Grid size 134 gpu numPrevFrontier 4286
+For my rank 0 At level 314 gpu Current frontier 4297
+Loop BFS For Ended Rank 0 Level 314
+For Loop Rank 0 Level 314 Total No of frontiers discovered 4297
+For Rank 0 All frontiers gathered New unique count 4297
+
+Loop BFS For Rank 0 Level 315 numCurrFrontier 4297 numVertices 1971281 my work 4297
+At level 315 Grid size 135 gpu numPrevFrontier 4297
+For my rank 0 At level 315 gpu Current frontier 4341
+Loop BFS For Ended Rank 0 Level 315
+For Loop Rank 0 Level 315 Total No of frontiers discovered 4341
+For Rank 0 All frontiers gathered New unique count 4341
+
+Loop BFS For Rank 0 Level 316 numCurrFrontier 4341 numVertices 1971281 my work 4341
+At level 316 Grid size 136 gpu numPrevFrontier 4341
+For my rank 0 At level 316 gpu Current frontier 4365
+Loop BFS For Ended Rank 0 Level 316
+For Loop Rank 0 Level 316 Total No of frontiers discovered 4365
+For Rank 0 All frontiers gathered New unique count 4365
+
+Loop BFS For Rank 0 Level 317 numCurrFrontier 4365 numVertices 1971281 my work 4365
+At level 317 Grid size 137 gpu numPrevFrontier 4365
+For my rank 0 At level 317 gpu Current frontier 4385
+Loop BFS For Ended Rank 0 Level 317
+For Loop Rank 0 Level 317 Total No of frontiers discovered 4385
+For Rank 0 All frontiers gathered New unique count 4385
+
+Loop BFS For Rank 0 Level 318 numCurrFrontier 4385 numVertices 1971281 my work 4385
+At level 318 Grid size 138 gpu numPrevFrontier 4385
+For my rank 0 At level 318 gpu Current frontier 4404
+Loop BFS For Ended Rank 0 Level 318
+For Loop Rank 0 Level 318 Total No of frontiers discovered 4404
+For Rank 0 All frontiers gathered New unique count 4404
+
+Loop BFS For Rank 0 Level 319 numCurrFrontier 4404 numVertices 1971281 my work 4404
+At level 319 Grid size 138 gpu numPrevFrontier 4404
+For my rank 0 At level 319 gpu Current frontier 4479
+Loop BFS For Ended Rank 0 Level 319
+For Loop Rank 0 Level 319 Total No of frontiers discovered 4479
+For Rank 0 All frontiers gathered New unique count 4479
+
+Loop BFS For Rank 0 Level 320 numCurrFrontier 4479 numVertices 1971281 my work 4479
+At level 320 Grid size 140 gpu numPrevFrontier 4479
+For my rank 0 At level 320 gpu Current frontier 4579
+Loop BFS For Ended Rank 0 Level 320
+For Loop Rank 0 Level 320 Total No of frontiers discovered 4579
+For Rank 0 All frontiers gathered New unique count 4579
+
+Loop BFS For Rank 0 Level 321 numCurrFrontier 4579 numVertices 1971281 my work 4579
+At level 321 Grid size 144 gpu numPrevFrontier 4579
+For my rank 0 At level 321 gpu Current frontier 4754
+Loop BFS For Ended Rank 0 Level 321
+For Loop Rank 0 Level 321 Total No of frontiers discovered 4754
+For Rank 0 All frontiers gathered New unique count 4754
+
+Loop BFS For Rank 0 Level 322 numCurrFrontier 4754 numVertices 1971281 my work 4754
+At level 322 Grid size 149 gpu numPrevFrontier 4754
+For my rank 0 At level 322 gpu Current frontier 4909
+Loop BFS For Ended Rank 0 Level 322
+For Loop Rank 0 Level 322 Total No of frontiers discovered 4909
+For Rank 0 All frontiers gathered New unique count 4909
+
+Loop BFS For Rank 0 Level 323 numCurrFrontier 4909 numVertices 1971281 my work 4909
+At level 323 Grid size 154 gpu numPrevFrontier 4909
+For my rank 0 At level 323 gpu Current frontier 4924
+Loop BFS For Ended Rank 0 Level 323
+For Loop Rank 0 Level 323 Total No of frontiers discovered 4924
+For Rank 0 All frontiers gathered New unique count 4924
+
+Loop BFS For Rank 0 Level 324 numCurrFrontier 4924 numVertices 1971281 my work 4924
+At level 324 Grid size 154 gpu numPrevFrontier 4924
+For my rank 0 At level 324 gpu Current frontier 5093
+Loop BFS For Ended Rank 0 Level 324
+For Loop Rank 0 Level 324 Total No of frontiers discovered 5093
+For Rank 0 All frontiers gathered New unique count 5093
+
+Loop BFS For Rank 0 Level 325 numCurrFrontier 5093 numVertices 1971281 my work 5093
+At level 325 Grid size 160 gpu numPrevFrontier 5093
+For my rank 0 At level 325 gpu Current frontier 5165
+Loop BFS For Ended Rank 0 Level 325
+For Loop Rank 0 Level 325 Total No of frontiers discovered 5165
+For Rank 0 All frontiers gathered New unique count 5165
+
+Loop BFS For Rank 0 Level 326 numCurrFrontier 5165 numVertices 1971281 my work 5165
+At level 326 Grid size 162 gpu numPrevFrontier 5165
+For my rank 0 At level 326 gpu Current frontier 5230
+Loop BFS For Ended Rank 0 Level 326
+For Loop Rank 0 Level 326 Total No of frontiers discovered 5230
+For Rank 0 All frontiers gathered New unique count 5230
+
+Loop BFS For Rank 0 Level 327 numCurrFrontier 5230 numVertices 1971281 my work 5230
+At level 327 Grid size 164 gpu numPrevFrontier 5230
+For my rank 0 At level 327 gpu Current frontier 5369
+Loop BFS For Ended Rank 0 Level 327
+For Loop Rank 0 Level 327 Total No of frontiers discovered 5369
+For Rank 0 All frontiers gathered New unique count 5369
+
+Loop BFS For Rank 0 Level 328 numCurrFrontier 5369 numVertices 1971281 my work 5369
+At level 328 Grid size 168 gpu numPrevFrontier 5369
+For my rank 0 At level 328 gpu Current frontier 5418
+Loop BFS For Ended Rank 0 Level 328
+For Loop Rank 0 Level 328 Total No of frontiers discovered 5418
+For Rank 0 All frontiers gathered New unique count 5418
+
+Loop BFS For Rank 0 Level 329 numCurrFrontier 5418 numVertices 1971281 my work 5418
+At level 329 Grid size 170 gpu numPrevFrontier 5418
+For my rank 0 At level 329 gpu Current frontier 5448
+Loop BFS For Ended Rank 0 Level 329
+For Loop Rank 0 Level 329 Total No of frontiers discovered 5448
+For Rank 0 All frontiers gathered New unique count 5448
+
+Loop BFS For Rank 0 Level 330 numCurrFrontier 5448 numVertices 1971281 my work 5448
+At level 330 Grid size 171 gpu numPrevFrontier 5448
+For my rank 0 At level 330 gpu Current frontier 5483
+Loop BFS For Ended Rank 0 Level 330
+For Loop Rank 0 Level 330 Total No of frontiers discovered 5483
+For Rank 0 All frontiers gathered New unique count 5483
+
+Loop BFS For Rank 0 Level 331 numCurrFrontier 5483 numVertices 1971281 my work 5483
+At level 331 Grid size 172 gpu numPrevFrontier 5483
+For my rank 0 At level 331 gpu Current frontier 5434
+Loop BFS For Ended Rank 0 Level 331
+For Loop Rank 0 Level 331 Total No of frontiers discovered 5434
+For Rank 0 All frontiers gathered New unique count 5434
+
+Loop BFS For Rank 0 Level 332 numCurrFrontier 5434 numVertices 1971281 my work 5434
+At level 332 Grid size 170 gpu numPrevFrontier 5434
+For my rank 0 At level 332 gpu Current frontier 5481
+Loop BFS For Ended Rank 0 Level 332
+For Loop Rank 0 Level 332 Total No of frontiers discovered 5481
+For Rank 0 All frontiers gathered New unique count 5481
+
+Loop BFS For Rank 0 Level 333 numCurrFrontier 5481 numVertices 1971281 my work 5481
+At level 333 Grid size 172 gpu numPrevFrontier 5481
+For my rank 0 At level 333 gpu Current frontier 5545
+Loop BFS For Ended Rank 0 Level 333
+For Loop Rank 0 Level 333 Total No of frontiers discovered 5545
+For Rank 0 All frontiers gathered New unique count 5545
+
+Loop BFS For Rank 0 Level 334 numCurrFrontier 5545 numVertices 1971281 my work 5545
+At level 334 Grid size 174 gpu numPrevFrontier 5545
+For my rank 0 At level 334 gpu Current frontier 5422
+Loop BFS For Ended Rank 0 Level 334
+For Loop Rank 0 Level 334 Total No of frontiers discovered 5422
+For Rank 0 All frontiers gathered New unique count 5422
+
+Loop BFS For Rank 0 Level 335 numCurrFrontier 5422 numVertices 1971281 my work 5422
+At level 335 Grid size 170 gpu numPrevFrontier 5422
+For my rank 0 At level 335 gpu Current frontier 5175
+Loop BFS For Ended Rank 0 Level 335
+For Loop Rank 0 Level 335 Total No of frontiers discovered 5175
+For Rank 0 All frontiers gathered New unique count 5175
+
+Loop BFS For Rank 0 Level 336 numCurrFrontier 5175 numVertices 1971281 my work 5175
+At level 336 Grid size 162 gpu numPrevFrontier 5175
+For my rank 0 At level 336 gpu Current frontier 5079
+Loop BFS For Ended Rank 0 Level 336
+For Loop Rank 0 Level 336 Total No of frontiers discovered 5079
+For Rank 0 All frontiers gathered New unique count 5079
+
+Loop BFS For Rank 0 Level 337 numCurrFrontier 5079 numVertices 1971281 my work 5079
+At level 337 Grid size 159 gpu numPrevFrontier 5079
+For my rank 0 At level 337 gpu Current frontier 5124
+Loop BFS For Ended Rank 0 Level 337
+For Loop Rank 0 Level 337 Total No of frontiers discovered 5124
+For Rank 0 All frontiers gathered New unique count 5124
+
+Loop BFS For Rank 0 Level 338 numCurrFrontier 5124 numVertices 1971281 my work 5124
+At level 338 Grid size 161 gpu numPrevFrontier 5124
+For my rank 0 At level 338 gpu Current frontier 4998
+Loop BFS For Ended Rank 0 Level 338
+For Loop Rank 0 Level 338 Total No of frontiers discovered 4998
+For Rank 0 All frontiers gathered New unique count 4998
+
+Loop BFS For Rank 0 Level 339 numCurrFrontier 4998 numVertices 1971281 my work 4998
+At level 339 Grid size 157 gpu numPrevFrontier 4998
+For my rank 0 At level 339 gpu Current frontier 4955
+Loop BFS For Ended Rank 0 Level 339
+For Loop Rank 0 Level 339 Total No of frontiers discovered 4955
+For Rank 0 All frontiers gathered New unique count 4955
+
+Loop BFS For Rank 0 Level 340 numCurrFrontier 4955 numVertices 1971281 my work 4955
+At level 340 Grid size 155 gpu numPrevFrontier 4955
+For my rank 0 At level 340 gpu Current frontier 4966
+Loop BFS For Ended Rank 0 Level 340
+For Loop Rank 0 Level 340 Total No of frontiers discovered 4966
+For Rank 0 All frontiers gathered New unique count 4966
+
+Loop BFS For Rank 0 Level 341 numCurrFrontier 4966 numVertices 1971281 my work 4966
+At level 341 Grid size 156 gpu numPrevFrontier 4966
+For my rank 0 At level 341 gpu Current frontier 4842
+Loop BFS For Ended Rank 0 Level 341
+For Loop Rank 0 Level 341 Total No of frontiers discovered 4842
+For Rank 0 All frontiers gathered New unique count 4842
+
+Loop BFS For Rank 0 Level 342 numCurrFrontier 4842 numVertices 1971281 my work 4842
+At level 342 Grid size 152 gpu numPrevFrontier 4842
+For my rank 0 At level 342 gpu Current frontier 4941
+Loop BFS For Ended Rank 0 Level 342
+For Loop Rank 0 Level 342 Total No of frontiers discovered 4941
+For Rank 0 All frontiers gathered New unique count 4941
+
+Loop BFS For Rank 0 Level 343 numCurrFrontier 4941 numVertices 1971281 my work 4941
+At level 343 Grid size 155 gpu numPrevFrontier 4941
+For my rank 0 At level 343 gpu Current frontier 4915
+Loop BFS For Ended Rank 0 Level 343
+For Loop Rank 0 Level 343 Total No of frontiers discovered 4915
+For Rank 0 All frontiers gathered New unique count 4915
+
+Loop BFS For Rank 0 Level 344 numCurrFrontier 4915 numVertices 1971281 my work 4915
+At level 344 Grid size 154 gpu numPrevFrontier 4915
+For my rank 0 At level 344 gpu Current frontier 5051
+Loop BFS For Ended Rank 0 Level 344
+For Loop Rank 0 Level 344 Total No of frontiers discovered 5051
+For Rank 0 All frontiers gathered New unique count 5051
+
+Loop BFS For Rank 0 Level 345 numCurrFrontier 5051 numVertices 1971281 my work 5051
+At level 345 Grid size 158 gpu numPrevFrontier 5051
+For my rank 0 At level 345 gpu Current frontier 5264
+Loop BFS For Ended Rank 0 Level 345
+For Loop Rank 0 Level 345 Total No of frontiers discovered 5264
+For Rank 0 All frontiers gathered New unique count 5264
+
+Loop BFS For Rank 0 Level 346 numCurrFrontier 5264 numVertices 1971281 my work 5264
+At level 346 Grid size 165 gpu numPrevFrontier 5264
+For my rank 0 At level 346 gpu Current frontier 5413
+Loop BFS For Ended Rank 0 Level 346
+For Loop Rank 0 Level 346 Total No of frontiers discovered 5413
+For Rank 0 All frontiers gathered New unique count 5413
+
+Loop BFS For Rank 0 Level 347 numCurrFrontier 5413 numVertices 1971281 my work 5413
+At level 347 Grid size 170 gpu numPrevFrontier 5413
+For my rank 0 At level 347 gpu Current frontier 5479
+Loop BFS For Ended Rank 0 Level 347
+For Loop Rank 0 Level 347 Total No of frontiers discovered 5479
+For Rank 0 All frontiers gathered New unique count 5479
+
+Loop BFS For Rank 0 Level 348 numCurrFrontier 5479 numVertices 1971281 my work 5479
+At level 348 Grid size 172 gpu numPrevFrontier 5479
+For my rank 0 At level 348 gpu Current frontier 5466
+Loop BFS For Ended Rank 0 Level 348
+For Loop Rank 0 Level 348 Total No of frontiers discovered 5466
+For Rank 0 All frontiers gathered New unique count 5466
+
+Loop BFS For Rank 0 Level 349 numCurrFrontier 5466 numVertices 1971281 my work 5466
+At level 349 Grid size 171 gpu numPrevFrontier 5466
+For my rank 0 At level 349 gpu Current frontier 5555
+Loop BFS For Ended Rank 0 Level 349
+For Loop Rank 0 Level 349 Total No of frontiers discovered 5555
+For Rank 0 All frontiers gathered New unique count 5555
+
+Loop BFS For Rank 0 Level 350 numCurrFrontier 5555 numVertices 1971281 my work 5555
+At level 350 Grid size 174 gpu numPrevFrontier 5555
+For my rank 0 At level 350 gpu Current frontier 5622
+Loop BFS For Ended Rank 0 Level 350
+For Loop Rank 0 Level 350 Total No of frontiers discovered 5622
+For Rank 0 All frontiers gathered New unique count 5622
+
+Loop BFS For Rank 0 Level 351 numCurrFrontier 5622 numVertices 1971281 my work 5622
+At level 351 Grid size 176 gpu numPrevFrontier 5622
+For my rank 0 At level 351 gpu Current frontier 5631
+Loop BFS For Ended Rank 0 Level 351
+For Loop Rank 0 Level 351 Total No of frontiers discovered 5631
+For Rank 0 All frontiers gathered New unique count 5631
+
+Loop BFS For Rank 0 Level 352 numCurrFrontier 5631 numVertices 1971281 my work 5631
+At level 352 Grid size 176 gpu numPrevFrontier 5631
+For my rank 0 At level 352 gpu Current frontier 5610
+Loop BFS For Ended Rank 0 Level 352
+For Loop Rank 0 Level 352 Total No of frontiers discovered 5610
+For Rank 0 All frontiers gathered New unique count 5610
+
+Loop BFS For Rank 0 Level 353 numCurrFrontier 5610 numVertices 1971281 my work 5610
+At level 353 Grid size 176 gpu numPrevFrontier 5610
+For my rank 0 At level 353 gpu Current frontier 5524
+Loop BFS For Ended Rank 0 Level 353
+For Loop Rank 0 Level 353 Total No of frontiers discovered 5524
+For Rank 0 All frontiers gathered New unique count 5524
+
+Loop BFS For Rank 0 Level 354 numCurrFrontier 5524 numVertices 1971281 my work 5524
+At level 354 Grid size 173 gpu numPrevFrontier 5524
+For my rank 0 At level 354 gpu Current frontier 5453
+Loop BFS For Ended Rank 0 Level 354
+For Loop Rank 0 Level 354 Total No of frontiers discovered 5453
+For Rank 0 All frontiers gathered New unique count 5453
+
+Loop BFS For Rank 0 Level 355 numCurrFrontier 5453 numVertices 1971281 my work 5453
+At level 355 Grid size 171 gpu numPrevFrontier 5453
+For my rank 0 At level 355 gpu Current frontier 5502
+Loop BFS For Ended Rank 0 Level 355
+For Loop Rank 0 Level 355 Total No of frontiers discovered 5502
+For Rank 0 All frontiers gathered New unique count 5502
+
+Loop BFS For Rank 0 Level 356 numCurrFrontier 5502 numVertices 1971281 my work 5502
+At level 356 Grid size 172 gpu numPrevFrontier 5502
+For my rank 0 At level 356 gpu Current frontier 5537
+Loop BFS For Ended Rank 0 Level 356
+For Loop Rank 0 Level 356 Total No of frontiers discovered 5537
+For Rank 0 All frontiers gathered New unique count 5537
+
+Loop BFS For Rank 0 Level 357 numCurrFrontier 5537 numVertices 1971281 my work 5537
+At level 357 Grid size 174 gpu numPrevFrontier 5537
+For my rank 0 At level 357 gpu Current frontier 5593
+Loop BFS For Ended Rank 0 Level 357
+For Loop Rank 0 Level 357 Total No of frontiers discovered 5593
+For Rank 0 All frontiers gathered New unique count 5593
+
+Loop BFS For Rank 0 Level 358 numCurrFrontier 5593 numVertices 1971281 my work 5593
+At level 358 Grid size 175 gpu numPrevFrontier 5593
+For my rank 0 At level 358 gpu Current frontier 5623
+Loop BFS For Ended Rank 0 Level 358
+For Loop Rank 0 Level 358 Total No of frontiers discovered 5623
+For Rank 0 All frontiers gathered New unique count 5623
+
+Loop BFS For Rank 0 Level 359 numCurrFrontier 5623 numVertices 1971281 my work 5623
+At level 359 Grid size 176 gpu numPrevFrontier 5623
+For my rank 0 At level 359 gpu Current frontier 5588
+Loop BFS For Ended Rank 0 Level 359
+For Loop Rank 0 Level 359 Total No of frontiers discovered 5588
+For Rank 0 All frontiers gathered New unique count 5588
+
+Loop BFS For Rank 0 Level 360 numCurrFrontier 5588 numVertices 1971281 my work 5588
+At level 360 Grid size 175 gpu numPrevFrontier 5588
+For my rank 0 At level 360 gpu Current frontier 5657
+Loop BFS For Ended Rank 0 Level 360
+For Loop Rank 0 Level 360 Total No of frontiers discovered 5657
+For Rank 0 All frontiers gathered New unique count 5657
+
+Loop BFS For Rank 0 Level 361 numCurrFrontier 5657 numVertices 1971281 my work 5657
+At level 361 Grid size 177 gpu numPrevFrontier 5657
+For my rank 0 At level 361 gpu Current frontier 5544
+Loop BFS For Ended Rank 0 Level 361
+For Loop Rank 0 Level 361 Total No of frontiers discovered 5544
+For Rank 0 All frontiers gathered New unique count 5544
+
+Loop BFS For Rank 0 Level 362 numCurrFrontier 5544 numVertices 1971281 my work 5544
+At level 362 Grid size 174 gpu numPrevFrontier 5544
+For my rank 0 At level 362 gpu Current frontier 5491
+Loop BFS For Ended Rank 0 Level 362
+For Loop Rank 0 Level 362 Total No of frontiers discovered 5491
+For Rank 0 All frontiers gathered New unique count 5491
+
+Loop BFS For Rank 0 Level 363 numCurrFrontier 5491 numVertices 1971281 my work 5491
+At level 363 Grid size 172 gpu numPrevFrontier 5491
+For my rank 0 At level 363 gpu Current frontier 5557
+Loop BFS For Ended Rank 0 Level 363
+For Loop Rank 0 Level 363 Total No of frontiers discovered 5557
+For Rank 0 All frontiers gathered New unique count 5557
+
+Loop BFS For Rank 0 Level 364 numCurrFrontier 5557 numVertices 1971281 my work 5557
+At level 364 Grid size 174 gpu numPrevFrontier 5557
+For my rank 0 At level 364 gpu Current frontier 5471
+Loop BFS For Ended Rank 0 Level 364
+For Loop Rank 0 Level 364 Total No of frontiers discovered 5471
+For Rank 0 All frontiers gathered New unique count 5471
+
+Loop BFS For Rank 0 Level 365 numCurrFrontier 5471 numVertices 1971281 my work 5471
+At level 365 Grid size 171 gpu numPrevFrontier 5471
+For my rank 0 At level 365 gpu Current frontier 5481
+Loop BFS For Ended Rank 0 Level 365
+For Loop Rank 0 Level 365 Total No of frontiers discovered 5481
+For Rank 0 All frontiers gathered New unique count 5481
+
+Loop BFS For Rank 0 Level 366 numCurrFrontier 5481 numVertices 1971281 my work 5481
+At level 366 Grid size 172 gpu numPrevFrontier 5481
+For my rank 0 At level 366 gpu Current frontier 5614
+Loop BFS For Ended Rank 0 Level 366
+For Loop Rank 0 Level 366 Total No of frontiers discovered 5614
+For Rank 0 All frontiers gathered New unique count 5614
+
+Loop BFS For Rank 0 Level 367 numCurrFrontier 5614 numVertices 1971281 my work 5614
+At level 367 Grid size 176 gpu numPrevFrontier 5614
+For my rank 0 At level 367 gpu Current frontier 5680
+Loop BFS For Ended Rank 0 Level 367
+For Loop Rank 0 Level 367 Total No of frontiers discovered 5680
+For Rank 0 All frontiers gathered New unique count 5680
+
+Loop BFS For Rank 0 Level 368 numCurrFrontier 5680 numVertices 1971281 my work 5680
+At level 368 Grid size 178 gpu numPrevFrontier 5680
+For my rank 0 At level 368 gpu Current frontier 5667
+Loop BFS For Ended Rank 0 Level 368
+For Loop Rank 0 Level 368 Total No of frontiers discovered 5667
+For Rank 0 All frontiers gathered New unique count 5667
+
+Loop BFS For Rank 0 Level 369 numCurrFrontier 5667 numVertices 1971281 my work 5667
+At level 369 Grid size 178 gpu numPrevFrontier 5667
+For my rank 0 At level 369 gpu Current frontier 5637
+Loop BFS For Ended Rank 0 Level 369
+For Loop Rank 0 Level 369 Total No of frontiers discovered 5637
+For Rank 0 All frontiers gathered New unique count 5637
+
+Loop BFS For Rank 0 Level 370 numCurrFrontier 5637 numVertices 1971281 my work 5637
+At level 370 Grid size 177 gpu numPrevFrontier 5637
+For my rank 0 At level 370 gpu Current frontier 5575
+Loop BFS For Ended Rank 0 Level 370
+For Loop Rank 0 Level 370 Total No of frontiers discovered 5575
+For Rank 0 All frontiers gathered New unique count 5575
+
+Loop BFS For Rank 0 Level 371 numCurrFrontier 5575 numVertices 1971281 my work 5575
+At level 371 Grid size 175 gpu numPrevFrontier 5575
+For my rank 0 At level 371 gpu Current frontier 5588
+Loop BFS For Ended Rank 0 Level 371
+For Loop Rank 0 Level 371 Total No of frontiers discovered 5588
+For Rank 0 All frontiers gathered New unique count 5588
+
+Loop BFS For Rank 0 Level 372 numCurrFrontier 5588 numVertices 1971281 my work 5588
+At level 372 Grid size 175 gpu numPrevFrontier 5588
+For my rank 0 At level 372 gpu Current frontier 5525
+Loop BFS For Ended Rank 0 Level 372
+For Loop Rank 0 Level 372 Total No of frontiers discovered 5525
+For Rank 0 All frontiers gathered New unique count 5525
+
+Loop BFS For Rank 0 Level 373 numCurrFrontier 5525 numVertices 1971281 my work 5525
+At level 373 Grid size 173 gpu numPrevFrontier 5525
+For my rank 0 At level 373 gpu Current frontier 5299
+Loop BFS For Ended Rank 0 Level 373
+For Loop Rank 0 Level 373 Total No of frontiers discovered 5299
+For Rank 0 All frontiers gathered New unique count 5299
+
+Loop BFS For Rank 0 Level 374 numCurrFrontier 5299 numVertices 1971281 my work 5299
+At level 374 Grid size 166 gpu numPrevFrontier 5299
+For my rank 0 At level 374 gpu Current frontier 5200
+Loop BFS For Ended Rank 0 Level 374
+For Loop Rank 0 Level 374 Total No of frontiers discovered 5200
+For Rank 0 All frontiers gathered New unique count 5200
+
+Loop BFS For Rank 0 Level 375 numCurrFrontier 5200 numVertices 1971281 my work 5200
+At level 375 Grid size 163 gpu numPrevFrontier 5200
+For my rank 0 At level 375 gpu Current frontier 5163
+Loop BFS For Ended Rank 0 Level 375
+For Loop Rank 0 Level 375 Total No of frontiers discovered 5163
+For Rank 0 All frontiers gathered New unique count 5163
+
+Loop BFS For Rank 0 Level 376 numCurrFrontier 5163 numVertices 1971281 my work 5163
+At level 376 Grid size 162 gpu numPrevFrontier 5163
+For my rank 0 At level 376 gpu Current frontier 5116
+Loop BFS For Ended Rank 0 Level 376
+For Loop Rank 0 Level 376 Total No of frontiers discovered 5116
+For Rank 0 All frontiers gathered New unique count 5116
+
+Loop BFS For Rank 0 Level 377 numCurrFrontier 5116 numVertices 1971281 my work 5116
+At level 377 Grid size 160 gpu numPrevFrontier 5116
+For my rank 0 At level 377 gpu Current frontier 5098
+Loop BFS For Ended Rank 0 Level 377
+For Loop Rank 0 Level 377 Total No of frontiers discovered 5098
+For Rank 0 All frontiers gathered New unique count 5098
+
+Loop BFS For Rank 0 Level 378 numCurrFrontier 5098 numVertices 1971281 my work 5098
+At level 378 Grid size 160 gpu numPrevFrontier 5098
+For my rank 0 At level 378 gpu Current frontier 5193
+Loop BFS For Ended Rank 0 Level 378
+For Loop Rank 0 Level 378 Total No of frontiers discovered 5193
+For Rank 0 All frontiers gathered New unique count 5193
+
+Loop BFS For Rank 0 Level 379 numCurrFrontier 5193 numVertices 1971281 my work 5193
+At level 379 Grid size 163 gpu numPrevFrontier 5193
+For my rank 0 At level 379 gpu Current frontier 5103
+Loop BFS For Ended Rank 0 Level 379
+For Loop Rank 0 Level 379 Total No of frontiers discovered 5103
+For Rank 0 All frontiers gathered New unique count 5103
+
+Loop BFS For Rank 0 Level 380 numCurrFrontier 5103 numVertices 1971281 my work 5103
+At level 380 Grid size 160 gpu numPrevFrontier 5103
+For my rank 0 At level 380 gpu Current frontier 5186
+Loop BFS For Ended Rank 0 Level 380
+For Loop Rank 0 Level 380 Total No of frontiers discovered 5186
+For Rank 0 All frontiers gathered New unique count 5186
+
+Loop BFS For Rank 0 Level 381 numCurrFrontier 5186 numVertices 1971281 my work 5186
+At level 381 Grid size 163 gpu numPrevFrontier 5186
+For my rank 0 At level 381 gpu Current frontier 5215
+Loop BFS For Ended Rank 0 Level 381
+For Loop Rank 0 Level 381 Total No of frontiers discovered 5215
+For Rank 0 All frontiers gathered New unique count 5215
+
+Loop BFS For Rank 0 Level 382 numCurrFrontier 5215 numVertices 1971281 my work 5215
+At level 382 Grid size 163 gpu numPrevFrontier 5215
+For my rank 0 At level 382 gpu Current frontier 5132
+Loop BFS For Ended Rank 0 Level 382
+For Loop Rank 0 Level 382 Total No of frontiers discovered 5132
+For Rank 0 All frontiers gathered New unique count 5132
+
+Loop BFS For Rank 0 Level 383 numCurrFrontier 5132 numVertices 1971281 my work 5132
+At level 383 Grid size 161 gpu numPrevFrontier 5132
+For my rank 0 At level 383 gpu Current frontier 5088
+Loop BFS For Ended Rank 0 Level 383
+For Loop Rank 0 Level 383 Total No of frontiers discovered 5088
+For Rank 0 All frontiers gathered New unique count 5088
+
+Loop BFS For Rank 0 Level 384 numCurrFrontier 5088 numVertices 1971281 my work 5088
+At level 384 Grid size 160 gpu numPrevFrontier 5088
+For my rank 0 At level 384 gpu Current frontier 5099
+Loop BFS For Ended Rank 0 Level 384
+For Loop Rank 0 Level 384 Total No of frontiers discovered 5099
+For Rank 0 All frontiers gathered New unique count 5099
+
+Loop BFS For Rank 0 Level 385 numCurrFrontier 5099 numVertices 1971281 my work 5099
+At level 385 Grid size 160 gpu numPrevFrontier 5099
+For my rank 0 At level 385 gpu Current frontier 5116
+Loop BFS For Ended Rank 0 Level 385
+For Loop Rank 0 Level 385 Total No of frontiers discovered 5116
+For Rank 0 All frontiers gathered New unique count 5116
+
+Loop BFS For Rank 0 Level 386 numCurrFrontier 5116 numVertices 1971281 my work 5116
+At level 386 Grid size 160 gpu numPrevFrontier 5116
+For my rank 0 At level 386 gpu Current frontier 5052
+Loop BFS For Ended Rank 0 Level 386
+For Loop Rank 0 Level 386 Total No of frontiers discovered 5052
+For Rank 0 All frontiers gathered New unique count 5052
+
+Loop BFS For Rank 0 Level 387 numCurrFrontier 5052 numVertices 1971281 my work 5052
+At level 387 Grid size 158 gpu numPrevFrontier 5052
+For my rank 0 At level 387 gpu Current frontier 5026
+Loop BFS For Ended Rank 0 Level 387
+For Loop Rank 0 Level 387 Total No of frontiers discovered 5026
+For Rank 0 All frontiers gathered New unique count 5026
+
+Loop BFS For Rank 0 Level 388 numCurrFrontier 5026 numVertices 1971281 my work 5026
+At level 388 Grid size 158 gpu numPrevFrontier 5026
+For my rank 0 At level 388 gpu Current frontier 5229
+Loop BFS For Ended Rank 0 Level 388
+For Loop Rank 0 Level 388 Total No of frontiers discovered 5229
+For Rank 0 All frontiers gathered New unique count 5229
+
+Loop BFS For Rank 0 Level 389 numCurrFrontier 5229 numVertices 1971281 my work 5229
+At level 389 Grid size 164 gpu numPrevFrontier 5229
+For my rank 0 At level 389 gpu Current frontier 5232
+Loop BFS For Ended Rank 0 Level 389
+For Loop Rank 0 Level 389 Total No of frontiers discovered 5232
+For Rank 0 All frontiers gathered New unique count 5232
+
+Loop BFS For Rank 0 Level 390 numCurrFrontier 5232 numVertices 1971281 my work 5232
+At level 390 Grid size 164 gpu numPrevFrontier 5232
+For my rank 0 At level 390 gpu Current frontier 5410
+Loop BFS For Ended Rank 0 Level 390
+For Loop Rank 0 Level 390 Total No of frontiers discovered 5410
+For Rank 0 All frontiers gathered New unique count 5410
+
+Loop BFS For Rank 0 Level 391 numCurrFrontier 5410 numVertices 1971281 my work 5410
+At level 391 Grid size 170 gpu numPrevFrontier 5410
+For my rank 0 At level 391 gpu Current frontier 5568
+Loop BFS For Ended Rank 0 Level 391
+For Loop Rank 0 Level 391 Total No of frontiers discovered 5568
+For Rank 0 All frontiers gathered New unique count 5568
+
+Loop BFS For Rank 0 Level 392 numCurrFrontier 5568 numVertices 1971281 my work 5568
+At level 392 Grid size 175 gpu numPrevFrontier 5568
+For my rank 0 At level 392 gpu Current frontier 5526
+Loop BFS For Ended Rank 0 Level 392
+For Loop Rank 0 Level 392 Total No of frontiers discovered 5526
+For Rank 0 All frontiers gathered New unique count 5526
+
+Loop BFS For Rank 0 Level 393 numCurrFrontier 5526 numVertices 1971281 my work 5526
+At level 393 Grid size 173 gpu numPrevFrontier 5526
+For my rank 0 At level 393 gpu Current frontier 5610
+Loop BFS For Ended Rank 0 Level 393
+For Loop Rank 0 Level 393 Total No of frontiers discovered 5610
+For Rank 0 All frontiers gathered New unique count 5610
+
+Loop BFS For Rank 0 Level 394 numCurrFrontier 5610 numVertices 1971281 my work 5610
+At level 394 Grid size 176 gpu numPrevFrontier 5610
+For my rank 0 At level 394 gpu Current frontier 5639
+Loop BFS For Ended Rank 0 Level 394
+For Loop Rank 0 Level 394 Total No of frontiers discovered 5639
+For Rank 0 All frontiers gathered New unique count 5639
+
+Loop BFS For Rank 0 Level 395 numCurrFrontier 5639 numVertices 1971281 my work 5639
+At level 395 Grid size 177 gpu numPrevFrontier 5639
+For my rank 0 At level 395 gpu Current frontier 5598
+Loop BFS For Ended Rank 0 Level 395
+For Loop Rank 0 Level 395 Total No of frontiers discovered 5598
+For Rank 0 All frontiers gathered New unique count 5598
+
+Loop BFS For Rank 0 Level 396 numCurrFrontier 5598 numVertices 1971281 my work 5598
+At level 396 Grid size 175 gpu numPrevFrontier 5598
+For my rank 0 At level 396 gpu Current frontier 5633
+Loop BFS For Ended Rank 0 Level 396
+For Loop Rank 0 Level 396 Total No of frontiers discovered 5633
+For Rank 0 All frontiers gathered New unique count 5633
+
+Loop BFS For Rank 0 Level 397 numCurrFrontier 5633 numVertices 1971281 my work 5633
+At level 397 Grid size 177 gpu numPrevFrontier 5633
+For my rank 0 At level 397 gpu Current frontier 5621
+Loop BFS For Ended Rank 0 Level 397
+For Loop Rank 0 Level 397 Total No of frontiers discovered 5621
+For Rank 0 All frontiers gathered New unique count 5621
+
+Loop BFS For Rank 0 Level 398 numCurrFrontier 5621 numVertices 1971281 my work 5621
+At level 398 Grid size 176 gpu numPrevFrontier 5621
+For my rank 0 At level 398 gpu Current frontier 5596
+Loop BFS For Ended Rank 0 Level 398
+For Loop Rank 0 Level 398 Total No of frontiers discovered 5596
+For Rank 0 All frontiers gathered New unique count 5596
+
+Loop BFS For Rank 0 Level 399 numCurrFrontier 5596 numVertices 1971281 my work 5596
+At level 399 Grid size 175 gpu numPrevFrontier 5596
+For my rank 0 At level 399 gpu Current frontier 5332
+Loop BFS For Ended Rank 0 Level 399
+For Loop Rank 0 Level 399 Total No of frontiers discovered 5332
+For Rank 0 All frontiers gathered New unique count 5332
+
+Loop BFS For Rank 0 Level 400 numCurrFrontier 5332 numVertices 1971281 my work 5332
+At level 400 Grid size 167 gpu numPrevFrontier 5332
+For my rank 0 At level 400 gpu Current frontier 5293
+Loop BFS For Ended Rank 0 Level 400
+For Loop Rank 0 Level 400 Total No of frontiers discovered 5293
+For Rank 0 All frontiers gathered New unique count 5293
+
+Loop BFS For Rank 0 Level 401 numCurrFrontier 5293 numVertices 1971281 my work 5293
+At level 401 Grid size 166 gpu numPrevFrontier 5293
+For my rank 0 At level 401 gpu Current frontier 5111
+Loop BFS For Ended Rank 0 Level 401
+For Loop Rank 0 Level 401 Total No of frontiers discovered 5111
+For Rank 0 All frontiers gathered New unique count 5111
+
+Loop BFS For Rank 0 Level 402 numCurrFrontier 5111 numVertices 1971281 my work 5111
+At level 402 Grid size 160 gpu numPrevFrontier 5111
+For my rank 0 At level 402 gpu Current frontier 4963
+Loop BFS For Ended Rank 0 Level 402
+For Loop Rank 0 Level 402 Total No of frontiers discovered 4963
+For Rank 0 All frontiers gathered New unique count 4963
+
+Loop BFS For Rank 0 Level 403 numCurrFrontier 4963 numVertices 1971281 my work 4963
+At level 403 Grid size 156 gpu numPrevFrontier 4963
+For my rank 0 At level 403 gpu Current frontier 4873
+Loop BFS For Ended Rank 0 Level 403
+For Loop Rank 0 Level 403 Total No of frontiers discovered 4873
+For Rank 0 All frontiers gathered New unique count 4873
+
+Loop BFS For Rank 0 Level 404 numCurrFrontier 4873 numVertices 1971281 my work 4873
+At level 404 Grid size 153 gpu numPrevFrontier 4873
+For my rank 0 At level 404 gpu Current frontier 4805
+Loop BFS For Ended Rank 0 Level 404
+For Loop Rank 0 Level 404 Total No of frontiers discovered 4805
+For Rank 0 All frontiers gathered New unique count 4805
+
+Loop BFS For Rank 0 Level 405 numCurrFrontier 4805 numVertices 1971281 my work 4805
+At level 405 Grid size 151 gpu numPrevFrontier 4805
+For my rank 0 At level 405 gpu Current frontier 4770
+Loop BFS For Ended Rank 0 Level 405
+For Loop Rank 0 Level 405 Total No of frontiers discovered 4770
+For Rank 0 All frontiers gathered New unique count 4770
+
+Loop BFS For Rank 0 Level 406 numCurrFrontier 4770 numVertices 1971281 my work 4770
+At level 406 Grid size 150 gpu numPrevFrontier 4770
+For my rank 0 At level 406 gpu Current frontier 4692
+Loop BFS For Ended Rank 0 Level 406
+For Loop Rank 0 Level 406 Total No of frontiers discovered 4692
+For Rank 0 All frontiers gathered New unique count 4692
+
+Loop BFS For Rank 0 Level 407 numCurrFrontier 4692 numVertices 1971281 my work 4692
+At level 407 Grid size 147 gpu numPrevFrontier 4692
+For my rank 0 At level 407 gpu Current frontier 4557
+Loop BFS For Ended Rank 0 Level 407
+For Loop Rank 0 Level 407 Total No of frontiers discovered 4557
+For Rank 0 All frontiers gathered New unique count 4557
+
+Loop BFS For Rank 0 Level 408 numCurrFrontier 4557 numVertices 1971281 my work 4557
+At level 408 Grid size 143 gpu numPrevFrontier 4557
+For my rank 0 At level 408 gpu Current frontier 4412
+Loop BFS For Ended Rank 0 Level 408
+For Loop Rank 0 Level 408 Total No of frontiers discovered 4412
+For Rank 0 All frontiers gathered New unique count 4412
+
+Loop BFS For Rank 0 Level 409 numCurrFrontier 4412 numVertices 1971281 my work 4412
+At level 409 Grid size 138 gpu numPrevFrontier 4412
+For my rank 0 At level 409 gpu Current frontier 4268
+Loop BFS For Ended Rank 0 Level 409
+For Loop Rank 0 Level 409 Total No of frontiers discovered 4268
+For Rank 0 All frontiers gathered New unique count 4268
+
+Loop BFS For Rank 0 Level 410 numCurrFrontier 4268 numVertices 1971281 my work 4268
+At level 410 Grid size 134 gpu numPrevFrontier 4268
+For my rank 0 At level 410 gpu Current frontier 4180
+Loop BFS For Ended Rank 0 Level 410
+For Loop Rank 0 Level 410 Total No of frontiers discovered 4180
+For Rank 0 All frontiers gathered New unique count 4180
+
+Loop BFS For Rank 0 Level 411 numCurrFrontier 4180 numVertices 1971281 my work 4180
+At level 411 Grid size 131 gpu numPrevFrontier 4180
+For my rank 0 At level 411 gpu Current frontier 4161
+Loop BFS For Ended Rank 0 Level 411
+For Loop Rank 0 Level 411 Total No of frontiers discovered 4161
+For Rank 0 All frontiers gathered New unique count 4161
+
+Loop BFS For Rank 0 Level 412 numCurrFrontier 4161 numVertices 1971281 my work 4161
+At level 412 Grid size 131 gpu numPrevFrontier 4161
+For my rank 0 At level 412 gpu Current frontier 4128
+Loop BFS For Ended Rank 0 Level 412
+For Loop Rank 0 Level 412 Total No of frontiers discovered 4128
+For Rank 0 All frontiers gathered New unique count 4128
+
+Loop BFS For Rank 0 Level 413 numCurrFrontier 4128 numVertices 1971281 my work 4128
+At level 413 Grid size 130 gpu numPrevFrontier 4128
+For my rank 0 At level 413 gpu Current frontier 4217
+Loop BFS For Ended Rank 0 Level 413
+For Loop Rank 0 Level 413 Total No of frontiers discovered 4217
+For Rank 0 All frontiers gathered New unique count 4217
+
+Loop BFS For Rank 0 Level 414 numCurrFrontier 4217 numVertices 1971281 my work 4217
+At level 414 Grid size 132 gpu numPrevFrontier 4217
+For my rank 0 At level 414 gpu Current frontier 4458
+Loop BFS For Ended Rank 0 Level 414
+For Loop Rank 0 Level 414 Total No of frontiers discovered 4458
+For Rank 0 All frontiers gathered New unique count 4458
+
+Loop BFS For Rank 0 Level 415 numCurrFrontier 4458 numVertices 1971281 my work 4458
+At level 415 Grid size 140 gpu numPrevFrontier 4458
+For my rank 0 At level 415 gpu Current frontier 4493
+Loop BFS For Ended Rank 0 Level 415
+For Loop Rank 0 Level 415 Total No of frontiers discovered 4493
+For Rank 0 All frontiers gathered New unique count 4493
+
+Loop BFS For Rank 0 Level 416 numCurrFrontier 4493 numVertices 1971281 my work 4493
+At level 416 Grid size 141 gpu numPrevFrontier 4493
+For my rank 0 At level 416 gpu Current frontier 4455
+Loop BFS For Ended Rank 0 Level 416
+For Loop Rank 0 Level 416 Total No of frontiers discovered 4455
+For Rank 0 All frontiers gathered New unique count 4455
+
+Loop BFS For Rank 0 Level 417 numCurrFrontier 4455 numVertices 1971281 my work 4455
+At level 417 Grid size 140 gpu numPrevFrontier 4455
+For my rank 0 At level 417 gpu Current frontier 4423
+Loop BFS For Ended Rank 0 Level 417
+For Loop Rank 0 Level 417 Total No of frontiers discovered 4423
+For Rank 0 All frontiers gathered New unique count 4423
+
+Loop BFS For Rank 0 Level 418 numCurrFrontier 4423 numVertices 1971281 my work 4423
+At level 418 Grid size 139 gpu numPrevFrontier 4423
+For my rank 0 At level 418 gpu Current frontier 4448
+Loop BFS For Ended Rank 0 Level 418
+For Loop Rank 0 Level 418 Total No of frontiers discovered 4448
+For Rank 0 All frontiers gathered New unique count 4448
+
+Loop BFS For Rank 0 Level 419 numCurrFrontier 4448 numVertices 1971281 my work 4448
+At level 419 Grid size 140 gpu numPrevFrontier 4448
+For my rank 0 At level 419 gpu Current frontier 4472
+Loop BFS For Ended Rank 0 Level 419
+For Loop Rank 0 Level 419 Total No of frontiers discovered 4472
+For Rank 0 All frontiers gathered New unique count 4472
+
+Loop BFS For Rank 0 Level 420 numCurrFrontier 4472 numVertices 1971281 my work 4472
+At level 420 Grid size 140 gpu numPrevFrontier 4472
+For my rank 0 At level 420 gpu Current frontier 4465
+Loop BFS For Ended Rank 0 Level 420
+For Loop Rank 0 Level 420 Total No of frontiers discovered 4465
+For Rank 0 All frontiers gathered New unique count 4465
+
+Loop BFS For Rank 0 Level 421 numCurrFrontier 4465 numVertices 1971281 my work 4465
+At level 421 Grid size 140 gpu numPrevFrontier 4465
+For my rank 0 At level 421 gpu Current frontier 4313
+Loop BFS For Ended Rank 0 Level 421
+For Loop Rank 0 Level 421 Total No of frontiers discovered 4313
+For Rank 0 All frontiers gathered New unique count 4313
+
+Loop BFS For Rank 0 Level 422 numCurrFrontier 4313 numVertices 1971281 my work 4313
+At level 422 Grid size 135 gpu numPrevFrontier 4313
+For my rank 0 At level 422 gpu Current frontier 4154
+Loop BFS For Ended Rank 0 Level 422
+For Loop Rank 0 Level 422 Total No of frontiers discovered 4154
+For Rank 0 All frontiers gathered New unique count 4154
+
+Loop BFS For Rank 0 Level 423 numCurrFrontier 4154 numVertices 1971281 my work 4154
+At level 423 Grid size 130 gpu numPrevFrontier 4154
+For my rank 0 At level 423 gpu Current frontier 4101
+Loop BFS For Ended Rank 0 Level 423
+For Loop Rank 0 Level 423 Total No of frontiers discovered 4101
+For Rank 0 All frontiers gathered New unique count 4101
+
+Loop BFS For Rank 0 Level 424 numCurrFrontier 4101 numVertices 1971281 my work 4101
+At level 424 Grid size 129 gpu numPrevFrontier 4101
+For my rank 0 At level 424 gpu Current frontier 3927
+Loop BFS For Ended Rank 0 Level 424
+For Loop Rank 0 Level 424 Total No of frontiers discovered 3927
+For Rank 0 All frontiers gathered New unique count 3927
+
+Loop BFS For Rank 0 Level 425 numCurrFrontier 3927 numVertices 1971281 my work 3927
+At level 425 Grid size 123 gpu numPrevFrontier 3927
+For my rank 0 At level 425 gpu Current frontier 3741
+Loop BFS For Ended Rank 0 Level 425
+For Loop Rank 0 Level 425 Total No of frontiers discovered 3741
+For Rank 0 All frontiers gathered New unique count 3741
+
+Loop BFS For Rank 0 Level 426 numCurrFrontier 3741 numVertices 1971281 my work 3741
+At level 426 Grid size 117 gpu numPrevFrontier 3741
+For my rank 0 At level 426 gpu Current frontier 3652
+Loop BFS For Ended Rank 0 Level 426
+For Loop Rank 0 Level 426 Total No of frontiers discovered 3652
+For Rank 0 All frontiers gathered New unique count 3652
+
+Loop BFS For Rank 0 Level 427 numCurrFrontier 3652 numVertices 1971281 my work 3652
+At level 427 Grid size 115 gpu numPrevFrontier 3652
+For my rank 0 At level 427 gpu Current frontier 3403
+Loop BFS For Ended Rank 0 Level 427
+For Loop Rank 0 Level 427 Total No of frontiers discovered 3403
+For Rank 0 All frontiers gathered New unique count 3403
+
+Loop BFS For Rank 0 Level 428 numCurrFrontier 3403 numVertices 1971281 my work 3403
+At level 428 Grid size 107 gpu numPrevFrontier 3403
+For my rank 0 At level 428 gpu Current frontier 3277
+Loop BFS For Ended Rank 0 Level 428
+For Loop Rank 0 Level 428 Total No of frontiers discovered 3277
+For Rank 0 All frontiers gathered New unique count 3277
+
+Loop BFS For Rank 0 Level 429 numCurrFrontier 3277 numVertices 1971281 my work 3277
+At level 429 Grid size 103 gpu numPrevFrontier 3277
+For my rank 0 At level 429 gpu Current frontier 3144
+Loop BFS For Ended Rank 0 Level 429
+For Loop Rank 0 Level 429 Total No of frontiers discovered 3144
+For Rank 0 All frontiers gathered New unique count 3144
+
+Loop BFS For Rank 0 Level 430 numCurrFrontier 3144 numVertices 1971281 my work 3144
+At level 430 Grid size 99 gpu numPrevFrontier 3144
+For my rank 0 At level 430 gpu Current frontier 3172
+Loop BFS For Ended Rank 0 Level 430
+For Loop Rank 0 Level 430 Total No of frontiers discovered 3172
+For Rank 0 All frontiers gathered New unique count 3172
+
+Loop BFS For Rank 0 Level 431 numCurrFrontier 3172 numVertices 1971281 my work 3172
+At level 431 Grid size 100 gpu numPrevFrontier 3172
+For my rank 0 At level 431 gpu Current frontier 3152
+Loop BFS For Ended Rank 0 Level 431
+For Loop Rank 0 Level 431 Total No of frontiers discovered 3152
+For Rank 0 All frontiers gathered New unique count 3152
+
+Loop BFS For Rank 0 Level 432 numCurrFrontier 3152 numVertices 1971281 my work 3152
+At level 432 Grid size 99 gpu numPrevFrontier 3152
+For my rank 0 At level 432 gpu Current frontier 3069
+Loop BFS For Ended Rank 0 Level 432
+For Loop Rank 0 Level 432 Total No of frontiers discovered 3069
+For Rank 0 All frontiers gathered New unique count 3069
+
+Loop BFS For Rank 0 Level 433 numCurrFrontier 3069 numVertices 1971281 my work 3069
+At level 433 Grid size 96 gpu numPrevFrontier 3069
+For my rank 0 At level 433 gpu Current frontier 3086
+Loop BFS For Ended Rank 0 Level 433
+For Loop Rank 0 Level 433 Total No of frontiers discovered 3086
+For Rank 0 All frontiers gathered New unique count 3086
+
+Loop BFS For Rank 0 Level 434 numCurrFrontier 3086 numVertices 1971281 my work 3086
+At level 434 Grid size 97 gpu numPrevFrontier 3086
+For my rank 0 At level 434 gpu Current frontier 3159
+Loop BFS For Ended Rank 0 Level 434
+For Loop Rank 0 Level 434 Total No of frontiers discovered 3159
+For Rank 0 All frontiers gathered New unique count 3159
+
+Loop BFS For Rank 0 Level 435 numCurrFrontier 3159 numVertices 1971281 my work 3159
+At level 435 Grid size 99 gpu numPrevFrontier 3159
+For my rank 0 At level 435 gpu Current frontier 3074
+Loop BFS For Ended Rank 0 Level 435
+For Loop Rank 0 Level 435 Total No of frontiers discovered 3074
+For Rank 0 All frontiers gathered New unique count 3074
+
+Loop BFS For Rank 0 Level 436 numCurrFrontier 3074 numVertices 1971281 my work 3074
+At level 436 Grid size 97 gpu numPrevFrontier 3074
+For my rank 0 At level 436 gpu Current frontier 3036
+Loop BFS For Ended Rank 0 Level 436
+For Loop Rank 0 Level 436 Total No of frontiers discovered 3036
+For Rank 0 All frontiers gathered New unique count 3036
+
+Loop BFS For Rank 0 Level 437 numCurrFrontier 3036 numVertices 1971281 my work 3036
+At level 437 Grid size 95 gpu numPrevFrontier 3036
+For my rank 0 At level 437 gpu Current frontier 3042
+Loop BFS For Ended Rank 0 Level 437
+For Loop Rank 0 Level 437 Total No of frontiers discovered 3042
+For Rank 0 All frontiers gathered New unique count 3042
+
+Loop BFS For Rank 0 Level 438 numCurrFrontier 3042 numVertices 1971281 my work 3042
+At level 438 Grid size 96 gpu numPrevFrontier 3042
+For my rank 0 At level 438 gpu Current frontier 3055
+Loop BFS For Ended Rank 0 Level 438
+For Loop Rank 0 Level 438 Total No of frontiers discovered 3055
+For Rank 0 All frontiers gathered New unique count 3055
+
+Loop BFS For Rank 0 Level 439 numCurrFrontier 3055 numVertices 1971281 my work 3055
+At level 439 Grid size 96 gpu numPrevFrontier 3055
+For my rank 0 At level 439 gpu Current frontier 2976
+Loop BFS For Ended Rank 0 Level 439
+For Loop Rank 0 Level 439 Total No of frontiers discovered 2976
+For Rank 0 All frontiers gathered New unique count 2976
+
+Loop BFS For Rank 0 Level 440 numCurrFrontier 2976 numVertices 1971281 my work 2976
+At level 440 Grid size 94 gpu numPrevFrontier 2976
+For my rank 0 At level 440 gpu Current frontier 2857
+Loop BFS For Ended Rank 0 Level 440
+For Loop Rank 0 Level 440 Total No of frontiers discovered 2857
+For Rank 0 All frontiers gathered New unique count 2857
+
+Loop BFS For Rank 0 Level 441 numCurrFrontier 2857 numVertices 1971281 my work 2857
+At level 441 Grid size 90 gpu numPrevFrontier 2857
+For my rank 0 At level 441 gpu Current frontier 2861
+Loop BFS For Ended Rank 0 Level 441
+For Loop Rank 0 Level 441 Total No of frontiers discovered 2861
+For Rank 0 All frontiers gathered New unique count 2861
+
+Loop BFS For Rank 0 Level 442 numCurrFrontier 2861 numVertices 1971281 my work 2861
+At level 442 Grid size 90 gpu numPrevFrontier 2861
+For my rank 0 At level 442 gpu Current frontier 2782
+Loop BFS For Ended Rank 0 Level 442
+For Loop Rank 0 Level 442 Total No of frontiers discovered 2782
+For Rank 0 All frontiers gathered New unique count 2782
+
+Loop BFS For Rank 0 Level 443 numCurrFrontier 2782 numVertices 1971281 my work 2782
+At level 443 Grid size 87 gpu numPrevFrontier 2782
+For my rank 0 At level 443 gpu Current frontier 2730
+Loop BFS For Ended Rank 0 Level 443
+For Loop Rank 0 Level 443 Total No of frontiers discovered 2730
+For Rank 0 All frontiers gathered New unique count 2730
+
+Loop BFS For Rank 0 Level 444 numCurrFrontier 2730 numVertices 1971281 my work 2730
+At level 444 Grid size 86 gpu numPrevFrontier 2730
+For my rank 0 At level 444 gpu Current frontier 2701
+Loop BFS For Ended Rank 0 Level 444
+For Loop Rank 0 Level 444 Total No of frontiers discovered 2701
+For Rank 0 All frontiers gathered New unique count 2701
+
+Loop BFS For Rank 0 Level 445 numCurrFrontier 2701 numVertices 1971281 my work 2701
+At level 445 Grid size 85 gpu numPrevFrontier 2701
+For my rank 0 At level 445 gpu Current frontier 2573
+Loop BFS For Ended Rank 0 Level 445
+For Loop Rank 0 Level 445 Total No of frontiers discovered 2573
+For Rank 0 All frontiers gathered New unique count 2573
+
+Loop BFS For Rank 0 Level 446 numCurrFrontier 2573 numVertices 1971281 my work 2573
+At level 446 Grid size 81 gpu numPrevFrontier 2573
+For my rank 0 At level 446 gpu Current frontier 2489
+Loop BFS For Ended Rank 0 Level 446
+For Loop Rank 0 Level 446 Total No of frontiers discovered 2489
+For Rank 0 All frontiers gathered New unique count 2489
+
+Loop BFS For Rank 0 Level 447 numCurrFrontier 2489 numVertices 1971281 my work 2489
+At level 447 Grid size 78 gpu numPrevFrontier 2489
+For my rank 0 At level 447 gpu Current frontier 2527
+Loop BFS For Ended Rank 0 Level 447
+For Loop Rank 0 Level 447 Total No of frontiers discovered 2527
+For Rank 0 All frontiers gathered New unique count 2527
+
+Loop BFS For Rank 0 Level 448 numCurrFrontier 2527 numVertices 1971281 my work 2527
+At level 448 Grid size 79 gpu numPrevFrontier 2527
+For my rank 0 At level 448 gpu Current frontier 2424
+Loop BFS For Ended Rank 0 Level 448
+For Loop Rank 0 Level 448 Total No of frontiers discovered 2424
+For Rank 0 All frontiers gathered New unique count 2424
+
+Loop BFS For Rank 0 Level 449 numCurrFrontier 2424 numVertices 1971281 my work 2424
+At level 449 Grid size 76 gpu numPrevFrontier 2424
+For my rank 0 At level 449 gpu Current frontier 2340
+Loop BFS For Ended Rank 0 Level 449
+For Loop Rank 0 Level 449 Total No of frontiers discovered 2340
+For Rank 0 All frontiers gathered New unique count 2340
+
+Loop BFS For Rank 0 Level 450 numCurrFrontier 2340 numVertices 1971281 my work 2340
+At level 450 Grid size 74 gpu numPrevFrontier 2340
+For my rank 0 At level 450 gpu Current frontier 2357
+Loop BFS For Ended Rank 0 Level 450
+For Loop Rank 0 Level 450 Total No of frontiers discovered 2357
+For Rank 0 All frontiers gathered New unique count 2357
+
+Loop BFS For Rank 0 Level 451 numCurrFrontier 2357 numVertices 1971281 my work 2357
+At level 451 Grid size 74 gpu numPrevFrontier 2357
+For my rank 0 At level 451 gpu Current frontier 2341
+Loop BFS For Ended Rank 0 Level 451
+For Loop Rank 0 Level 451 Total No of frontiers discovered 2341
+For Rank 0 All frontiers gathered New unique count 2341
+
+Loop BFS For Rank 0 Level 452 numCurrFrontier 2341 numVertices 1971281 my work 2341
+At level 452 Grid size 74 gpu numPrevFrontier 2341
+For my rank 0 At level 452 gpu Current frontier 2329
+Loop BFS For Ended Rank 0 Level 452
+For Loop Rank 0 Level 452 Total No of frontiers discovered 2329
+For Rank 0 All frontiers gathered New unique count 2329
+
+Loop BFS For Rank 0 Level 453 numCurrFrontier 2329 numVertices 1971281 my work 2329
+At level 453 Grid size 73 gpu numPrevFrontier 2329
+For my rank 0 At level 453 gpu Current frontier 2264
+Loop BFS For Ended Rank 0 Level 453
+For Loop Rank 0 Level 453 Total No of frontiers discovered 2264
+For Rank 0 All frontiers gathered New unique count 2264
+
+Loop BFS For Rank 0 Level 454 numCurrFrontier 2264 numVertices 1971281 my work 2264
+At level 454 Grid size 71 gpu numPrevFrontier 2264
+For my rank 0 At level 454 gpu Current frontier 2213
+Loop BFS For Ended Rank 0 Level 454
+For Loop Rank 0 Level 454 Total No of frontiers discovered 2213
+For Rank 0 All frontiers gathered New unique count 2213
+
+Loop BFS For Rank 0 Level 455 numCurrFrontier 2213 numVertices 1971281 my work 2213
+At level 455 Grid size 70 gpu numPrevFrontier 2213
+For my rank 0 At level 455 gpu Current frontier 2081
+Loop BFS For Ended Rank 0 Level 455
+For Loop Rank 0 Level 455 Total No of frontiers discovered 2081
+For Rank 0 All frontiers gathered New unique count 2081
+
+Loop BFS For Rank 0 Level 456 numCurrFrontier 2081 numVertices 1971281 my work 2081
+At level 456 Grid size 66 gpu numPrevFrontier 2081
+For my rank 0 At level 456 gpu Current frontier 1962
+Loop BFS For Ended Rank 0 Level 456
+For Loop Rank 0 Level 456 Total No of frontiers discovered 1962
+For Rank 0 All frontiers gathered New unique count 1962
+
+Loop BFS For Rank 0 Level 457 numCurrFrontier 1962 numVertices 1971281 my work 1962
+At level 457 Grid size 62 gpu numPrevFrontier 1962
+For my rank 0 At level 457 gpu Current frontier 1839
+Loop BFS For Ended Rank 0 Level 457
+For Loop Rank 0 Level 457 Total No of frontiers discovered 1839
+For Rank 0 All frontiers gathered New unique count 1839
+
+Loop BFS For Rank 0 Level 458 numCurrFrontier 1839 numVertices 1971281 my work 1839
+At level 458 Grid size 58 gpu numPrevFrontier 1839
+For my rank 0 At level 458 gpu Current frontier 1793
+Loop BFS For Ended Rank 0 Level 458
+For Loop Rank 0 Level 458 Total No of frontiers discovered 1793
+For Rank 0 All frontiers gathered New unique count 1793
+
+Loop BFS For Rank 0 Level 459 numCurrFrontier 1793 numVertices 1971281 my work 1793
+At level 459 Grid size 57 gpu numPrevFrontier 1793
+For my rank 0 At level 459 gpu Current frontier 1841
+Loop BFS For Ended Rank 0 Level 459
+For Loop Rank 0 Level 459 Total No of frontiers discovered 1841
+For Rank 0 All frontiers gathered New unique count 1841
+
+Loop BFS For Rank 0 Level 460 numCurrFrontier 1841 numVertices 1971281 my work 1841
+At level 460 Grid size 58 gpu numPrevFrontier 1841
+For my rank 0 At level 460 gpu Current frontier 1778
+Loop BFS For Ended Rank 0 Level 460
+For Loop Rank 0 Level 460 Total No of frontiers discovered 1778
+For Rank 0 All frontiers gathered New unique count 1778
+
+Loop BFS For Rank 0 Level 461 numCurrFrontier 1778 numVertices 1971281 my work 1778
+At level 461 Grid size 56 gpu numPrevFrontier 1778
+For my rank 0 At level 461 gpu Current frontier 1731
+Loop BFS For Ended Rank 0 Level 461
+For Loop Rank 0 Level 461 Total No of frontiers discovered 1731
+For Rank 0 All frontiers gathered New unique count 1731
+
+Loop BFS For Rank 0 Level 462 numCurrFrontier 1731 numVertices 1971281 my work 1731
+At level 462 Grid size 55 gpu numPrevFrontier 1731
+For my rank 0 At level 462 gpu Current frontier 1641
+Loop BFS For Ended Rank 0 Level 462
+For Loop Rank 0 Level 462 Total No of frontiers discovered 1641
+For Rank 0 All frontiers gathered New unique count 1641
+
+Loop BFS For Rank 0 Level 463 numCurrFrontier 1641 numVertices 1971281 my work 1641
+At level 463 Grid size 52 gpu numPrevFrontier 1641
+For my rank 0 At level 463 gpu Current frontier 1625
+Loop BFS For Ended Rank 0 Level 463
+For Loop Rank 0 Level 463 Total No of frontiers discovered 1625
+For Rank 0 All frontiers gathered New unique count 1625
+
+Loop BFS For Rank 0 Level 464 numCurrFrontier 1625 numVertices 1971281 my work 1625
+At level 464 Grid size 51 gpu numPrevFrontier 1625
+For my rank 0 At level 464 gpu Current frontier 1605
+Loop BFS For Ended Rank 0 Level 464
+For Loop Rank 0 Level 464 Total No of frontiers discovered 1605
+For Rank 0 All frontiers gathered New unique count 1605
+
+Loop BFS For Rank 0 Level 465 numCurrFrontier 1605 numVertices 1971281 my work 1605
+At level 465 Grid size 51 gpu numPrevFrontier 1605
+For my rank 0 At level 465 gpu Current frontier 1559
+Loop BFS For Ended Rank 0 Level 465
+For Loop Rank 0 Level 465 Total No of frontiers discovered 1559
+For Rank 0 All frontiers gathered New unique count 1559
+
+Loop BFS For Rank 0 Level 466 numCurrFrontier 1559 numVertices 1971281 my work 1559
+At level 466 Grid size 49 gpu numPrevFrontier 1559
+For my rank 0 At level 466 gpu Current frontier 1545
+Loop BFS For Ended Rank 0 Level 466
+For Loop Rank 0 Level 466 Total No of frontiers discovered 1545
+For Rank 0 All frontiers gathered New unique count 1545
+
+Loop BFS For Rank 0 Level 467 numCurrFrontier 1545 numVertices 1971281 my work 1545
+At level 467 Grid size 49 gpu numPrevFrontier 1545
+For my rank 0 At level 467 gpu Current frontier 1534
+Loop BFS For Ended Rank 0 Level 467
+For Loop Rank 0 Level 467 Total No of frontiers discovered 1534
+For Rank 0 All frontiers gathered New unique count 1534
+
+Loop BFS For Rank 0 Level 468 numCurrFrontier 1534 numVertices 1971281 my work 1534
+At level 468 Grid size 48 gpu numPrevFrontier 1534
+For my rank 0 At level 468 gpu Current frontier 1528
+Loop BFS For Ended Rank 0 Level 468
+For Loop Rank 0 Level 468 Total No of frontiers discovered 1528
+For Rank 0 All frontiers gathered New unique count 1528
+
+Loop BFS For Rank 0 Level 469 numCurrFrontier 1528 numVertices 1971281 my work 1528
+At level 469 Grid size 48 gpu numPrevFrontier 1528
+For my rank 0 At level 469 gpu Current frontier 1521
+Loop BFS For Ended Rank 0 Level 469
+For Loop Rank 0 Level 469 Total No of frontiers discovered 1521
+For Rank 0 All frontiers gathered New unique count 1521
+
+Loop BFS For Rank 0 Level 470 numCurrFrontier 1521 numVertices 1971281 my work 1521
+At level 470 Grid size 48 gpu numPrevFrontier 1521
+For my rank 0 At level 470 gpu Current frontier 1545
+Loop BFS For Ended Rank 0 Level 470
+For Loop Rank 0 Level 470 Total No of frontiers discovered 1545
+For Rank 0 All frontiers gathered New unique count 1545
+
+Loop BFS For Rank 0 Level 471 numCurrFrontier 1545 numVertices 1971281 my work 1545
+At level 471 Grid size 49 gpu numPrevFrontier 1545
+For my rank 0 At level 471 gpu Current frontier 1556
+Loop BFS For Ended Rank 0 Level 471
+For Loop Rank 0 Level 471 Total No of frontiers discovered 1556
+For Rank 0 All frontiers gathered New unique count 1556
+
+Loop BFS For Rank 0 Level 472 numCurrFrontier 1556 numVertices 1971281 my work 1556
+At level 472 Grid size 49 gpu numPrevFrontier 1556
+For my rank 0 At level 472 gpu Current frontier 1575
+Loop BFS For Ended Rank 0 Level 472
+For Loop Rank 0 Level 472 Total No of frontiers discovered 1575
+For Rank 0 All frontiers gathered New unique count 1575
+
+Loop BFS For Rank 0 Level 473 numCurrFrontier 1575 numVertices 1971281 my work 1575
+At level 473 Grid size 50 gpu numPrevFrontier 1575
+For my rank 0 At level 473 gpu Current frontier 1653
+Loop BFS For Ended Rank 0 Level 473
+For Loop Rank 0 Level 473 Total No of frontiers discovered 1653
+For Rank 0 All frontiers gathered New unique count 1653
+
+Loop BFS For Rank 0 Level 474 numCurrFrontier 1653 numVertices 1971281 my work 1653
+At level 474 Grid size 52 gpu numPrevFrontier 1653
+For my rank 0 At level 474 gpu Current frontier 1681
+Loop BFS For Ended Rank 0 Level 474
+For Loop Rank 0 Level 474 Total No of frontiers discovered 1681
+For Rank 0 All frontiers gathered New unique count 1681
+
+Loop BFS For Rank 0 Level 475 numCurrFrontier 1681 numVertices 1971281 my work 1681
+At level 475 Grid size 53 gpu numPrevFrontier 1681
+For my rank 0 At level 475 gpu Current frontier 1750
+Loop BFS For Ended Rank 0 Level 475
+For Loop Rank 0 Level 475 Total No of frontiers discovered 1750
+For Rank 0 All frontiers gathered New unique count 1750
+
+Loop BFS For Rank 0 Level 476 numCurrFrontier 1750 numVertices 1971281 my work 1750
+At level 476 Grid size 55 gpu numPrevFrontier 1750
+For my rank 0 At level 476 gpu Current frontier 1823
+Loop BFS For Ended Rank 0 Level 476
+For Loop Rank 0 Level 476 Total No of frontiers discovered 1823
+For Rank 0 All frontiers gathered New unique count 1823
+
+Loop BFS For Rank 0 Level 477 numCurrFrontier 1823 numVertices 1971281 my work 1823
+At level 477 Grid size 57 gpu numPrevFrontier 1823
+For my rank 0 At level 477 gpu Current frontier 1859
+Loop BFS For Ended Rank 0 Level 477
+For Loop Rank 0 Level 477 Total No of frontiers discovered 1859
+For Rank 0 All frontiers gathered New unique count 1859
+
+Loop BFS For Rank 0 Level 478 numCurrFrontier 1859 numVertices 1971281 my work 1859
+At level 478 Grid size 59 gpu numPrevFrontier 1859
+For my rank 0 At level 478 gpu Current frontier 1771
+Loop BFS For Ended Rank 0 Level 478
+For Loop Rank 0 Level 478 Total No of frontiers discovered 1771
+For Rank 0 All frontiers gathered New unique count 1771
+
+Loop BFS For Rank 0 Level 479 numCurrFrontier 1771 numVertices 1971281 my work 1771
+At level 479 Grid size 56 gpu numPrevFrontier 1771
+For my rank 0 At level 479 gpu Current frontier 1782
+Loop BFS For Ended Rank 0 Level 479
+For Loop Rank 0 Level 479 Total No of frontiers discovered 1782
+For Rank 0 All frontiers gathered New unique count 1782
+
+Loop BFS For Rank 0 Level 480 numCurrFrontier 1782 numVertices 1971281 my work 1782
+At level 480 Grid size 56 gpu numPrevFrontier 1782
+For my rank 0 At level 480 gpu Current frontier 1763
+Loop BFS For Ended Rank 0 Level 480
+For Loop Rank 0 Level 480 Total No of frontiers discovered 1763
+For Rank 0 All frontiers gathered New unique count 1763
+
+Loop BFS For Rank 0 Level 481 numCurrFrontier 1763 numVertices 1971281 my work 1763
+At level 481 Grid size 56 gpu numPrevFrontier 1763
+For my rank 0 At level 481 gpu Current frontier 1759
+Loop BFS For Ended Rank 0 Level 481
+For Loop Rank 0 Level 481 Total No of frontiers discovered 1759
+For Rank 0 All frontiers gathered New unique count 1759
+
+Loop BFS For Rank 0 Level 482 numCurrFrontier 1759 numVertices 1971281 my work 1759
+At level 482 Grid size 55 gpu numPrevFrontier 1759
+For my rank 0 At level 482 gpu Current frontier 1775
+Loop BFS For Ended Rank 0 Level 482
+For Loop Rank 0 Level 482 Total No of frontiers discovered 1775
+For Rank 0 All frontiers gathered New unique count 1775
+
+Loop BFS For Rank 0 Level 483 numCurrFrontier 1775 numVertices 1971281 my work 1775
+At level 483 Grid size 56 gpu numPrevFrontier 1775
+For my rank 0 At level 483 gpu Current frontier 1817
+Loop BFS For Ended Rank 0 Level 483
+For Loop Rank 0 Level 483 Total No of frontiers discovered 1817
+For Rank 0 All frontiers gathered New unique count 1817
+
+Loop BFS For Rank 0 Level 484 numCurrFrontier 1817 numVertices 1971281 my work 1817
+At level 484 Grid size 57 gpu numPrevFrontier 1817
+For my rank 0 At level 484 gpu Current frontier 1923
+Loop BFS For Ended Rank 0 Level 484
+For Loop Rank 0 Level 484 Total No of frontiers discovered 1923
+For Rank 0 All frontiers gathered New unique count 1923
+
+Loop BFS For Rank 0 Level 485 numCurrFrontier 1923 numVertices 1971281 my work 1923
+At level 485 Grid size 61 gpu numPrevFrontier 1923
+For my rank 0 At level 485 gpu Current frontier 1987
+Loop BFS For Ended Rank 0 Level 485
+For Loop Rank 0 Level 485 Total No of frontiers discovered 1987
+For Rank 0 All frontiers gathered New unique count 1987
+
+Loop BFS For Rank 0 Level 486 numCurrFrontier 1987 numVertices 1971281 my work 1987
+At level 486 Grid size 63 gpu numPrevFrontier 1987
+For my rank 0 At level 486 gpu Current frontier 2079
+Loop BFS For Ended Rank 0 Level 486
+For Loop Rank 0 Level 486 Total No of frontiers discovered 2079
+For Rank 0 All frontiers gathered New unique count 2079
+
+Loop BFS For Rank 0 Level 487 numCurrFrontier 2079 numVertices 1971281 my work 2079
+At level 487 Grid size 65 gpu numPrevFrontier 2079
+For my rank 0 At level 487 gpu Current frontier 2123
+Loop BFS For Ended Rank 0 Level 487
+For Loop Rank 0 Level 487 Total No of frontiers discovered 2123
+For Rank 0 All frontiers gathered New unique count 2123
+
+Loop BFS For Rank 0 Level 488 numCurrFrontier 2123 numVertices 1971281 my work 2123
+At level 488 Grid size 67 gpu numPrevFrontier 2123
+For my rank 0 At level 488 gpu Current frontier 2138
+Loop BFS For Ended Rank 0 Level 488
+For Loop Rank 0 Level 488 Total No of frontiers discovered 2138
+For Rank 0 All frontiers gathered New unique count 2138
+
+Loop BFS For Rank 0 Level 489 numCurrFrontier 2138 numVertices 1971281 my work 2138
+At level 489 Grid size 67 gpu numPrevFrontier 2138
+For my rank 0 At level 489 gpu Current frontier 2135
+Loop BFS For Ended Rank 0 Level 489
+For Loop Rank 0 Level 489 Total No of frontiers discovered 2135
+For Rank 0 All frontiers gathered New unique count 2135
+
+Loop BFS For Rank 0 Level 490 numCurrFrontier 2135 numVertices 1971281 my work 2135
+At level 490 Grid size 67 gpu numPrevFrontier 2135
+For my rank 0 At level 490 gpu Current frontier 2132
+Loop BFS For Ended Rank 0 Level 490
+For Loop Rank 0 Level 490 Total No of frontiers discovered 2132
+For Rank 0 All frontiers gathered New unique count 2132
+
+Loop BFS For Rank 0 Level 491 numCurrFrontier 2132 numVertices 1971281 my work 2132
+At level 491 Grid size 67 gpu numPrevFrontier 2132
+For my rank 0 At level 491 gpu Current frontier 2152
+Loop BFS For Ended Rank 0 Level 491
+For Loop Rank 0 Level 491 Total No of frontiers discovered 2152
+For Rank 0 All frontiers gathered New unique count 2152
+
+Loop BFS For Rank 0 Level 492 numCurrFrontier 2152 numVertices 1971281 my work 2152
+At level 492 Grid size 68 gpu numPrevFrontier 2152
+For my rank 0 At level 492 gpu Current frontier 2245
+Loop BFS For Ended Rank 0 Level 492
+For Loop Rank 0 Level 492 Total No of frontiers discovered 2245
+For Rank 0 All frontiers gathered New unique count 2245
+
+Loop BFS For Rank 0 Level 493 numCurrFrontier 2245 numVertices 1971281 my work 2245
+At level 493 Grid size 71 gpu numPrevFrontier 2245
+For my rank 0 At level 493 gpu Current frontier 2354
+Loop BFS For Ended Rank 0 Level 493
+For Loop Rank 0 Level 493 Total No of frontiers discovered 2354
+For Rank 0 All frontiers gathered New unique count 2354
+
+Loop BFS For Rank 0 Level 494 numCurrFrontier 2354 numVertices 1971281 my work 2354
+At level 494 Grid size 74 gpu numPrevFrontier 2354
+For my rank 0 At level 494 gpu Current frontier 2362
+Loop BFS For Ended Rank 0 Level 494
+For Loop Rank 0 Level 494 Total No of frontiers discovered 2362
+For Rank 0 All frontiers gathered New unique count 2362
+
+Loop BFS For Rank 0 Level 495 numCurrFrontier 2362 numVertices 1971281 my work 2362
+At level 495 Grid size 74 gpu numPrevFrontier 2362
+For my rank 0 At level 495 gpu Current frontier 2255
+Loop BFS For Ended Rank 0 Level 495
+For Loop Rank 0 Level 495 Total No of frontiers discovered 2255
+For Rank 0 All frontiers gathered New unique count 2255
+
+Loop BFS For Rank 0 Level 496 numCurrFrontier 2255 numVertices 1971281 my work 2255
+At level 496 Grid size 71 gpu numPrevFrontier 2255
+For my rank 0 At level 496 gpu Current frontier 2191
+Loop BFS For Ended Rank 0 Level 496
+For Loop Rank 0 Level 496 Total No of frontiers discovered 2191
+For Rank 0 All frontiers gathered New unique count 2191
+
+Loop BFS For Rank 0 Level 497 numCurrFrontier 2191 numVertices 1971281 my work 2191
+At level 497 Grid size 69 gpu numPrevFrontier 2191
+For my rank 0 At level 497 gpu Current frontier 2087
+Loop BFS For Ended Rank 0 Level 497
+For Loop Rank 0 Level 497 Total No of frontiers discovered 2087
+For Rank 0 All frontiers gathered New unique count 2087
+
+Loop BFS For Rank 0 Level 498 numCurrFrontier 2087 numVertices 1971281 my work 2087
+At level 498 Grid size 66 gpu numPrevFrontier 2087
+For my rank 0 At level 498 gpu Current frontier 1916
+Loop BFS For Ended Rank 0 Level 498
+For Loop Rank 0 Level 498 Total No of frontiers discovered 1916
+For Rank 0 All frontiers gathered New unique count 1916
+
+Loop BFS For Rank 0 Level 499 numCurrFrontier 1916 numVertices 1971281 my work 1916
+At level 499 Grid size 60 gpu numPrevFrontier 1916
+For my rank 0 At level 499 gpu Current frontier 1748
+Loop BFS For Ended Rank 0 Level 499
+For Loop Rank 0 Level 499 Total No of frontiers discovered 1748
+For Rank 0 All frontiers gathered New unique count 1748
+
+Loop BFS For Rank 0 Level 500 numCurrFrontier 1748 numVertices 1971281 my work 1748
+At level 500 Grid size 55 gpu numPrevFrontier 1748
+For my rank 0 At level 500 gpu Current frontier 1639
+Loop BFS For Ended Rank 0 Level 500
+For Loop Rank 0 Level 500 Total No of frontiers discovered 1639
+For Rank 0 All frontiers gathered New unique count 1639
+
+Loop BFS For Rank 0 Level 501 numCurrFrontier 1639 numVertices 1971281 my work 1639
+At level 501 Grid size 52 gpu numPrevFrontier 1639
+For my rank 0 At level 501 gpu Current frontier 1570
+Loop BFS For Ended Rank 0 Level 501
+For Loop Rank 0 Level 501 Total No of frontiers discovered 1570
+For Rank 0 All frontiers gathered New unique count 1570
+
+Loop BFS For Rank 0 Level 502 numCurrFrontier 1570 numVertices 1971281 my work 1570
+At level 502 Grid size 50 gpu numPrevFrontier 1570
+For my rank 0 At level 502 gpu Current frontier 1563
+Loop BFS For Ended Rank 0 Level 502
+For Loop Rank 0 Level 502 Total No of frontiers discovered 1563
+For Rank 0 All frontiers gathered New unique count 1563
+
+Loop BFS For Rank 0 Level 503 numCurrFrontier 1563 numVertices 1971281 my work 1563
+At level 503 Grid size 49 gpu numPrevFrontier 1563
+For my rank 0 At level 503 gpu Current frontier 1504
+Loop BFS For Ended Rank 0 Level 503
+For Loop Rank 0 Level 503 Total No of frontiers discovered 1504
+For Rank 0 All frontiers gathered New unique count 1504
+
+Loop BFS For Rank 0 Level 504 numCurrFrontier 1504 numVertices 1971281 my work 1504
+At level 504 Grid size 48 gpu numPrevFrontier 1504
+For my rank 0 At level 504 gpu Current frontier 1406
+Loop BFS For Ended Rank 0 Level 504
+For Loop Rank 0 Level 504 Total No of frontiers discovered 1406
+For Rank 0 All frontiers gathered New unique count 1406
+
+Loop BFS For Rank 0 Level 505 numCurrFrontier 1406 numVertices 1971281 my work 1406
+At level 505 Grid size 44 gpu numPrevFrontier 1406
+For my rank 0 At level 505 gpu Current frontier 1326
+Loop BFS For Ended Rank 0 Level 505
+For Loop Rank 0 Level 505 Total No of frontiers discovered 1326
+For Rank 0 All frontiers gathered New unique count 1326
+
+Loop BFS For Rank 0 Level 506 numCurrFrontier 1326 numVertices 1971281 my work 1326
+At level 506 Grid size 42 gpu numPrevFrontier 1326
+For my rank 0 At level 506 gpu Current frontier 1236
+Loop BFS For Ended Rank 0 Level 506
+For Loop Rank 0 Level 506 Total No of frontiers discovered 1236
+For Rank 0 All frontiers gathered New unique count 1236
+
+Loop BFS For Rank 0 Level 507 numCurrFrontier 1236 numVertices 1971281 my work 1236
+At level 507 Grid size 39 gpu numPrevFrontier 1236
+For my rank 0 At level 507 gpu Current frontier 1201
+Loop BFS For Ended Rank 0 Level 507
+For Loop Rank 0 Level 507 Total No of frontiers discovered 1201
+For Rank 0 All frontiers gathered New unique count 1201
+
+Loop BFS For Rank 0 Level 508 numCurrFrontier 1201 numVertices 1971281 my work 1201
+At level 508 Grid size 38 gpu numPrevFrontier 1201
+For my rank 0 At level 508 gpu Current frontier 1174
+Loop BFS For Ended Rank 0 Level 508
+For Loop Rank 0 Level 508 Total No of frontiers discovered 1174
+For Rank 0 All frontiers gathered New unique count 1174
+
+Loop BFS For Rank 0 Level 509 numCurrFrontier 1174 numVertices 1971281 my work 1174
+At level 509 Grid size 37 gpu numPrevFrontier 1174
+For my rank 0 At level 509 gpu Current frontier 1116
+Loop BFS For Ended Rank 0 Level 509
+For Loop Rank 0 Level 509 Total No of frontiers discovered 1116
+For Rank 0 All frontiers gathered New unique count 1116
+
+Loop BFS For Rank 0 Level 510 numCurrFrontier 1116 numVertices 1971281 my work 1116
+At level 510 Grid size 35 gpu numPrevFrontier 1116
+For my rank 0 At level 510 gpu Current frontier 1061
+Loop BFS For Ended Rank 0 Level 510
+For Loop Rank 0 Level 510 Total No of frontiers discovered 1061
+For Rank 0 All frontiers gathered New unique count 1061
+
+Loop BFS For Rank 0 Level 511 numCurrFrontier 1061 numVertices 1971281 my work 1061
+At level 511 Grid size 34 gpu numPrevFrontier 1061
+For my rank 0 At level 511 gpu Current frontier 977
+Loop BFS For Ended Rank 0 Level 511
+For Loop Rank 0 Level 511 Total No of frontiers discovered 977
+For Rank 0 All frontiers gathered New unique count 977
+
+Entered last loop to complete BFS
+mpi time: rank=0: 1 procs: 616 msecs
+For Rank 0frontier search completed
+ Number of reachable vertices 1957027Max level554
+ Number of reachable vertices by CPU 1957027Max level554
+cpu time: rank=0: 1 procs: 107 msecs
